@@ -1,0 +1,577 @@
+<?xml version="1.0"?>
+<ROWSET>
+<ROW>
+<Title>2011 SAIPE Program Estimates *</Title>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+<FIELD6></FIELD6>
+<FIELD7></FIELD7>
+<FIELD8></FIELD8>
+<FIELD9></FIELD9>
+<FIELD10></FIELD10>
+<FIELD11></FIELD11>
+<FIELD12></FIELD12>
+</ROW>
+<ROW>
+<Title>Poverty Rate, All Ages</Title>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+<FIELD6></FIELD6>
+<FIELD7></FIELD7>
+<FIELD8></FIELD8>
+<FIELD9></FIELD9>
+<FIELD10></FIELD10>
+<FIELD11></FIELD11>
+<FIELD12></FIELD12>
+</ROW>
+<ROW>
+<Title>Counties in Metropolitan Statistical Areas</Title>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+<FIELD6></FIELD6>
+<FIELD7></FIELD7>
+<FIELD8></FIELD8>
+<FIELD9></FIELD9>
+<FIELD10></FIELD10>
+<FIELD11></FIELD11>
+<FIELD12></FIELD12>
+</ROW>
+<ROW>
+<Title>Content</Title>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+<FIELD6></FIELD6>
+<FIELD7></FIELD7>
+<FIELD8></FIELD8>
+<FIELD9></FIELD9>
+<FIELD10></FIELD10>
+<FIELD11></FIELD11>
+<FIELD12></FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2>30 Lowest SAIPE County Estimates</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+<FIELD6></FIELD6>
+<FIELD7></FIELD7>
+<FIELD8>30 Highest SAIPE County Estimates</FIELD8>
+<FIELD9></FIELD9>
+<FIELD10></FIELD10>
+<FIELD11></FIELD11>
+<FIELD12></FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2>From the 1100 Counties in Metropolitan Statistical Areas</FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+<FIELD6></FIELD6>
+<FIELD7></FIELD7>
+<FIELD8>From the 1100 Counties in Metropolitan Statistical Areas</FIELD8>
+<FIELD9></FIELD9>
+<FIELD10></FIELD10>
+<FIELD11></FIELD11>
+<FIELD12></FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2>County Name                      </FIELD2>
+<FIELD3>Population </FIELD3>
+<FIELD4>Poverty Rate, All Ages</FIELD4>
+<FIELD5>90% C.I. Lower Bound</FIELD5>
+<FIELD6>90% C.I. Upper Bound</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8>County Name                      </FIELD8>
+<FIELD9>Population </FIELD9>
+<FIELD10>Poverty Rate, All Ages</FIELD10>
+<FIELD11>90% C.I. Lower Bound</FIELD11>
+<FIELD12>90% C.I. Upper Bound</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Falls Church city, VA                            </FIELD2>
+<FIELD3>12,751</FIELD3>
+<FIELD4>2.9</FIELD4>
+<FIELD5>2.2</FIELD5>
+<FIELD6>3.6</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Clarke County, GA                                </FIELD8>
+<FIELD9>117,344</FIELD9>
+<FIELD10>39.2</FIELD10>
+<FIELD11>36.7</FIELD11>
+<FIELD12>41.7</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Loudoun County, VA                               </FIELD2>
+<FIELD3>325,405</FIELD3>
+<FIELD4>4.0</FIELD4>
+<FIELD5>3.3</FIELD5>
+<FIELD6>4.7</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Hidalgo County, TX                               </FIELD8>
+<FIELD9>797,810</FIELD9>
+<FIELD10>37.3</FIELD10>
+<FIELD11>35.1</FIELD11>
+<FIELD12>39.5</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Douglas County, CO                               </FIELD2>
+<FIELD3>292,167</FIELD3>
+<FIELD4>4.3</FIELD4>
+<FIELD5>3.6</FIELD5>
+<FIELD6>5.0</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Terrell County, GA                               </FIELD8>
+<FIELD9>9,319</FIELD9>
+<FIELD10>36.3</FIELD10>
+<FIELD11>30.5</FIELD11>
+<FIELD12>42.1</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Hunterdon County, NJ                             </FIELD2>
+<FIELD3>128,038</FIELD3>
+<FIELD4>4.3</FIELD4>
+<FIELD5>3.4</FIELD5>
+<FIELD6>5.2</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Greene County, AL                                </FIELD8>
+<FIELD9>8,921</FIELD9>
+<FIELD10>35.1</FIELD10>
+<FIELD11>28.1</FIELD11>
+<FIELD12>42.1</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Delaware County, OH                              </FIELD2>
+<FIELD3>178,341</FIELD3>
+<FIELD4>4.5</FIELD4>
+<FIELD5>3.5</FIELD5>
+<FIELD6>5.5</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Cameron County, TX                               </FIELD8>
+<FIELD9>414,123</FIELD9>
+<FIELD10>33.7</FIELD10>
+<FIELD11>31.5</FIELD11>
+<FIELD12>35.9</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Hamilton County, IN                              </FIELD2>
+<FIELD3>282,810</FIELD3>
+<FIELD4>4.6</FIELD4>
+<FIELD5>3.7</FIELD5>
+<FIELD6>5.5</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Webb County, TX                                  </FIELD8>
+<FIELD9>256,496</FIELD9>
+<FIELD10>32.1</FIELD10>
+<FIELD11>28.8</FIELD11>
+<FIELD12>35.4</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Lincoln County, SD                               </FIELD2>
+<FIELD3>46,793</FIELD3>
+<FIELD4>4.9</FIELD4>
+<FIELD5>3.9</FIELD5>
+<FIELD6>5.9</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Alexander County, IL                             </FIELD8>
+<FIELD9>8,036</FIELD9>
+<FIELD10>31.3</FIELD10>
+<FIELD11>25.1</FIELD11>
+<FIELD12>37.5</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Morris County, NJ                                </FIELD2>
+<FIELD3>494,976</FIELD3>
+<FIELD4>5.0</FIELD4>
+<FIELD5>4.1</FIELD5>
+<FIELD6>5.9</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Burke County, GA                                 </FIELD8>
+<FIELD9>23,504</FIELD9>
+<FIELD10>31.0</FIELD10>
+<FIELD11>25.6</FIELD11>
+<FIELD12>36.4</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Kendall County, IL                               </FIELD2>
+<FIELD3>116,631</FIELD3>
+<FIELD4>5.1</FIELD4>
+<FIELD5>4.1</FIELD5>
+<FIELD6>6.1</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Dougherty County, GA                             </FIELD8>
+<FIELD9>94,788</FIELD9>
+<FIELD10>31.0</FIELD10>
+<FIELD11>27.6</FIELD11>
+<FIELD12>34.4</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Somerset County, NJ                              </FIELD2>
+<FIELD3>324,893</FIELD3>
+<FIELD4>5.2</FIELD4>
+<FIELD5>4.2</FIELD5>
+<FIELD6>6.2</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Bronx County, NY                                 </FIELD8>
+<FIELD9>1,392,002</FIELD9>
+<FIELD10>30.3</FIELD10>
+<FIELD11>29.1</FIELD11>
+<FIELD12>31.5</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Monroe County, IL                                </FIELD2>
+<FIELD3>33,306</FIELD3>
+<FIELD4>5.2</FIELD4>
+<FIELD5>4.1</FIELD5>
+<FIELD6>6.3</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Tunica County, MS                                </FIELD8>
+<FIELD9>10,628</FIELD9>
+<FIELD10>30.0</FIELD10>
+<FIELD11>23.5</FIELD11>
+<FIELD12>36.5</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Poquoson city, VA                                </FIELD2>
+<FIELD3>12,000</FIELD3>
+<FIELD4>5.2</FIELD4>
+<FIELD5>3.9</FIELD5>
+<FIELD6>6.5</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Brooks County, GA                                </FIELD8>
+<FIELD9>15,889</FIELD9>
+<FIELD10>29.8</FIELD10>
+<FIELD11>25.3</FIELD11>
+<FIELD12>34.3</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Ozaukee County, WI                               </FIELD2>
+<FIELD3>86,568</FIELD3>
+<FIELD4>5.3</FIELD4>
+<FIELD5>4.1</FIELD5>
+<FIELD6>6.5</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Clay County, WV                                  </FIELD8>
+<FIELD9>9,357</FIELD9>
+<FIELD10>29.2</FIELD10>
+<FIELD11>23.6</FIELD11>
+<FIELD12>34.8</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Carver County, MN                                </FIELD2>
+<FIELD3>92,638</FIELD3>
+<FIELD4>5.4</FIELD4>
+<FIELD5>4.4</FIELD5>
+<FIELD6>6.4</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Dona Ana County, NM                              </FIELD8>
+<FIELD9>213,598</FIELD9>
+<FIELD10>29.2</FIELD10>
+<FIELD11>26.8</FIELD11>
+<FIELD12>31.6</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> York County, VA                                  </FIELD2>
+<FIELD3>66,134</FIELD3>
+<FIELD4>5.4</FIELD4>
+<FIELD5>4.2</FIELD5>
+<FIELD6>6.6</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Brazos County, TX                                </FIELD8>
+<FIELD9>197,632</FIELD9>
+<FIELD10>29.0</FIELD10>
+<FIELD11>27.0</FIELD11>
+<FIELD12>31.0</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Carroll County, MD                               </FIELD2>
+<FIELD3>167,288</FIELD3>
+<FIELD4>5.5</FIELD4>
+<FIELD5>4.3</FIELD5>
+<FIELD6>6.7</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Orleans Parish, LA                               </FIELD8>
+<FIELD9>360,740</FIELD9>
+<FIELD10>28.7</FIELD10>
+<FIELD11>26.9</FIELD11>
+<FIELD12>30.5</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Waukesha County, WI                              </FIELD2>
+<FIELD3>390,730</FIELD3>
+<FIELD4>5.5</FIELD4>
+<FIELD5>4.7</FIELD5>
+<FIELD6>6.3</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Hale County, AL                                  </FIELD8>
+<FIELD9>15,421</FIELD9>
+<FIELD10>28.5</FIELD10>
+<FIELD11>23.5</FIELD11>
+<FIELD12>33.5</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Hendricks County, IN                             </FIELD2>
+<FIELD3>147,979</FIELD3>
+<FIELD4>5.6</FIELD4>
+<FIELD5>4.4</FIELD5>
+<FIELD6>6.8</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Baker County, GA                                 </FIELD8>
+<FIELD9>3,085</FIELD9>
+<FIELD10>28.4</FIELD10>
+<FIELD11>22.7</FIELD11>
+<FIELD12>34.1</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Burlington County, NJ                            </FIELD2>
+<FIELD3>449,576</FIELD3>
+<FIELD4>5.7</FIELD4>
+<FIELD5>4.7</FIELD5>
+<FIELD6>6.7</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Heard County, GA                                 </FIELD8>
+<FIELD9>11,744</FIELD9>
+<FIELD10>28.0</FIELD10>
+<FIELD11>24.1</FIELD11>
+<FIELD12>31.9</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Scott County, MN                                 </FIELD2>
+<FIELD3>132,556</FIELD3>
+<FIELD4>5.8</FIELD4>
+<FIELD5>4.8</FIELD5>
+<FIELD6>6.8</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Forrest County, MS                               </FIELD8>
+<FIELD9>75,842</FIELD9>
+<FIELD10>27.9</FIELD10>
+<FIELD11>24.6</FIELD11>
+<FIELD12>31.2</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Sussex County, NJ                                </FIELD2>
+<FIELD3>148,517</FIELD3>
+<FIELD4>5.8</FIELD4>
+<FIELD5>4.7</FIELD5>
+<FIELD6>6.9</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Philadelphia County, PA                          </FIELD8>
+<FIELD9>1,536,471</FIELD9>
+<FIELD10>27.9</FIELD10>
+<FIELD11>26.8</FIELD11>
+<FIELD12>29.0</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Washington County, MN                            </FIELD2>
+<FIELD3>241,280</FIELD3>
+<FIELD4>5.9</FIELD4>
+<FIELD5>5.0</FIELD5>
+<FIELD6>6.8</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Crosby County, TX                                </FIELD8>
+<FIELD9>6,092</FIELD9>
+<FIELD10>27.8</FIELD10>
+<FIELD11>22.6</FIELD11>
+<FIELD12>33.0</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Morgan County, UT                                </FIELD2>
+<FIELD3>9,685</FIELD3>
+<FIELD4>5.9</FIELD4>
+<FIELD5>4.6</FIELD5>
+<FIELD6>7.2</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> St. Louis city, MO                               </FIELD8>
+<FIELD9>318,069</FIELD9>
+<FIELD10>27.2</FIELD10>
+<FIELD11>24.8</FIELD11>
+<FIELD12>29.6</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Putnam County, NY                                </FIELD2>
+<FIELD3>99,933</FIELD3>
+<FIELD4>5.9</FIELD4>
+<FIELD5>4.8</FIELD5>
+<FIELD6>7.0</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Lincoln County, WV                               </FIELD8>
+<FIELD9>21,550</FIELD9>
+<FIELD10>27.1</FIELD10>
+<FIELD11>22.4</FIELD11>
+<FIELD12>31.8</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Howard County, MD                                </FIELD2>
+<FIELD3>293,142</FIELD3>
+<FIELD4>6.0</FIELD4>
+<FIELD5>4.9</FIELD5>
+<FIELD6>7.1</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Lowndes County, AL                               </FIELD8>
+<FIELD9>11,147</FIELD9>
+<FIELD10>27.1</FIELD10>
+<FIELD11>21.5</FIELD11>
+<FIELD12>32.7</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> St. Charles County, MO                           </FIELD2>
+<FIELD3>365,151</FIELD3>
+<FIELD4>6.0</FIELD4>
+<FIELD5>4.9</FIELD5>
+<FIELD6>7.1</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Lowndes County, GA                               </FIELD8>
+<FIELD9>111,885</FIELD9>
+<FIELD10>27.1</FIELD10>
+<FIELD11>24.1</FIELD11>
+<FIELD12>30.1</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Rockwall County, TX                              </FIELD2>
+<FIELD3>81,290</FIELD3>
+<FIELD4>6.0</FIELD4>
+<FIELD5>4.6</FIELD5>
+<FIELD6>7.4</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Torrance County, NM                              </FIELD8>
+<FIELD9>16,345</FIELD9>
+<FIELD10>27.0</FIELD10>
+<FIELD11>21.6</FIELD11>
+<FIELD12>32.4</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Hanover County, VA                               </FIELD2>
+<FIELD3>100,342</FIELD3>
+<FIELD4>6.1</FIELD4>
+<FIELD5>4.9</FIELD5>
+<FIELD6>7.3</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Harrisonburg city, VA                            </FIELD8>
+<FIELD9>49,973</FIELD9>
+<FIELD10>27.0</FIELD10>
+<FIELD11>23.2</FIELD11>
+<FIELD12>30.8</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Calvert County, MD                               </FIELD2>
+<FIELD3>89,256</FIELD3>
+<FIELD4>6.1</FIELD4>
+<FIELD5>4.6</FIELD5>
+<FIELD6>7.6</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Merced County, CA                                </FIELD8>
+<FIELD9>259,898</FIELD9>
+<FIELD10>26.8</FIELD10>
+<FIELD11>24.6</FIELD11>
+<FIELD12>29.0</FIELD12>
+</ROW>
+<ROW>
+<Title></Title>
+<FIELD2> Williamson County, TN                            </FIELD2>
+<FIELD3>188,560</FIELD3>
+<FIELD4>6.2</FIELD4>
+<FIELD5>5.1</FIELD5>
+<FIELD6>7.3</FIELD6>
+<FIELD7></FIELD7>
+<FIELD8> Radford city, VA                                 </FIELD8>
+<FIELD9>16,414</FIELD9>
+<FIELD10>26.8</FIELD10>
+<FIELD11>21.0</FIELD11>
+<FIELD12>32.6</FIELD12>
+</ROW>
+<ROW>
+<Title>Footnotes</Title>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+<FIELD6></FIELD6>
+<FIELD7></FIELD7>
+<FIELD8></FIELD8>
+<FIELD9></FIELD9>
+<FIELD10></FIELD10>
+<FIELD11></FIELD11>
+<FIELD12></FIELD12>
+</ROW>
+<ROW>
+<Title>* Apparent differences between estimates may not be statistically significant.  Please see the READ ME page for more information.</Title>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+<FIELD6></FIELD6>
+<FIELD7></FIELD7>
+<FIELD8></FIELD8>
+<FIELD9></FIELD9>
+<FIELD10></FIELD10>
+<FIELD11></FIELD11>
+<FIELD12></FIELD12>
+</ROW>
+<ROW>
+<Title>Source:  Small Area Income and Poverty Estimates (SAIPE) program, U.S. Census Bureau</Title>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+<FIELD6></FIELD6>
+<FIELD7></FIELD7>
+<FIELD8></FIELD8>
+<FIELD9></FIELD9>
+<FIELD10></FIELD10>
+<FIELD11></FIELD11>
+<FIELD12></FIELD12>
+</ROW>
+<ROW>
+<Title>http://www.census.gov/did/www/saipe/index.html</Title>
+<FIELD2></FIELD2>
+<FIELD3></FIELD3>
+<FIELD4></FIELD4>
+<FIELD5></FIELD5>
+<FIELD6></FIELD6>
+<FIELD7></FIELD7>
+<FIELD8></FIELD8>
+<FIELD9></FIELD9>
+<FIELD10></FIELD10>
+<FIELD11></FIELD11>
+<FIELD12></FIELD12>
+</ROW>
+</ROWSET>
