@@ -1,0 +1,256 @@
+200006071029   0     0     0ejosephson ARCEDIT D:\COASTAL\NOAA_CST
+200006071035   5   238     0ejosephson clean noaa_cst noaa_cst_cln .0001 .0001 line
+200006071519   0     0     0ejosephson copy noaa_cst_cln d:\data\usgs\noaa_cst
+200006081631   0     1     0ejosephson copy noaa_cst sg_new
+200006081702   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006081810   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006081818   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006081822   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006081822   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006081824   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006081829   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006081831   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091115   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091115   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091116   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091117   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091123   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091125   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091127   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091137   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091138   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091140   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091217   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091310   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091310   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091401   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091609   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091615   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091616   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091617   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091643   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091643   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091644   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091647   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091653   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091655   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006091656   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121146   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121149   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121154   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121155   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121220   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121221   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121222   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121329   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121346   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121351   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121354   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121400   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121410   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121416   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121419   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121435   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121437   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121441   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121444   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121445   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121446   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121520   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121524   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121527   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121650   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121651   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121703   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121704   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121707   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121707   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121708   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121709   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121712   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121715   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121745   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121749   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121755   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121756   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006121845   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006131004   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006131036   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006131151   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006131205   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006131207   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006131320   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+20000614 926   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+20000614 931   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+20000614 941   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006141009   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006141108   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006141115   5   214     0ejosephson clean sg_new sg_cln_13 .00066 .000000000000000001 line
+200006141137   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_CLN_13
+200006141215   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_CLN_13
+200006141424   0     0     0ejosephson copy sg_cln_13 sg_new
+200006141432   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006141437   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006141440   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006141441   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006141445   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006141455   0     0     0ejosephson ARCEDIT D:\DATA\USGS\SG_NEW
+200006151708   0     1     0ejosephson copy sg_new d:\data\usgs\final\sg_new
+200006151713   4   217     0ejosephson clean sg_new sg_cln .00000000000000001 .0000000000000000001 poly
+200006151720   0     4     0ejosephson createlabels sg_cln
+200006151743   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006151747   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006151841   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006151843   2    81     0ejosephson build sg_cln poly
+200006151843   0     0     0ejosephson labelerrors sg_cln
+200006151913   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006151916   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+20000616 930   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+20000616 930   0     0     0ejosephson copy sg_cln sg_cln_bk2
+20000616 957   0     1     0ejosephson copy sg_cln_bk2 sg_cln
+200006161029   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161049   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161051   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161053   2    73     0ejosephson build sg_cln poly
+200006161054   0     0     0ejosephson labelerrors sg_cln
+200006161112   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161114   1    65     0ejosephson BUILD SG_CLN POLY
+200006161158   0     0     0ejosephson labelerrors sg_cln
+200006161208   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161213   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161217   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161219   2    66     0ejosephson build sg_cln poly
+200006161312   0     1     0ejosephson labelerrors sg_cln
+200006161333   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161335   2    67     0ejosephson build sg_cln poly
+200006161335   0     0     0ejosephson labelerrors sg_cln
+200006161342   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161343   1    64     0ejosephson build sg_cln poly
+200006161406   0     0     0ejosephson labelerrors sg_cln
+200006161418   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161421   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161423   2    66     0ejosephson build sg_cln poly
+200006161423   0     0     0ejosephson labelerrors sg_cln
+200006161434   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161435   1    64     0ejosephson build sg_cln poly
+200006161437   0     0     0ejosephson labelerrors sg_cln
+200006161504   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161507   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161507   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161509   2    78     0ejosephson build sg_cln poly
+200006161514   0     1     0ejosephson labelerrors sg_cln
+200006161518   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161519   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161520   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161521   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161523   2    66     0ejosephson build sg_cln poly
+200006161523   0     0     0ejosephson labelerrors sg_cln
+200006161531   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161541   2    82     0ejosephson build sg_cln poly
+200006161604   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161606   2    61     0ejosephson build sg_cln poly
+200006161606   0     0     0ejosephson labelerrors sg_cln
+200006161626   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161628   2    73     0ejosephson build sg_cln poly
+200006161629   0     0     0ejosephson labelerrors sg_cln
+200006161641   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161643   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161645   2    65     0ejosephson build sg_cln poly
+200006161645   0     0     0ejosephson labelerrors sg_cln
+200006161659   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161701   2    70     0ejosephson build sg_cln poly
+200006161701   0     0     0ejosephson labelerrors sg_cln
+200006161726   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161729   2    74     0ejosephson build sg_cln poly
+200006161729   0     1     0ejosephson labelerrors sg_cln
+200006161742   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161743   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161745   1    60     0ejosephson BUILD SG_CLN POLY
+200006161746   0     0     0ejosephson LABELERRORS SG_CLN
+200006161757   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006161801   2    75     0ejosephson BUILD SG_CLN POLY
+200006161802   0     1     0ejosephson LABELERRORS SG_CLN
+200006191001   0     0     0ejosephson labelerrors sg_cln
+200006191002   0     1     0ejosephson labelerrors sg_cln
+200006191024   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191045   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191047   2    74     0ejosephson build sg_cln poly
+200006191048   0     0     0ejosephson labelerrors sg_cln
+200006191110   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191111   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191111   0    16     0ejosephson build sg_cln poly
+200006191117   0     0     0ejosephson labelerrors sg_cln
+200006191123   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191124   1    61     0ejosephson build sg_cln poly
+200006191125   0     0     0ejosephson labelerrors sg_cln
+200006191148   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191148   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191150   2    75     0ejosephson build sg_cln poly
+200006191150   0     0     0ejosephson labelerrors sg_cln
+200006191217   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191218   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191220   2    77     0ejosephson build sg_cln poly
+200006191302   0     0     0ejosephson labelerrors sg_cln
+200006191322   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191324   2    75     0ejosephson build sg_cln poly
+200006191324   0     0     0ejosephson labelerrors sg_cln
+200006191329   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191331   2    72     0ejosephson build sg_cln poly
+200006191331   0     0     0ejosephson labelerrors sg_cln
+200006191334   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191335   1    63     0ejosephson build sg_cln poly
+200006191335   0     0     0ejosephson labelerrors sg_cln
+200006191338   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191341   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191342   1    70     0ejosephson build sg_cln poly
+200006191347   0     0     0ejosephson labelerrors sg_cln
+200006191352   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191354   2    70     0ejosephson build sg_cln poly
+200006191354   0     0     0ejosephson labelerrors sg_cln
+200006191356   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191358   2    64     0ejosephson build sg_cln poly
+200006191358   0     1     0ejosephson labelerrors sg_cln
+200006191418   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191418   0     0     0ejosephson ARCEDIT D:\DATA\USGS\FINAL\SG_CLN
+200006191420   2    67     0ejosephson build sg_cln poly
+200006191422   0     0     0ejosephson labelerrors sg_cln
+200007111705   1     0     0cpolloni projectdefine cover surfgeo
+20000712 942   0     0     0cpolloni labelerrors surfgeo
+20000712 952   0     0     0cpolloni ARCEDIT D:\TEXTUREDAT\SURFGEO
+200007121053   0     0     0cpolloni ARCEDIT D:\TEXTUREDAT\SURFGEO
+200007121120   0     0     0cpolloni ARCEDIT D:\TEXTUREDAT\SURFGEO
+200007121126   0     0     0cpolloni ARCEDIT D:\TEXTUREDAT\SURFGEO
+200007121139   0     0     0cpolloni ARCEDIT D:\TEXTUREDAT\SURFGEO
+200007121207   0     0     0cpolloni ARCEDIT D:\TEXTUREDAT\SURFGEO
+200007121211   0     0     0cpolloni ARCEDIT D:\TEXTUREDAT\SURFGEO
+200007121212   0     0     0cpolloni ARCEDIT D:\TEXTUREDAT\SURFGEO
+200007121212   0     0     0cpolloni ARCEDIT D:\TEXTUREDAT\SURFGEO
+200007121213   0     0     0cpolloni ARCEDIT D:\TEXTUREDAT\SURFGEO
+200007121216   3   134     0cpolloni build surfgeo poly
+200007121618   1    35     0dmartin import cover surfgeoex surfgeo
+20000713 804   0     0     0dmartin labelerrors surfgeo
+20000713 830   0     0     0dmartin ARCEDIT E:\USGS\SURFGEO
+20000713 832   1    37     0dmartin build surfgeo poly
+20000713 832   0     0     0dmartin labelerrors surfgeo
+20000713 841   0     0     0dmartin ARCEDIT E:\USGS\SURFGEO
+20000713 841   0    19     0dmartin build surfgeo poly
+20000713 841   0     0     0dmartin labelerrors surfgeo
+20000713 842   0     0     0dmartin labelerrors surfgeo
+20000713 846   0     0     0dmartin ARCEDIT E:\USGS\SURFGEO
+20000713 847   1    32     0dmartin build surfgeo poly
+20000713 849   0     1     0dmartin labelerrors surfgeo
+20000713 851   0     4     0dmartin createlabels surfgeo
+20000713 851   0     0     0dmartin labelerrors surfgeo
+20000713 931   0     0     0dmartin ARCEDIT E:\USGS\SURFGEO
+20000713 933   1    81     0dmartin build surfgeo poly
+20000713 936   0    42     0dmartin export cover surfgeo sgeology none
+20000714 836   0     0     0dmartin ARCEDIT E:\USGS\SURFGEO
+20000714 926   0     0     0dmartin ARCEDIT E:\USGS\SURFGEO
+20000714 936   0     0     0dmartin ARCEDIT E:\USGS\SURFGEO
+20000714 938   1    70     0dmartin build surfgeo poly
+20000714 956   0     0     0dmartin ARCEDIT E:\USGS\SURFGEO
+200007141011   0     0     0dmartin ARCEDIT E:\USGS\SURFGEO
+200007141025   0     0     0dmartin ARCEDIT E:\USGS\SURFGEO
+200007141029   1    58     0dmartin build surfgeo poly
+200007141033   0     0     0dmartin ARCEDIT E:\USGS\SURFGEO
+200007141034   1    81     0dmartin build surfgeo poly

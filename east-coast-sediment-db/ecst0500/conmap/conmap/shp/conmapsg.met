@@ -1,0 +1,263 @@
+IDENTIFICATION_INFORMATION
+
+  Citation:
+    Citation_Information:
+      Originator: USGS WHFC
+      Publication_Date: 20000720
+      Title: CONMAP Sediment Maps
+      Edition: 20000725
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Woods Hole, MA
+        Publisher: USGS Woods Hole Field Center
+      Other_Citation_Details:
+        USGS Open-File Report 00-xxx
+      Online_Linkage: http://woodshole.er.usgs.gov
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: USGS Woods Hole Field Center
+          Publication_Date: 20000720
+          Title: USGS East-Coast Sediment Analysis and Georeferenced Displays
+          Publication_Information:
+            Publication_Place: Woods Hole, MA
+            Publisher: USGS Woods hole Field Center
+          Online_Linkage: http://woodshole.er.usgs.gov
+  Description:
+    Abstract:
+      Sediments off the eastern United States vary markedly in
+      texture - the size, shape, and arrangement of their grains.
+      However, for descriptive purposes, it is typically most
+      useful to classify these sediments according to their
+      grain-size distributions. Starting in 1962, the U.S.
+      Geological Survey and the Woods Hole Oceanographic
+      Institution began a joint program to study the marine
+      geology of the continental margin off the Atlantic coast of
+      the United States. As part of this program and numerous
+      subsequent projects, thousands of sediment samples were
+      collected and analyzed for particle size.
+    Purpose:
+      The purpose of this report is to describe the field methods
+      used to collect marine sediment samples and the laboratory
+      methods used to determine and characterize the grain-size
+      distributions, to present these data in several flat-file
+      formats that can be readily employed by interested parties,
+      and to provide referenceable verified data and metadata to
+      an Access relational database being developed as part of
+      the USGS Coastal and Marine Geology Program’s Aggregates
+      Project. To these ends, the report is divided into three
+      sections: the first discusses procedures, the second
+      contains the data, and the third provides the ability to
+      use desktop geographic mapping tools to visualize the
+      sediment distributions.
+    Supplemental_Information:
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1982
+        Ending_Date: 1999
+    Currentness_Reference: 
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Continually
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -82.0428
+      East_Bounding_Coordinate: -64.0000
+      North_Bounding_Coordinate: 45.2168
+      South_Bounding_Coordinate: 24.0118
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: surficial sediment
+      Theme_Keyword: polygons
+      Theme_Keyword: sediment type
+      Theme_Keyword: grain size
+      Theme_Keyword: sediemnt textural trends
+      Theme_Keyword: sediment distribution
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Eastern U.S.
+      Place_Keyword: Exclusive Economic Zone
+      Place_Keyword: coastal ocean
+      Place_Keyword: Georges Bank
+      Place_Keyword: Gulf of Maine
+      Place_Keyword: Baltimore Canyon Trough
+      Place_Keyword: Carolina Trough
+      Place_Keyword: Blake Plateau
+  Access_Constraints:
+    none
+  Use_Constraints:
+    Not legally binding
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USGS Woods Hole Field Center
+        Contact_Person: Larry Poppe
+      Contact_Position: Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: 508-457-2314
+      Contact_Facsimile_Telephone: 508-457-2310
+      Contact_Electronic_Mail_Address: lpoppe@usgs.gov
+      Hours_of_Service: Monday-Friday, 8am-5pm, Eastern Standard Time
+  Native_Data_Set_Environment:
+    ArcView version 3.1 shapefile format
+    h:\texture2\mapping\conmap\conmapsg.shp
+ 
+DATA_QUALITY_INFORMATION
+
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      The attributes in this data set are believed to be accurate
+  Logical_Consistency_Report:
+    These data are believed to be logically consistent,
+    although not tested. Geometry appears to be toipologically clean.
+  Completeness_Report:
+    This dataset covers the GLORIA project area for the
+    Atlantic Ocean EEZ area
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The accuracy of this dataset is based on source data that
+        is assumed to have met National Map Accuracy Standards
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report:
+        none
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Poppe, L.J.
+          Originator: Schlee, J.S.
+          Originator: Butman, B.
+          Originator: Lane, C.M.
+          Publication_Date: 1989
+          Title: Map Showing the distribution of serficial sediment, Gulf of
+            Maine and Georges Bank
+          Edition: USGS MI-1986-A
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Reston
+            Publisher: U.S. Geological Survey
+          Other_Citation_Details:
+            Poppe, L.J. et al, 1994, U.S. Geological Survey MI-1987-D
+          Online_Linkage: 
+          Larger_Work_Citation:
+            Citation_Information:
+              Originator: 
+              Publication_Date: 
+              Title: 
+              Publication_Information:
+                Publication_Place: 
+                Publisher: 
+              Online_Linkage: 
+      Source_Scale_Denominator: 1:1,000,000
+      Type_of_Source_Media: map sheet
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 
+            Ending_Date: 
+        Source_Currentness_Reference: 
+      Source_Citation_Abbreviation: 
+      Source_Contribution:
+    Process_Step:
+      Process_Description:
+      Source_Used_Citation_Abbreviation: 
+      Process_Date: 20000718
+      Source_Produced_Citation_Abbreviation: 
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: TPMC
+            Contact_Person: Dan Martin
+          Contact_Position: Senior GIS Analyst
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: Mill Wharf Plaza, suite 208
+            City: Scituate
+            State_or_Province: MA
+            Postal_Code: 02066
+            Country: USA
+          Contact_Voice_Telephone: 781-544-0026
+          Contact_Facsimile_Telephone: 781-544-3086
+          Contact_Electronic_Mail_Address: dmartin@tpmc.com
+          Hours_of_Service: Monday-Friday, 8am-5pm, EST
+
+SPATIAL_DATA_ORGANIZATION_INFORMATION
+
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 19664
+
+SPATIAL_REFERENCE_INFORMATION
+
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: unknown
+      Longitude_Resolution: unknown
+      Geographic_Coordinate_Units: Decimal Degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6,378,137
+      Denominator_of_Flattening_Ratio: 298.257
+
+ENTITY_AND_ATTRIBUTE_INFORMATION
+
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+    Entity_and_Attribute_Detail_Citation:
+
+DISTRIBUTION_INFORMATION
+
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USGS Woods Hole Field Center
+        Contact_Person: Larry Poppe
+      Contact_Position: Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: 508-457-2314
+      Contact_Facsimile_Telephone: 508-457-2310
+      Contact_Electronic_Mail_Address: lpoppe@usgs.gov
+      Hours_of_Service: Monday-Friday, 8am-5pm, Eastern Standard Time
+  Resource_Description:
+  Distribution_Liability:
+
+METADATA_REFERENCE_INFORMATION
+
+  Metadata_Date: 20000725
+  Metadata_Review_Date: 
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USGS Woods Hole Field Center
+        Contact_Person: Chris Polloni
+      Contact_Position: Sea Floor Mapping Technology
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: 508-457-2280
+      Contact_Facsimile_Telephone: 508-457-2310
+      Contact_Electronic_Mail_Address: cpolloni@usgs.gov
+      Hours_of_Service: Monday-Friday, 8am-5pm, Eastern Standard Time
+  Metadata_Standard_Name: FGDC CSDGM
+  Metadata_Standard_Version: FGDC-STD-001-1998
