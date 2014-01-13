@@ -1,0 +1,1 @@
+200001101527   0     5     0rgold /usr/people/rgold/imgrd2 = ASCIIGRID( /world30.asc,INT)

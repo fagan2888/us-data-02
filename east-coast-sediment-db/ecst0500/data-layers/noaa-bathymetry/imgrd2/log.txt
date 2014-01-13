@@ -1,0 +1,1 @@
+200009131427   1    60     0administrator e:\roger\imgrd2 = ASCIIGRID( e:\roger\world05\etopo5.asc,INT)
