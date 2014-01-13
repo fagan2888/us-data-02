@@ -1,0 +1,416 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: NOAA, Special Projects Office
+      Publication_Date: Unknown
+      Title: USEEZ: Boundaries of the Exclusive Economic Zones of the United States and territories
+      Geospatial_Data_Presentation_Form: vector digital data
+      Online_Linkage: http://nauticalcharts.noaa.gov/csdl/EEZ.HTM
+      Online_Linkage: http://coastalmap.marine.usgs.gov/GISdata/basemaps/boundaries/eez/NOAA/useez.sip
+  Description:
+    Abstract: Exclusive Economic Zone (EEZ) and Maritime Boundaries; Notice of Limits By Presidential Proclamation No. 5030 made on March 10, 1983, the United States established an exclusive economic zone, the outer limit of which is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.  The U.S. EEZ is the largest in the world, containing 3.4 million square miles of ocean and 90,000 miles of coastline.  The Government of the United States of America has been, is, and will be, engaged in consultations and negotiations with governments of neighboring countries concerning the delimitation of areas subject to the respective jurisdiction of the United States and of these countries.  The  limits of the exclusive economic zone of the United States as set forth below are intended to be without prejudice to any negotiations with these countries or to any positions which may have been or may be adopted respecting the limits of maritime jurisdiction in such areas. Further, the limits of the exclusive economic zone set forth below are without prejudice to the outer limit of the continental shelf of the United States where that shelf extends beyond 200 nautical miles from the baseline in accordance with international law.
+    Purpose:
+      The purpose of this data layer is to provides a general basemap showing the extent of the U.S. Exclusive Economic Zone.
+
+      The EEZ consists of those areas adjoining the territorial sea of the U.S., the Commonwealth of Puerto Rico, the commonwealth of the Northern Mariana Islands, and U.S. overseas territories and pssessions. The EEZ extends up to 200 nautical miles (370 km) from the U.S. coastline. About 15 percent of this area lies on the geologic continental shelf and is shallower than 200 meters. Within its EEZ, the U.S. has sovereign rights over all living and non-living resources. Other nations may exercise freedom of vessel navigation and overflight within the U.S. EEZ (Source: Year of the Ocean Discussion Papers 1998; 2nd Ed. of Coastal and Ocean Law by Kalo et al. 1994).
+    Supplemental_Information:
+      The following is provided verbatum from the Federal Register: [Federal Register: August 23, 1995 (Volume 60, Number 163)][Notices][Page 43825-43829]
+
+      From the Federal Register Online via GPO Access [wais.access.gpo.gov][DOCID:fr23au95 113]DEPARTMENT OF STATE[Public Notice 2237] Exclusive Economic Zone and Maritime Boundaries; Notice of Limits By Presidential Proclamation No. 5030 made on March 10, 1983, the United States established an exclusive economic zone, the outer limit of which is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the breadth of the territorial sea is measured. The Government of the United States of America has been, is, and will be, engaged in consultations and negotiations with governments of neighboring countries concerning the delimitation of areas subject to the respective jurisdiction of the United States and of these countries. The limits of the exclusive economic zone of the United States as set forth below are intended to be without prejudice to any negotiations with these countries or to any positions which may have been or may be adopted respecting the limits of maritime jurisdiction in such areas. Further, the limits of the exclusive economic zone set forth below are without prejudice to the outer limit of the continental shelf of the United States where that shelf extends beyond 200 nautical miles from the baseline in accordance with international law. The following notices have been published which have defined the United States maritime boundaries and fishery conservation zone established March 1, 1977: Public Notice 506, Federal Register, Vol.41, No. 214, November 4, 1976, 48619-20; Public Notice 526, Federal Register, Vol. 42, No. 44, March 7, 1977, 12937-40; Public Notice 544, Federal Register, Vol. 42, No. 92, May 12, 1977, 24134; Public Notice 4710-01, Federal Register, Vol. 43, No. 7, January 11, 1978, 1658; Public Notice 585, Federal Register, Vol. 43, No. 7, January 11, 1978,1659; Public Notice 910, Federal Register, Vol. 49, No. 155, August 9,1984, 31973. This Public Notice supersedes all limits defined in the above Public Notices. Therefore, the Department of State on behalf of the Government of the United States hereby announces the limits of the exclusive economic zone of the United States of America, within which the United States will exercise its sovereign rights and jurisdiction as permitted under international law, pending the establishment of permanent maritime boundaries by mutual agreement in those cases where a boundary is necessary and has not already been agreed. Publication of a notice on this subject which is effective immediately upon publication is necessary to effectively exercise the foreign affairs responsibility of the Department of State. (See Title 5U.S.C. 553 (a)(1)(B).)
+
+      Dated: August 10, 1995.
+      David A. Colson, Deputy Assistant Secretary for Oceans
+      [FR Doc. 95-20794 Filed 8-22-95; 8:45 am] BILLING CODE 4710-09-M
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: unknown
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -218.804901
+      East_Bounding_Coordinate: -63.888889
+      North_Bounding_Coordinate: 74.709763
+      South_Bounding_Coordinate: -17.557777
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: Exclusive Economic Zone
+      Theme_Keyword: EEZ
+      Theme_Keyword: National Oceanic and Atmospheric Administration
+      Theme_Keyword: NOAA
+      Theme_Keyword: Special Projects Office
+      Theme_Keyword: jurisdictional boundary
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: boundaries
+      Theme_Keyword: oceans and estuaries
+    Place:
+      Place_Keyword_Thesaurus: General
+      Place_Keyword: conterminous US
+      Place_Keyword: US territories
+      Place_Keyword: United States
+      Place_Keyword: East Coast
+      Place_Keyword: Gulf of Mexico
+      Place_Keyword: West Coast
+      Place_Keyword: Alaska
+      Place_Keyword: Hawaiian Islands
+      Place_Keyword: Hawaii
+      Place_Keyword: Caribbean
+      Place_Keyword: American Samoa
+      Place_Keyword: Howland and Baker Island
+      Place_Keyword: Jarvis Island
+      Place_Keyword: Johnston Island
+      Place_Keyword: Northern Mariana Islands
+      Place_Keyword: Palmyra Atoll-Kingman Reef
+      Place_Keyword: Wake Island
+  Access_Constraints: None
+  Use_Constraints:
+    THE DATA INCLUDED IN THIS APPLICATION ARE BASED ON INTERPRETATION OF AVAILABLE INFORMATION AND SHOULD NOT BE CONSTRUED AS LEGALLY BINDING.
+
+    Public domain data from the U.S. Government are freely redistributable with proper metadata and source attribution.  Please recognize the National Oceanic and Atmospheric Administration (NOAA), Special Projects Office as the source of this information.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Steve Rohmann
+        Contact_Organization: NOAA, Special Projects Office
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: SSMC-4  9th Floor
+        Address: 1305 East-West Highway
+        City: Silver Spring
+        State_or_Province: MD
+        Postal_Code: 20910
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3000 x137
+      Contact_Electronic_Mail_Address: steve.rohmann@noaa.gov
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://nauticalcharts.noaa.gov/csdl/images/EEZglobe.jpg
+    Browse_Graphic_File_Description: Thumbnail image showing the extent and outline of the NOAA Exclusive Economic Zone shapefile
+    Browse_Graphic_File_Type: JPEG
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://coastalmap.marine.usgs.gov/GISdata/basemaps/boundaries/NOAA/useez_noaa.gif
+    Browse_Graphic_File_Description: Image showing the extent and outline of the NOAA Exclusive Economic Zone shapefile
+    Browse_Graphic_File_Type: GIF
+  Data_Set_Credit: National Oceanic and Atmospheric Administration (NOAA), Special Projects Office for creating the data layer.
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: All attributes were supplied with NOAA 'e00' dataset are Arc/Info related.  There are no polygon attributes in the Exclusive Economic Zone geography.
+  Logical_Consistency_Report: No additional checks for topological consistency were performed on the data.
+  Completeness_Report: This is the complete, unaltered EEZ file as downloaded from the NOAA ftp site.  NOAA now distributes the EEZ boundary as separate files based on geographic region.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: NOAA, Special Projects Office
+          Publication_Date: Unknown
+          Publication_Time: Unknown
+          Title: USEEZ: Boundaries of the Exclusive Economic Zones of the U.S. and territories from NOAA
+          Geospatial_Data_Presentation_Form: vector digital data
+          Online_Linkage: ftp://seaserver.nos.noaa.gov/datasets/efh/
+          Online_Linkage: ftp://seaserver.nos.noaa.gov/datasets/efh/useez.e00.gz
+      Type_of_Source_Media: disc
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: useez.e00
+      Source_Contribution: The Arc/Info export file contains the extent of the US Exclusive Economic Zone and was downloaded from NOAA's anonymous ftp site.
+    Process_Step:
+      Process_Description: The useez.e00 file was imported to create a ARC/INFO 7.x coverage.
+      Source_Used_Citation_Abbreviation: useez.e00
+      Process_Date: 20020521
+      Process_Time: 0643
+      Source_Produced_Citation_Abbreviation: useez
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Valerie Paskevich
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Computer Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+            Country: USA
+          Contact_Voice_Telephone: (508) 548-8700 x2281
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+    Process_Step:
+      Process_Description: The Arc/Info coverage was edited to close the gap in the Alaska boundary.  The edited file was then converted to the shapefile.
+      Source_Used_Citation_Abbreviation: useez
+      Process_Date: 20020521
+      Process_Time: 0655
+      Source_Produced_Citation_Abbreviation: useez.dbf
+      Source_Produced_Citation_Abbreviation: useez.shp
+      Source_Produced_Citation_Abbreviation: useez.shx
+      Source_Produced_Citation_Abbreviation: useez.sbn
+      Source_Produced_Citation_Abbreviation: useez.sbx
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Valerie Paskevich
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Computer Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+            Country: USA
+          Contact_Voice_Telephone: (508) 548-870 x2281
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+    Process_Step:
+      Process_Description: The geographic reference of the shapefile was defined to create an associated 'prj' file.
+      Source_Used_Citation_Abbreviation: useez.shp
+      Process_Date: 20020521
+      Process_Time: 0704
+      Source_Produced_Citation_Abbreviation: useez.prj
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Valerie Paskevich
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Computer Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+            Country: USA
+          Contact_Voice_Telephone: (508) 548-8700 x2281
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+    Process_Step:
+      Process_Description: The fields (USEEZ_SHP_) that were carried over from the ArcInfo export file were deleted.  The fields were not necessary for use in the ArcView shapefile.  The field names, which were identifical for the first 10 characters, were flagged as duplicate fields.
+      Source_Used_Citation_Abbreviation: useez.dbf
+      Source_Used_Citation_Abbreviation: useez.shp
+      Source_Used_Citation_Abbreviation: useez.shx
+      Process_Date: 20030522
+      Process_Time: 0740
+      Source_Produced_Citation_Abbreviation: useez.dbf
+      Source_Produced_Citation_Abbreviation: useez.shp
+      Source_Produced_Citation_Abbreviation: useez.shx
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Valerie Paskevich
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Information Specialist/GIS Coordinator
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+            Country: USA
+          Contact_Voice_Telephone: (508) 548-8700 x2281
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: String
+      Point_and_Vector_Object_Count: 228
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.00001
+      Longitude_Resolution: 0.00001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: useez.dbf
+      Entity_Type_Definition: Shapefile Attribute Table
+      Entity_Type_Definition_Source: ESRI
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: FNODE_
+      Attribute_Definition: From-node identifier of linear feature carried over from Arc/Info processing and the Arc/Info attribute FNODE_.  It is an ArcInfo internal control parameter and has not applicable relevance to the use of the data.
+      Attribute_Definition_Source: Software Computed
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 11277
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: TNODE_
+      Attribute_Definition: To-node identifier of linear feature carried over from Arc/Info processing and the Arc/Info attribute TNODE_.  It is an ArcInfo internal control parameter and has not applicable relevance to the use of the data
+      Attribute_Definition_Source: Software Computed
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 11276
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: LPOLY_
+      Attribute_Definition: Internal number of polygon to left of arc carried over from Arc/Info processing and the Arc/Info attribute LPOLY_.  It is an ArcInfo internal control parameter and has not applicable relevance to the use of the data
+      Attribute_Definition_Source: Software Computed
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 0
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: RPOLY_
+      Attribute_Definition: Internal number of polygon to right of arc carried over from Arc/Info processing and the Arc/Info attribute RPOLY_.  It is an ArcInfo internal control parameter and has not applicable relevance to the use of the data.
+      Attribute_Definition_Source: Software Computed
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 0
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: LENGTH
+      Attribute_Definition: Length of the line in native units
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.000
+          Range_Domain_Maximum: 31.704
+          Attribute_Units_of_Measure: decimal degrees
+          Attribute_Measurement_Resolution: .001
+    Attribute:
+      Attribute_Label: ARCTYPE
+      Attribute_Definition: Code identifying the arc data source.
+      Attribute_Definition_Source: User Defined
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 24
+          Enumerated_Domain_Value_Definition: National Oceanographic Data Center arcs
+          Enumerated_Domain_Value_Definition_Source: NOAA useez_meta.htm found at ftp://140.90.161.100/datasets/efh
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 25
+          Enumerated_Domain_Value_Definition: Federal Register (23 Aug 95; vol. 60 #163) arcs
+          Enumerated_Domain_Value_Definition_Source: NOAA useez_meta.htm found at ftp://140.90.161.100/datasets/efh
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 26
+          Enumerated_Domain_Value_Definition: construct arcs
+          Enumerated_Domain_Value_Definition_Source: NOAA useez_meta.htm found at ftp://140.90.161.100/datasets/efh
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 27
+          Enumerated_Domain_Value_Definition: International Boundary Commission arcs
+          Enumerated_Domain_Value_Definition_Source: NOAA useez_meta.htm found at ftp://140.90.161.100/datasets/efh
+  Overview_Description:
+    Entity_and_Attribute_Overview: No Polygon attributes in the Exclusive Economic Zone geography
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA Special Projects Office
+        Contact_Person: Steve Rohmann
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: SSMC-4  9th Floor
+        Address: 1305 East-West Highway
+        City: Silver Spring
+        State_or_Province: MD
+        Postal_Code: 20910
+        Country: USA
+      Contact_Voice_Telephone: (301) 713-3000 x137
+      Contact_Electronic_Mail_Address: steve.rohmann@noaa.gov
+  Resource_Description: Downloadable Data
+  Distribution_Liability: Although this data set has been used by the U.S. Geological Survey (USGS), no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and/or related materials.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Shapefile
+        Format_Specification: ESRI Shapefile
+        Transfer_Size: 0.337
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://nauticalcharts.noaa.gov/csdl/EEZ.HTM
+    Fees: none
+  Technical_Prerequisites: These data are available in Environmental Systems Research Institute (ESRI) shapefile format.  The user must have ArcGIS® or ArcView® 3.0 or greater software to read and process the data file.  In lieu of ArcView or ArcGIS, the user may utilize another GIS application package capable of importing data.  A free data viewer, arcexplorer, capable of displaying the data is available from ESRI at www.esri.com.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: Valerie Paskevich
+      Contact_Position: Information Specialist / GIS Coordinator
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2281
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Shapefile
+        Format_Version_Number: ArcView 3.2
+        Format_Specification: zip 8.0
+        Format_Information_Content: shapefile components, metadata and browse graphic
+        File_Decompression_Technique: zip
+        Transfer_Size: 137 Kbytes
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://coastalmap.marine.usgs.gov/GISdata/basemaps/boundaries/eez/NOAA/useez.zip
+    Fees: none
+Metadata_Reference_Information:
+  Metadata_Date: 20050328
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: Valerie Paskevich
+      Contact_Position: Computer Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2281
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

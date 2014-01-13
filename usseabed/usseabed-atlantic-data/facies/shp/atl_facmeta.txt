@@ -1,0 +1,449 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Originator: University of Colorado
+      Publication_Date: 2005
+      Title: ATL_FAC:  usSEABED facies data for the entire U.S. Atlantic Coast
+      Edition: 1.0
+      Geospatial_Data_Presentation_Form: vector digital data
+      Online_Linkage: http://pubs.usgs.gov/ds/2005/118/data/atl_fac.zip
+      Online_Linkage: http://pubs.usgs.gov/ds/2005/118/htmldocs/data_cata.htm
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: J.M. Reid
+          Originator: J.A. Reid
+          Originator: C.J. Jenkins
+          Originator: M.E. Hastings
+          Originator: S.J. Williams
+          Originator: L.J. Poppe
+          Publication_Date: 2005
+          Title: usSEABED: Atlantic Coast Offshore Surficial Sediment Data Release
+          Edition: 1.0
+          Series_Information:
+            Series_Name: Data Series
+            Issue_Identification: 118
+          Publication_Information:
+            Publication_Place: Woods Hole Science Center, Woods Hole, MA
+            Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+          Online_Linkage: http://pubs.usgs.gov/ds/2005/118/
+  Description:
+    Abstract:
+      The facies data layer (_FAC.txt) is a point coverage of known sediment samplings, inspections, and probings from the usSEABED data collection and integrated using the software system dbSEABED.
+      The facies data layer (_FAC.txt)represents concatenated information about components (minerals and rock type), genesis (igneous, metamorphic, carbonate, terrigenous), and other appropriate groupings of information about the seafloor.
+      The facies data are parsed from written descriptions from cores, grabs, photographs, and videos, and may apply only to a subsample as denoted by the Top, Bottom, and SamplePhase fields.
+      Lack of values in a defined facies field does not necessarily imply lack of the components defining that field, but may imply a lack of data for that field.
+    Purpose:
+      The Facies layer can be used to investigate the known information about a particular area of the seafloor.
+      These data are intended for science researchers, policy makers, students, and the general public.  The data can be used with geographic information systems (GIS) software to display geologic and oceanographic information.
+    Supplemental_Information: This layer can be used in a relational data base, using the DataSetKey to link to the ATL_SRC.txt file for brief metadata information and to formal metadata written on each source, and to the other data files of usSEABED using the SiteKey or SampleKey as relational links.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2005
+    Currentness_Reference: publication date
+  Status:
+    Progress: In work
+    Maintenance_and_Update_Frequency: As significant additional information is added to the usSEABED data collection and/or significant changes to the data mining software.
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -81.99860
+      East_Bounding_Coordinate: -65.00000
+      North_Bounding_Coordinate: 44.90600
+      South_Bounding_Coordinate: 23.02000
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: marine
+      Theme_Keyword: sediment
+      Theme_Keyword: seafloor
+      Theme_Keyword: seabed
+      Theme_Keyword: descriptions
+      Theme_Keyword: analyses
+      Theme_Keyword: usSEABED
+      Theme_Keyword: dbSEABED
+      Theme_Keyword: components
+      Theme_Keyword: features
+      Theme_Keyword: genesis
+      Theme_Keyword: facies
+      Theme_Keyword: U.S. Geological Survey
+      Theme_Keyword: Coastal and Marine Geology Program
+      Theme_Keyword: Woods Hole Science Center
+      Theme_Keyword: Pacific Science Center
+      Theme_Keyword: Marine Aggregates Resources and Processes Project
+      Theme_Keyword: Benthic Habitats (Pacific) Project
+      Theme_Keyword: University of Colorado
+      Theme_Keyword: Institute of Arctic and Alpine Research
+      Theme_Keyword: USGS
+      Theme_Keyword: CMGP
+      Theme_Keyword: WHSC
+      Theme_Keyword: PSC
+      Theme_Keyword: UC
+      Theme_Keyword: INSTAAR
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: oceans and estuaries
+      Theme_Keyword: location
+      Theme_Keyword: geoscientificInformation
+    Place:
+      Place_Keyword_Thesaurus: Geographic Names Information System
+      Place_Keyword: Atlantic Coast
+      Place_Keyword: East Coast
+      Place_Keyword: United States
+      Place_Keyword: North America
+      Place_Keyword: Atlantic Ocean
+  Access_Constraints: None
+  Use_Constraints: Public domain data from the U.S. Government are freely redistributable with the proper metadata and source attribution.  Please recognize the U.S. Geological Survey (USGS) as the source of this information.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jane A. Reid
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Pacific Science Center
+        Address: 400 Natural Bridges Drive
+        City: Santa Cruz
+        State_or_Province: CA
+        Postal_Code: 95060
+        Country: USA
+      Contact_Voice_Telephone: 831-427-4727
+      Contact_Electronic_Mail_Address: jareid@usgs.gov
+      Contact_Instructions: email preferred
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://pubs.usgs.gov/ds/2005/118/data/atl_fac.jpg
+    Browse_Graphic_File_Description: Image map showing extent of data layer coverage
+    Browse_Graphic_File_Type: JPEG
+  Data_Set_Credit: We thank the following interns for their assistance in data entry, coding, and data testing: Viness Ubert, Emma Mitchell, Emily Denham and Shea Quinn.
+  Native_Data_Set_Environment: Tkme: Another editor for formal metadata by Peter N. Schweitzer (U.S. Geological Survey, Reston, VA 22092), version 2.9.13, Microsoft Windows Version 5.1; Microsoft Word 2000 9.0
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Accuracy of each attribute is dependent on the accuracy of the original source description and the values calculated by the mining software, dbSEABED.  Values are based on filters using fuzzy set theory and represent a measure of truth about the attribute.
+  Logical_Consistency_Report: Data in the usSEABED data collection are based on the observations and analyses of others, filtered through a unifying and mining software.  Each source report varies in type of information/data recorded and format.  Only those observations that are recorded can be filtered and mined; only presence (not absences) of information can be noted.
+  Completeness_Report: Additional useable data may exist in this area; the authors appreciate any information and leads.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        Locational accuracy is dependent on both the accuracy of the navigational technique and the level of detail about the location as recorded in the individual data sources, and may vary widely (ie.g., from 0.005 km (differential GPS) in the more recent surveys to greater than 2 km based on radar, Loran, or dead reckoning in the older surveys.
+        Users of the data should note the metadata written about the original sources and use their own criteria for assessing the accuracy of the locations.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report:
+        Depth determinations, both water depth and subsample depth, are dependent on the accuracy of the depth determination technique and the level of detail noted in the original source.
+        Users of the data should note the metadata written about the original sources and use their own criteria for assessing the accuracy of the locations.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Various
+          Publication_Date: Unpublished and published material
+          Title: See separate listing, ATL_SRC.txt, and links provided therein, within this publication for the specific sources and associated metadata.
+          Geospatial_Data_Presentation_Form: Hard copy documents and digital files
+          Publication_Information:
+            Publication_Place: Various
+            Publisher: Various
+          Other_Citation_Details:
+            X number of sources, both published and unpublished, are used as the sources of information for usSEABED.  Metadata for each source is linked through the usSEABED source file (ATL_SRC.txt).
+            Sources include the U.S. Geological Survey (USGS), the U.S. Army Corps of Engineers (USACE), Minerals Management Service (MMS), National Oceanic and Atmospheric Administration (NOAA), Virginia Institute of Marine Science (VIMS), the Maryland and New Jersey State Geological Surveys (MGS, NJGS), NOAA's National Geophysical Data Center (NGDC), the Smithsonian Institution, and others.
+      Type_of_Source_Media: Hard copy and digital
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1840
+            Ending_Date: 2003
+        Source_Currentness_Reference: Source publication date or date of collection
+      Source_Citation_Abbreviation: Varies with source
+      Source_Contribution: Point locations, descriptions, and various analytical data (textural, granulometric, geochemical, geophysical, acoustic) on sediments, rock exposure, and benthos.  Varies with source.
+    Process_Step:
+      Process_Description:
+        Source data may be digitized as necessary (typed or scanned in), with a visual inspection of digitized data to the source report and corrections as necessary, and are tested for completeness in Microsoft Excel as appropriate.  Other digital data may be decoded using source-specific programs, downloaded via the web, or sent directly to the USGS or University of Colorado via email.
+        Data are formatted into the dbSEABED Data Entry template (db9_DataEntry.xls, version 08/07/2004) by hand, and tested using the dbSEABED relational database program (RDBi, version 01/05/2005) for correctness of formatting.
+        Data are compiled into source data resource files (DRF) and processed through the dbSEABED data mining program (MNEt, version 04/07/2005) program, using the dbSEABED thesaurus (db9_dct.rtf, version 04/07/2005) and facies set up file for U.S. waters (db9_FAC.txt, version 04/07/2005).
+        Data are iteratively reprocessed and corrected until noted errors are fixed, as recorded by the _RBDS.2fx and _MNE.DGN files.  Data are exercised in a GIS for location tests and useability.
+      Source_Produced_Citation_Abbreviation: ATL_FAC.txt
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey
+            Contact_Person: Jamey M. Reid
+          Contact_Position: IT Specialist (Data Management)
+          Contact_Address:
+            Address_Type: Mail and Physical
+            Address: USGS Woods Hole Science Centers
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+          Contact_Voice_Telephone: (508) 548-8700 x2204
+          Contact_Electronic_Mail_Address: jreid@usgs.gov
+          Contact_Instructions: email preferred
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Point
+      Point_and_Vector_Object_Count: 13679
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.00001
+      Longitude_Resolution: 0.00001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Point
+      Entity_Type_Definition: Sample location
+      Entity_Type_Definition_Source: Source reports
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Forams
+      Attribute_Definition: Those samples with a foraminferal component
+      Attribute_Definition_Source: db9_dct.rtf, db9_FAC.txt for U.S. waters
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a foraminifera, benthic foraminifera, planktonic foraminifera, large foraminifera, or arenaceous foraminifera component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.
+    Attribute:
+      Attribute_Label: LATITUDE
+    Attribute:
+      Attribute_Label: Shell
+      Attribute_Definition: Shell
+      Attribute_Definition_Source: db9_dct.rtf, db9_FAC.txt for U.S. waters
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a specific shell or shell debris component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.
+    Attribute:
+      Attribute_Label: WATERDEPTH
+    Attribute:
+      Attribute_Label: HardPlant
+      Attribute_Definition: Hard marine plants
+      Attribute_Definition_Source: db9_dct.rtf, db9_FAC.txt for U.S. waters
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a coralline algae, coral algae, halimeda, or calcareous algae component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.
+    Attribute:
+      Attribute_Label: SAMPLEBASE
+    Attribute:
+      Attribute_Label: SITE
+    Attribute:
+      Attribute_Label: DATASETKEY
+    Attribute:
+      Attribute_Label: Latitude
+      Attribute_Definition: Latitude coordinate of sample location
+      Attribute_Definition_Source: Source data
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: location information in decimal degrees
+    Attribute:
+      Attribute_Label: SampleTop
+      Attribute_Definition: Measured subbottom depth information for each point sample (top)
+      Attribute_Definition_Source: Source data
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Subsample location information in meters
+    Attribute:
+      Attribute_Label: SiteKey
+      Attribute_Definition: Site key (relational link)
+      Attribute_Definition_Source: dbSEABED MNEt program
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unique sequential numeric key to information about the same site in other usSEABED data files
+    Attribute:
+      Attribute_Label: Carbonate
+      Attribute_Definition: Those samples with a carbonate component
+      Attribute_Definition_Source: db9_dct.rtf, db9_FAC.txt for U.S. waters
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a specific carbonate, calcareous crust, calcite, dolomite, limestone, or siderite component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.
+    Attribute:
+      Attribute_Label: Volcanic
+      Attribute_Definition: Those samples with a volcanic component
+      Attribute_Definition_Source: db9_dct.rtf, db9_FAC.txt for U.S. waters
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a specific volcanic rock (volrck and vol_rck), basalt, pumice, volcanic glass, or volcanic sediment; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.
+    Attribute:
+      Attribute_Label: Carbon
+      Attribute_Definition: Those samples with a carbon component
+      Attribute_Definition_Source: db9_dct.rtf, db9_FAC.txt for U.S. waters
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a organic carbon, bitumin, coal, or peat component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.
+    Attribute:
+      Attribute_Label: SilcPelag
+      Attribute_Definition: Silceous pelagic fauna/flora
+      Attribute_Definition_Source: db9_dct.rtf, db9_FAC.txt for U.S. waters
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a diatom, radiolaria, or siliceous ooze component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.
+    Attribute:
+      Attribute_Label: Coral
+      Attribute_Definition: Corals
+      Attribute_Definition_Source: db9_dct.rtf, db9_FAC.txt for U.S. waters
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a coral, coral reef, coral debris, or solitary coral component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.
+    Attribute:
+      Attribute_Label: METAMORPHI
+    Attribute:
+      Attribute_Label: MINERALIZE
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: AUTHFEMN
+    Attribute:
+      Attribute_Label: OOZE
+    Attribute:
+      Attribute_Label: CARBON
+    Attribute:
+      Attribute_Label: GEOCHEMSIG
+    Attribute:
+      Attribute_Label: FORAMS
+    Attribute:
+      Attribute_Label: OTHERCALCP
+    Attribute:
+      Attribute_Label: Ooze
+      Attribute_Definition: Those samples with a ooze component
+      Attribute_Definition_Source: db9_dct.rtf, db9_FAC.txt for U.S. waters
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a calcareous ooze, siliceous ooze, or other ooze component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.
+    Attribute:
+      Attribute_Label: SHELL
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: CORAL
+    Attribute:
+      Attribute_Label: HARDPLANT
+    Attribute:
+      Attribute_Label: Longitude
+      Attribute_Definition: Longitude coordinate of sample location
+      Attribute_Definition_Source: Source data
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: location information in decimal degrees
+    Attribute:
+      Attribute_Label: IGNEOUS
+    Attribute:
+      Attribute_Label: DataSetKey
+      Attribute_Definition: Data set key (relational link)
+      Attribute_Definition_Source: dbSEABED MNEt program
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unique sequential numeric key to SRC file
+    Attribute:
+      Attribute_Label: VOLCANIC
+    Attribute:
+      Attribute_Label: SampleKey
+      Attribute_Definition: Sample key (relational link)
+      Attribute_Definition_Source: Source data
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unique sequential numeric key to information about the same sample or subsample in other usSEABED data files
+    Attribute:
+      Attribute_Label: METAMORPHI
+    Attribute:
+      Attribute_Label: Igneous
+      Attribute_Definition: Those samples with a igneous component
+      Attribute_Definition_Source: db9_dct.rtf, db9_FAC.txt for U.S. waters
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a specific igneous rock, andesite, basalt, gabbro, ultramafic, or granite component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.
+    Attribute:
+      Attribute_Label: AUTHFEMN
+    Attribute:
+      Attribute_Label: OOZE
+    Attribute:
+      Attribute_Label: CARBON
+    Attribute:
+      Attribute_Label: GEOCHEMSIG
+    Attribute:
+      Attribute_Label: FORAMS
+    Attribute:
+      Attribute_Label: OTHERCALCP
+    Attribute:
+      Attribute_Label: SILCPELAG
+    Attribute:
+      Attribute_Label: SHELL
+    Attribute:
+      Attribute_Label: CORAL
+    Attribute:
+      Attribute_Label: HARDPLANT
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: Jamey M. Reid
+      Contact_Position: IT Specialist (Data Management)
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: USGS Woods Hole Science Center
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+      Contact_Voice_Telephone: (508) 548-8700 x2204
+      Contact_Electronic_Mail_Address: jreid@usgs.gov
+      Contact_Instructions: email preferred
+  Resource_Description: Downloadable Data
+  Distribution_Liability:
+    Although this data set has been used by the U.S. Geological Survey (USGS), no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and/or related materials.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials.
+
+    Trade, firm, or product names and other references to non-USGS products and services are provided for information only and do not constitute endorsement or warranty, express or implied, by the USGS, USDOI, or U.S. Government, as to their suitability, content, usefulness, functioning, completeness, or accuracy.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ASCII text
+        Format_Information_Content: Text file containing data input to usSEABED.  Fields are comma separated values.  First record of file contains field names.
+        File_Decompression_Technique: no compression applied
+        Transfer_Size: 2.17 MB
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/data/atl_fac.txt
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/htmldocs/data_cata.htm
+          Access_Instructions: Downloadable thru the WWW
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SHP
+        Format_Specification: ESRI Shapefile
+        Format_Information_Content: The SHP file contains the geospatial data. The SHX file contains the index of the geospatial data. The DBF file contains the attribute data in dBASE format. The PRJ file contains the coordinate system information (optional). The AVL file contains the legend information (optional). The SBN and SBX files contain the spatial index of the geospatial data (optional). The XML file contains the metadata describing the data set <data set name>.shp.xml.  An ASCII version of the metadata file.  A browse graphic showing the data layer coverage and extent (optional).
+        File_Decompression_Technique: winzip
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/data/atl_fac.zip
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/htmldocs/data_cata.htm
+          Access_Instructions: Downloadable thru the WWW
+    Fees: None
+  Technical_Prerequisites: These data are available in Environmental Systems Research Institute (ESRI) shapefile format.  The user must have ArcGIS® or ArcView® 3.0 or greater software to read and process the data file.  In lieu of ArcView or ArcGIS, the user may utilize another GIS application package capable of importing the data.  A free data viewer, arcexplorer, capable of displaying the data is available from ESRI at www.esri.com.
+Metadata_Reference_Information:
+  Metadata_Date: 20050408
+  Metadata_Review_Date: 20050512
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jane A. Reid
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Geologist
+      Contact_Address:
+        Address_Type: Mail and physical
+        Address: Pacific Science Center
+        Address: 400 Natural Bridges Drive
+        City: Santa Cruz
+        State_or_Province: CA
+        Postal_Code: 95060
+        Country: USA
+      Contact_Voice_Telephone: 831-427-4727
+      Contact_Electronic_Mail_Address: jareid@usgs.gov
+      Contact_Instructions: email preferred
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

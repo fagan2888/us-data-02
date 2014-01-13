@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Geological Survey</origin>
+				<origin>University of Colorado</origin>
+				<pubdate>2005</pubdate>
+				<title>ATL_FAC:  usSEABED facies data for the entire U.S. Atlantic Coast</title>
+				<edition>1.0</edition>
+				<geoform>vector digital data</geoform>
+				<onlink>http://pubs.usgs.gov/ds/2005/118/data/atl_fac.zip</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>J.M. Reid</origin>
+						<origin>J.A. Reid</origin>
+						<origin>C.J. Jenkins</origin>
+						<origin>M.E. Hastings</origin>
+						<origin>S.J. Williams</origin>
+						<origin>L.J. Poppe</origin>
+						<pubdate>2005</pubdate>
+						<title>usSEABED: Atlantic Coast Offshore Surficial Sediment Data Release</title>
+						<serinfo>
+							<sername>Data Series</sername>
+							<issue>118</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Woods Hole Science Center, Woods Hole, MA</pubplace>
+							<publish>U.S. Geological Survey, Coastal and Marine Geology Program</publish>
+						</pubinfo>
+						<onlink>http://pubs.usgs.gov/ds/2005/118/</onlink>
+						<edition>1.0</edition></citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">atl_fac</ftname><onlink>http://pubs.usgs.gov/ds/2005/118/htmldocs/data_cata.htm</onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>
+The facies data layer (_FAC.txt) is a point coverage of known sediment samplings, inspections, and probings from the usSEABED data collection and integrated using the software system dbSEABED.
+The facies data layer (_FAC.txt)represents concatenated information about components (minerals and rock type), genesis (igneous, metamorphic, carbonate, terrigenous), and other appropriate groupings of information about the seafloor.
+The facies data are parsed from written descriptions from cores, grabs, photographs, and videos, and may apply only to a subsample as denoted by the Top, Bottom, and SamplePhase fields.
+Lack of values in a defined facies field does not necessarily imply lack of the components defining that field, but may imply a lack of data for that field.
+</abstract>
+			<purpose>
+The Facies layer can be used to investigate the known information about a particular area of the seafloor.
+These data are intended for science researchers, policy makers, students, and the general public.  The data can be used with geographic information systems (GIS) software to display geologic and oceanographic information.
+</purpose>
+			<supplinf>This layer can be used in a relational data base, using the DataSetKey to link to the ATL_SRC.txt file for brief metadata information and to formal metadata written on each source, and to the other data files of usSEABED using the SiteKey or SampleKey as relational links.</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2005</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>As significant additional information is added to the usSEABED data collection and/or significant changes to the data mining software.</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-81.99860</westbc>
+				<eastbc>-65.00000</eastbc>
+				<northbc>44.90600</northbc>
+				<southbc>23.02000</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-81.969720</leftbc><rightbc Sync="TRUE">-65.000000</rightbc><bottombc Sync="TRUE">24.166670</bottombc><topbc Sync="TRUE">45.165000</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>General</themekt>
+				<themekey>marine</themekey>
+				<themekey>sediment</themekey>
+				<themekey>seafloor</themekey>
+				<themekey>seabed</themekey>
+				<themekey>descriptions</themekey>
+				<themekey>analyses</themekey>
+				<themekey>usSEABED</themekey>
+				<themekey>dbSEABED</themekey>
+				<themekey>components</themekey>
+				<themekey>features</themekey>
+				<themekey>genesis</themekey>
+				<themekey>facies</themekey>
+				<themekey>U.S. Geological Survey</themekey>
+				<themekey>Coastal and Marine Geology Program</themekey>
+				<themekey>Woods Hole Science Center</themekey>
+				<themekey>Pacific Science Center</themekey>
+				<themekey>Marine Aggregates Resources and Processes Project</themekey>
+				<themekey>Benthic Habitats (Pacific) Project</themekey>
+				<themekey>University of Colorado</themekey>
+				<themekey>Institute of Arctic and Alpine Research</themekey>
+				<themekey>USGS</themekey><themekey>CMGP</themekey><themekey>WHSC</themekey><themekey>PSC</themekey><themekey>UC</themekey><themekey>INSTAAR</themekey></theme>
+			<place>
+				<placekt>Geographic Names Information System</placekt>
+				<placekey>Atlantic Coast</placekey>
+				<placekey>East Coast</placekey>
+				<placekey>United States</placekey>
+				<placekey>North America</placekey>
+				<placekey>Atlantic Ocean</placekey>
+			</place>
+			<theme><themekey>oceans and estuaries</themekey><themekey>location</themekey><themekt>ISO 19115 Topic Category</themekt><themekey>geoscientificInformation</themekey></theme></keywords>
+		<accconst>None</accconst>
+		<useconst>Public domain data from the U.S. Government are freely redistributable with the proper metadata and source attribution.  Please recognize the U.S. Geological Survey (USGS) as the source of this information.</useconst>
+		<datacred>We thank the following interns for their assistance in data entry, coding, and data testing: Viness Ubert, Emma Mitchell, Emily Denham and Shea Quinn.</datacred>
+		<native>Tkme: Another editor for formal metadata by Peter N. Schweitzer (U.S. Geological Survey, Reston, VA 22092), version 2.9.13, Microsoft Windows Version 5.1; Microsoft Word 2000 9.0</native>
+		<natvform Sync="TRUE">Shapefile</natvform><browse><browsen>http://pubs.usgs.gov/ds/2005/118/data/atl_fac.jpg</browsen><browsed>Image map showing extent of data layer coverage</browsed><browset>JPEG</browset></browse><ptcontac><cntinfo><cntaddr><address>Pacific Science Center</address><addrtype>mailing and physical address</addrtype><address>400 Natural Bridges Drive</address><city>Santa Cruz</city><state>CA</state><postal>95060</postal><country>USA</country></cntaddr><cntperp><cntper>Jane A. Reid</cntper><cntorg>U.S. Geological Survey</cntorg></cntperp><cntpos>Geologist</cntpos><cntvoice>831-427-4727</cntvoice><cntemail>jareid@usgs.gov</cntemail><cntinst>email preferred</cntinst></cntinfo></ptcontac></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Accuracy of each attribute is dependent on the accuracy of the original source description and the values calculated by the mining software, dbSEABED.  Values are based on filters using fuzzy set theory and represent a measure of truth about the attribute.</attraccr>
+		</attracc>
+		<logic>Data in the usSEABED data collection are based on the observations and analyses of others, filtered through a unifying and mining software.  Each source report varies in type of information/data recorded and format.  Only those observations that are recorded can be filtered and mined; only presence (not absences) of information can be noted.</logic>
+		<complete>Additional useable data may exist in this area; the authors appreciate any information and leads.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+Locational accuracy is dependent on both the accuracy of the navigational technique and the level of detail about the location as recorded in the individual data sources, and may vary widely (ie.g., from 0.005 km (differential GPS) in the more recent surveys to greater than 2 km based on radar, Loran, or dead reckoning in the older surveys.
+Users of the data should note the metadata written about the original sources and use their own criteria for assessing the accuracy of the locations.
+</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>
+Depth determinations, both water depth and subsample depth, are dependent on the accuracy of the depth determination technique and the level of detail noted in the original source.
+Users of the data should note the metadata written about the original sources and use their own criteria for assessing the accuracy of the locations.
+</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Various</origin>
+						<pubdate>Unpublished and published material</pubdate>
+						<title>See separate listing, ATL_SRC.txt, and links provided therein, within this publication for the specific sources and associated metadata.</title>
+						<geoform>Hard copy documents and digital files</geoform>
+						<pubinfo>
+							<pubplace>Various</pubplace>
+							<publish>Various</publish>
+						</pubinfo>
+						<othercit>
+X number of sources, both published and unpublished, are used as the sources of information for usSEABED.  Metadata for each source is linked through the usSEABED source file (ATL_SRC.txt).
+Sources include the U.S. Geological Survey (USGS), the U.S. Army Corps of Engineers (USACE), Minerals Management Service (MMS), National Oceanic and Atmospheric Administration (NOAA), Virginia Institute of Marine Science (VIMS), the Maryland and New Jersey State Geological Surveys (MGS, NJGS), NOAA's National Geophysical Data Center (NGDC), the Smithsonian Institution, and others.
+</othercit>
+					</citeinfo>
+				</srccite>
+				<typesrc>Hard copy and digital</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1840</begdate>
+							<enddate>2003</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Source publication date or date of collection</srccurr>
+				</srctime>
+				<srccitea>Varies with source</srccitea>
+				<srccontr>Point locations, descriptions, and various analytical data (textural, granulometric, geochemical, geophysical, acoustic) on sediments, rock exposure, and benthos.  Varies with source.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+Source data may be digitized as necessary (typed or scanned in), with a visual inspection of digitized data to the source report and corrections as necessary, and are tested for completeness in Microsoft Excel as appropriate.  Other digital data may be decoded using source-specific programs, downloaded via the web, or sent directly to the USGS or University of Colorado via email.
+Data are formatted into the dbSEABED Data Entry template (db9_DataEntry.xls, version 08/07/2004) by hand, and tested using the dbSEABED relational database program (RDBi, version 01/05/2005) for correctness of formatting.
+Data are compiled into source data resource files (DRF) and processed through the dbSEABED data mining program (MNEt, version 04/07/2005) program, using the dbSEABED thesaurus (db9_dct.rtf, version 04/07/2005) and facies set up file for U.S. waters (db9_FAC.txt, version 04/07/2005).
+Data are iteratively reprocessed and corrected until noted errors are fixed, as recorded by the _RBDS.2fx and _MNE.DGN files.  Data are exercised in a GIS for location tests and useability.
+</procdesc>
+				<srcprod>ATL_FAC.txt</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>U.S. Geological Survey</cntorg>
+							<cntper>Jamey M. Reid</cntper>
+						</cntorgp>
+						<cntpos>IT Specialist (Data Management)</cntpos>
+						<cntaddr>
+							<addrtype>Mail and Physical</addrtype>
+							<address>USGS Woods Hole Science Centers</address>
+							<address>384 Woods Hole Road</address>
+							<city>Woods Hole</city>
+							<state>MA</state>
+							<postal>02543-1598</postal>
+						</cntaddr>
+						<cntvoice>(508) 548-8700 x2204</cntvoice>
+						<cntemail>jreid@usgs.gov</cntemail>
+						<cntinst>email preferred</cntinst>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="atl_fac">
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt Sync="TRUE">13679</ptvctcnt></sdtsterm>
+			<esriterm Name="atl_fac"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Point</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">13679</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.00001</latres>
+				<longres>0.00001</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<cordsysn><geogcsn>GCS_North_American_1927</geogcsn></cordsysn><geodetic><horizdn Sync="TRUE">North American Datum of 1983</horizdn><ellips Sync="TRUE">Geodetic Reference System 80</ellips><semiaxis Sync="TRUE">6378137.000000</semiaxis><denflat Sync="TRUE">298.257222</denflat></geodetic></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="atl_fac">
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>Forams</attrlabl>
+				<attrdef>Those samples with a foraminferal component</attrdef>
+				<attrdefs>db9_dct.rtf, db9_FAC.txt for U.S. waters</attrdefs>
+				<attrdomv>
+					<udom>Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a foraminifera, benthic foraminifera, planktonic foraminifera, large foraminifera, or arenaceous foraminifera component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">LATITUDE</attrlabl><attalias Sync="TRUE">LATITUDE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr><attr>
+				<attrlabl>Shell</attrlabl>
+				<attrdef>Shell</attrdef>
+				<attrdefs>db9_dct.rtf, db9_FAC.txt for U.S. waters</attrdefs>
+				<attrdomv>
+					<udom>Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a specific shell or shell debris component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">LONGITUDE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr>
+			<attr><attrlabl Sync="TRUE">WATERDEPTH</attrlabl><attalias Sync="TRUE">WATERDEPTH</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">4</attwidth></attr><attr>
+				<attrlabl>HardPlant</attrlabl>
+				<attrdef>Hard marine plants</attrdef>
+				<attrdefs>db9_dct.rtf, db9_FAC.txt for U.S. waters</attrdefs>
+				<attrdomv>
+					<udom>Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a coralline algae, coral algae, halimeda, or calcareous algae component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SAMPLETOP</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr>
+			<attr><attrlabl Sync="TRUE">SAMPLEBASE</attrlabl><attalias Sync="TRUE">SAMPLEBASE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr><attr><attrlabl Sync="TRUE">SITE</attrlabl><attalias Sync="TRUE">SITE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">40</attwidth></attr><attr><attrlabl Sync="TRUE">DATASETKEY</attrlabl><attalias Sync="TRUE">DATASETKEY</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr>
+				<attrlabl>Latitude</attrlabl>
+				<attrdef>Latitude coordinate of sample location</attrdef>
+				<attrdefs>Source data</attrdefs>
+				<attrdomv>
+					<udom>location information in decimal degrees</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SITEKEY</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">5</attwidth></attr>
+			<attr>
+				<attrlabl>SampleTop</attrlabl>
+				<attrdef>Measured subbottom depth information for each point sample (top)</attrdef>
+				<attrdefs>Source data</attrdefs>
+				<attrdomv>
+					<udom>Subsample location information in meters</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SAMPLEKEY</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">5</attwidth></attr>
+			<attr>
+				<attrlabl>SiteKey</attrlabl>
+				<attrdef>Site key (relational link)</attrdef>
+				<attrdefs>dbSEABED MNEt program</attrdefs>
+				<attrdomv>
+					<udom>Unique sequential numeric key to information about the same site in other usSEABED data files</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SAMPLER</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">31</attwidth></attr>
+			<attr>
+				<attrlabl>Carbonate</attrlabl>
+				<attrdef>Those samples with a carbonate component</attrdef>
+				<attrdefs>db9_dct.rtf, db9_FAC.txt for U.S. waters</attrdefs>
+				<attrdomv>
+					<udom>Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a specific carbonate, calcareous crust, calcite, dolomite, limestone, or siderite component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DATATYPE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>Volcanic</attrlabl>
+				<attrdef>Those samples with a volcanic component</attrdef>
+				<attrdefs>db9_dct.rtf, db9_FAC.txt for U.S. waters</attrdefs>
+				<attrdomv>
+					<udom>Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a specific volcanic rock (volrck and vol_rck), basalt, pumice, volcanic glass, or volcanic sediment; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TERRIGENOU</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr>
+			<attr>
+				<attrlabl>Carbon</attrlabl>
+				<attrdef>Those samples with a carbon component</attrdef>
+				<attrdefs>db9_dct.rtf, db9_FAC.txt for U.S. waters</attrdefs>
+				<attrdomv>
+					<udom>Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a organic carbon, bitumin, coal, or peat component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">CARBONATE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr>
+			<attr>
+				<attrlabl>SilcPelag</attrlabl>
+				<attrdef>Silceous pelagic fauna/flora</attrdef>
+				<attrdefs>db9_dct.rtf, db9_FAC.txt for U.S. waters</attrdefs>
+				<attrdomv>
+					<udom>Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a diatom, radiolaria, or siliceous ooze component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">IGNEOUS</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr>
+			<attr>
+				<attrlabl>Coral</attrlabl>
+				<attrdef>Corals</attrdef>
+				<attrdefs>db9_dct.rtf, db9_FAC.txt for U.S. waters</attrdefs>
+				<attrdomv>
+					<udom>Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a coral, coral reef, coral debris, or solitary coral component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">VOLCANIC</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">METAMORPHI</attrlabl><attalias Sync="TRUE">METAMORPHI</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">MINERALIZE</attrlabl><attalias Sync="TRUE">MINERALIZE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">AUTHFEMN</attrlabl><attalias Sync="TRUE">AUTHFEMN</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">OOZE</attrlabl><attalias Sync="TRUE">OOZE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">CARBON</attrlabl><attalias Sync="TRUE">CARBON</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">GEOCHEMSIG</attrlabl><attalias Sync="TRUE">GEOCHEMSIG</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">FORAMS</attrlabl><attalias Sync="TRUE">FORAMS</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">OTHERCALCP</attrlabl><attalias Sync="TRUE">OTHERCALCP</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr>
+				<attrlabl>Ooze</attrlabl>
+				<attrdef>Those samples with a ooze component</attrdef>
+				<attrdefs>db9_dct.rtf, db9_FAC.txt for U.S. waters</attrdefs>
+				<attrdomv>
+					<udom>Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a calcareous ooze, siliceous ooze, or other ooze component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SILCPELAG</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">2</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">SHELL</attrlabl><attalias Sync="TRUE">SHELL</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">CORAL</attrlabl><attalias Sync="TRUE">CORAL</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><enttyp>
+				<enttypl>Point</enttypl>
+				<enttypd>Sample location</enttypd>
+				<enttypds>Source reports</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">13679</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">HARDPLANT</attrlabl><attalias Sync="TRUE">HARDPLANT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr>
+				<attrlabl>Longitude</attrlabl>
+				<attrdef>Longitude coordinate of sample location</attrdef>
+				<attrdefs>Source data</attrdefs>
+				<attrdomv>
+					<udom>location information in decimal degrees</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SAMPLEPHAS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">48</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">IGNEOUS</attrlabl><attalias Sync="TRUE">IGNEOUS</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>DataSetKey</attrlabl>
+				<attrdef>Data set key (relational link)</attrdef>
+				<attrdefs>dbSEABED MNEt program</attrdefs>
+				<attrdomv>
+					<udom>Unique sequential numeric key to SRC file</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">SAMPLEBASE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">6</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr>
+			<attr><attrlabl Sync="TRUE">VOLCANIC</attrlabl><attalias Sync="TRUE">VOLCANIC</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>SampleKey</attrlabl>
+				<attrdef>Sample key (relational link)</attrdef>
+				<attrdefs>Source data</attrdefs>
+				<attrdomv>
+					<udom>Unique sequential numeric key to information about the same sample or subsample in other usSEABED data files</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">DATASETKEY</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">METAMORPHI</attrlabl><attalias Sync="TRUE">METAMORPHI</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>Igneous</attrlabl>
+				<attrdef>Those samples with a igneous component</attrdef>
+				<attrdefs>db9_dct.rtf, db9_FAC.txt for U.S. waters</attrdefs>
+				<attrdomv>
+					<udom>Result of filters based on fuzzy set theory determining degree of membership (0-100) for samples that include those terms which denote a specific igneous rock, andesite, basalt, gabbro, ultramafic, or granite component; see table D in the data publication (Larger_Work_Citation) for list of trigger terms under each component mentioned.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">TERRIGENOU</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">AUTHFEMN</attrlabl><attalias Sync="TRUE">AUTHFEMN</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">OOZE</attrlabl><attalias Sync="TRUE">OOZE</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CARBON</attrlabl><attalias Sync="TRUE">CARBON</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">GEOCHEMSIG</attrlabl><attalias Sync="TRUE">GEOCHEMSIG</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">FORAMS</attrlabl><attalias Sync="TRUE">FORAMS</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">OTHERCALCP</attrlabl><attalias Sync="TRUE">OTHERCALCP</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SILCPELAG</attrlabl><attalias Sync="TRUE">SILCPELAG</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">2</attwidth><atprecis Sync="TRUE">2</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SHELL</attrlabl><attalias Sync="TRUE">SHELL</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CORAL</attrlabl><attalias Sync="TRUE">CORAL</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">HARDPLANT</attrlabl><attalias Sync="TRUE">HARDPLANT</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">3</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey</cntorg>
+					<cntper>Jamey M. Reid</cntper>
+				</cntorgp>
+				<cntpos>IT Specialist (Data Management)</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>USGS Woods Hole Science Center</address>
+					<address>384 Woods Hole Road</address>
+					<city>Woods Hole</city>
+					<state>MA</state>
+					<postal>02543-1598</postal>
+				</cntaddr>
+				<cntvoice>(508) 548-8700 x2204</cntvoice>
+				<cntemail>jreid@usgs.gov</cntemail>
+				<cntinst>email preferred</cntinst>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>Although this data set has been used by the U.S. Geological Survey (USGS), no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and/or related materials.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials.
+
+Trade, firm, or product names and other references to non-USGS products and services are provided for information only and do not constitute endorsement or warranty, express or implied, by the USGS, USDOI, or U.S. Government, as to their suitability, content, usefulness, functioning, completeness, or accuracy.
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ASCII text</formname>
+					<filedec>no compression applied</filedec>
+					<transize>2.17 MB</transize>
+					<dssize Sync="TRUE">3.544</dssize><formcont>Text file containing data input to usSEABED.  Fields are comma separated values.  First record of file contains field names.</formcont></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://pubs.usgs.gov/ds/2005/118/data/atl_fac.txt</networkr>
+								<networkr>http://pubs.usgs.gov/ds/2005/118/htmldocs/data_cata.htm</networkr></networka>
+						</computer>
+						<accinstr>Downloadable thru the WWW</accinstr>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<digform><digtopt><onlinopt><computer><networka><networkr>http://pubs.usgs.gov/ds/2005/118/data/atl_fac.zip</networkr><networkr>http://pubs.usgs.gov/ds/2005/118/htmldocs/data_cata.htm</networkr></networka></computer><accinstr>Downloadable thru the WWW</accinstr></onlinopt></digtopt><digtinfo><formname>SHP</formname><formspec>ESRI Shapefile</formspec><formcont>The SHP file contains the geospatial data. The SHX file contains the index of the geospatial data. The DBF file contains the attribute data in dBASE format. The PRJ file contains the coordinate system information (optional). The AVL file contains the legend information (optional). The SBN and SBX files contain the spatial index of the geospatial data (optional). The XML file contains the metadata describing the data set &lt;data set name&gt;.shp.xml.  An ASCII version of the metadata file.  A browse graphic showing the data layer coverage and extent (optional).</formcont><filedec>winzip</filedec></digtinfo></digform></stdorder>
+		<techpreq>These data are available in Environmental Systems Research Institute (ESRI) shapefile format.  The user must have ArcGIS® or ArcView® 3.0 or greater software to read and process the data file.  In lieu of ArcView or ArcGIS, the user may utilize another GIS application package capable of importing the data.  A free data viewer, arcexplorer, capable of displaying the data is available from ESRI at www.esri.com.</techpreq></distinfo>
+	<metainfo>
+		<metd>20050408</metd>
+		<metc>
+			<cntinfo>
+				<cntpos>Geologist</cntpos>
+				<cntaddr>
+					<addrtype>Mail and physical</addrtype>
+					<address>Pacific Science Center</address>
+					<address>400 Natural Bridges Drive</address>
+					<city>Santa Cruz</city>
+					<state>CA</state>
+					<postal>95060</postal>
+					<country>USA</country></cntaddr>
+				<cntvoice>831-427-4727</cntvoice>
+				<cntemail>jareid@usgs.gov</cntemail>
+				<cntinst>email preferred</cntinst>
+				<cntperp><cntper>Jane A. Reid</cntper><cntorg>U.S. Geological Survey</cntorg></cntperp></cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metac>None</metac>
+		<langmeta Sync="TRUE">en</langmeta><mettc Sync="TRUE">local time</mettc><metuc>None</metuc><metrd>20050512</metrd><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{D9AB8A7A-6340-4BFF-BB82-E9410801C8FE}</MetaID><CreaDate>20050415</CreaDate><CreaTime>15295500</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20050518</SyncDate><SyncTime>11170500</SyncTime><ModDate>20050518</ModDate><ModTime>11170500</ModTime></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 8.3.0.800</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">atl_fac</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-81.96972</westBL><eastBL Sync="TRUE">-65</eastBL><northBL Sync="TRUE">45.165</northBL><southBL Sync="TRUE">24.16667</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-81.96972</westBL><eastBL Sync="TRUE">-65</eastBL><northBL Sync="TRUE">45.165</northBL><southBL Sync="TRUE">24.16667</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\JREID\EC_usSEABED\data\atl_fac.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">3.544</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_North_American_1983</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="atl_fac"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">13679</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20050518</mdDateSt></metadata>

@@ -1,0 +1,1498 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Originator: University of Colorado
+      Publication_Date: 2005
+      Title: ATL_CMP: usSEABED component and features data for the entire U.S. Atlantic Coast
+      Edition: 1.0
+      Geospatial_Data_Presentation_Form: vector digital data
+      Online_Linkage: http://pubs.usgs.gov/ds/2005/118/data/atl_cmp.zip
+      Online_Linkage: http://pubs.usgs.gov/ds/2005/118/htmldocs/data_cata.htm
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: J.M. Reid
+          Originator: J.A. Reid
+          Originator: C.J. Jenkins
+          Originator: M.E. Hastings
+          Originator: S.J. Williams
+          Originator: L.J. Poppe
+          Publication_Date: 2005
+          Title: usSEABED: Atlantic Coast Offshore Surficial Sediment Data Release
+          Series_Information:
+            Series_Name: Data Series
+            Issue_Identification: 118
+          Publication_Information:
+            Publication_Place: Wooods Hole Science Center, Woods Hole, MA
+            Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+          Online_Linkage: http://pubs.usgs.gov/ds/2005/118/
+  Description:
+    Abstract: This component data layer (_CMP.txt) file gives information about selected components (minerals, rock type, microfossils, benthic biota) and seafloor features (bioturbation, structure, ripples) at a given site. Values in the attribute fields represent the membership to that attribute's fuzzy set. For components such as minerals, rocks, micro-biota and plants, and/or epifauna and infauna, corals and other geologic and biologic information, the value depends on sentence structure and other components in description. For features (denoted by an asterisk) such as ripples, ophiuroids, sponges, shrimp, worm tubes, lamination, lumps, grading, and/or bioturbation, the value of the fuzzy set depends on the development of the attribute. Only the relative fuzzy presence of components and features can be determined; the absence of information does not indicate a lack of the attribute, only lack of information about that attribute.
+    Purpose: The component data file (_CMP.txt) can be used to investigate the relative presence of various constituents and the development and expression of selected seafloor characteristics.
+    Supplemental_Information: This layer can be used in a relational data base, using the DataSetKey to link to the ATL_SRC.txt file for brief metadata information and to formal metadata written on each source, and to the other data files of usSEABED using the SiteKey or SampleKey as relational links.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2005
+    Currentness_Reference: publication date
+  Status:
+    Progress: In work
+    Maintenance_and_Update_Frequency: As significant additional information is added to the usSEABED data collection and/or significant changes to the data mining software.
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -81.99860
+      East_Bounding_Coordinate: -65.00000
+      North_Bounding_Coordinate: 44.90600
+      South_Bounding_Coordinate: 23.02000
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: marine
+      Theme_Keyword: sediment
+      Theme_Keyword: seafloor
+      Theme_Keyword: seabed
+      Theme_Keyword: descriptions
+      Theme_Keyword: analyses
+      Theme_Keyword: usSEABED
+      Theme_Keyword: dbSEABED
+      Theme_Keyword: components
+      Theme_Keyword: features
+      Theme_Keyword: genesis
+      Theme_Keyword: U.S. Geological Survey
+      Theme_Keyword: Coastal and Marine Geology Program
+      Theme_Keyword: Woods Hole Science Center
+      Theme_Keyword: Pacific Science Center
+      Theme_Keyword: Marine Aggregates Resources and Processes Project
+      Theme_Keyword: Benthic Habitats (Pacific) Project
+      Theme_Keyword: University of Colorado
+      Theme_Keyword: Institute of Arctic and Alpine Research
+      Theme_Keyword: USGS
+      Theme_Keyword: CMGP
+      Theme_Keyword: WHSC
+      Theme_Keyword: PSC
+      Theme_Keyword: UC
+      Theme_Keyword: INSTAAR
+    Place:
+      Place_Keyword_Thesaurus: Geographic Names Information System
+      Place_Keyword: Atlantic Coast
+      Place_Keyword: East Coast
+      Place_Keyword: United States
+      Place_Keyword: North America
+      Place_Keyword: Atlantic Ocean
+  Access_Constraints: None
+  Use_Constraints: Public domain data from the U.S. Government are freely redistributable with the proper metadata and source attribution. Please recognize the U.S. Geological Survey (USGS) as the source of this information.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jane A. Reid
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 400 Natural Bridges Drive
+        City: Santa Cruz
+        State_or_Province: CA
+        Postal_Code: 95060
+        Country: USA
+      Contact_Voice_Telephone: 841-427-4727
+      Contact_Electronic_Mail_Address: jareid@usgs.gov
+      Contact_Instructions: email preferred
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://pubs.usgs.gov/ds/2005/118/data/atl_cmp.jpg
+    Browse_Graphic_File_Description: Image map showing extent of data layer coverage
+    Browse_Graphic_File_Type: JPEG
+  Data_Set_Credit: We thank the following interns for their assistance in data entry, coding, and data testing: Viness Ubert, Emma Mitchell, Emily Denham and Shea Quinn.
+  Native_Data_Set_Environment: Tkme: Another editor for formal metadata by Peter N. Schweitzer (U.S. Geological Survey, Reston, VA 22092), version 2.9.13, Microsoft Windows Version 5.1; Microsoft Word 2000 9.0
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Accuracy of each attribute is dependent on the accuracy of the original source description and the values calculated by the mining software, dbSEABED. Values are based on filters using fuzzy set theory and represent a measure of truth about the attribute.
+  Logical_Consistency_Report: Data in the usSEABED data collection are based on the observations and analyses of others, filtered through a unifying and mining software. Each source report varies in type of information/data recorded and format. Only those observations that are recorded can be filtered and mined; only presence (not absences) of information can be noted.
+  Completeness_Report: Additional useable data may exist in this area; the authors appreciate any information and leads.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Locational accuracy is dependent on both the accuracy of the navigational technique and the level of detail about the location as recorded in the individual data sources, and may vary widely (e.g., from 0.005 km (differential GPS) in the more recent surveys to greater than 2 km based on radar, Loran, or dead reckoning in the older surveys. Users of the data should note the metadata written about the original sources and use their own criteria for assessing the accuracy of the locations.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: Depth determinations, both water depth and subsample depth, are dependent on the accuracy of the depth determination technique and the level of detail noted in the original source. Users of the data should note the metadata written about the original sources and use their own criteria for assessing the accuracy of the locations.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Various
+          Publication_Date: Unpublished and published material
+          Title: See separate listing, ATL_SRC.txt, and links provided therein, within data publication (see Larger_Work_Citation) for the specific sources and associated metadata.
+          Geospatial_Data_Presentation_Form: Hard copy documents and digital files
+          Publication_Information:
+            Publication_Place: Various publication places
+            Publisher: Various publishers/originators
+          Other_Citation_Details: X number of sources, both published and unpublished, are used as the sources of information for usSEABED. Metadata for each source is linked through the usSEABED source file (ATL_SRC.txt). Sources include the U.S. Geological Survey (USGS), the U.S. Army Corps of Engineers (USACE), Minerals Management Service (MMS), National Oceanic and Atmospheric Administration (NOAA), Virginia Institute of Marine Science (VIMS), the Maryland and New Jersey State Geological Surveys (MGS, NJGS), NOAA's National Geophysical Data Center (NGDC), the Smithsonian Institution, and others.
+      Type_of_Source_Media: Hard copy and digital
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 00001840
+            Ending_Date: 2003
+        Source_Currentness_Reference: Source publication date or date of collection
+      Source_Citation_Abbreviation: Varies with source
+      Source_Contribution: Point locations, descriptions, and various analytical data (textural, granulometric, geochemical, geophysical, acoustic) on sediments, rock exposure, and benthos. Varies with source.
+    Process_Step:
+      Process_Description: Source data may be digitized as necessary (typed or scanned in), with a visual inspection of digitized data to the source report and corrections as necessary, and are tested for completeness in Microsoft Excel as appropriate. Other digital data may be decoded using source-specific programs, downloaded via the web, or sent directly to the USGS or University of Colorado via email. Data are formatted into the dbSEABED Data Entry template (db9_DataEntry.xls, version 08/07/2004) by hand, and tested using the dbSEABED relational database program (RDBi, version 01/05/2005) for correctness of formatting. Data are compiled into source data resource files (DRF) and processed through the dbSEABED data mining program (MNEt, version 04/18/2005) program, using the dbSEABED thesaurus (db9_dct.rtf, version 04/07/2005) and component set up file for U.S. waters (db9_ABUN.txt, version 04/11/2005). Data are iteratively reprocessed and corrected until noted errors are fixed, as recorded by the _RBDS.2fx and _MNE.DGN files. Data are exercised in a GIS for location tests and useability.
+      Source_Produced_Citation_Abbreviation: ATL_CMP.txt
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey
+            Contact_Person: Jamey M. Reid
+          Contact_Position: IT Specialist (Data Management)
+          Contact_Address:
+            Address_Type: Mail and Physical
+            Address: Woods Hole Science Centers
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+            Country: USA
+          Contact_Voice_Telephone: (508) 508-548-8700 x2204
+          Contact_Electronic_Mail_Address: jreid@usgs.gov
+          Contact_Instructions: email preferred
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Point
+      Point_and_Vector_Object_Count: 12025
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.00001
+      Longitude_Resolution: 0.00001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Point
+      Entity_Type_Definition: Sample location
+      Entity_Type_Definition_Source: Source reports
+    Attribute:
+      Attribute_Label: Nod_F
+      Attribute_Definition: Nodule
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: LATITUDE
+    Attribute:
+      Attribute_Label: LONGITUDE
+    Attribute:
+      Attribute_Label: WATERDEPTH
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: SAMPLETOP
+    Attribute:
+      Attribute_Label: SAMPLEBASE
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: SITE
+    Attribute:
+      Attribute_Label: DATASETKEY
+    Attribute:
+      Attribute_Label: SITEKEY
+    Attribute:
+      Attribute_Label: SAMPLEKEY
+    Attribute:
+      Attribute_Label: SAMPLER
+    Attribute:
+      Attribute_Label: DATATYPE
+    Attribute:
+      Attribute_Label: QTZ
+    Attribute:
+      Attribute_Label: FLD
+    Attribute:
+      Attribute_Label: MICA
+    Attribute:
+      Attribute_Label: CLAYMIN
+    Attribute:
+      Attribute_Label: GLAUC
+    Attribute:
+      Attribute_Label: HVY_MIN
+    Attribute:
+      Attribute_Label: MAF
+    Attribute:
+      Attribute_Label: GBBRO
+    Attribute:
+      Attribute_Label: BASLT
+    Attribute:
+      Attribute_Label: ANDEST
+    Attribute:
+      Attribute_Label: GRANIT
+    Attribute:
+      Attribute_Label: IGN_RCK
+    Attribute:
+      Attribute_Label: SCHST
+    Attribute:
+      Attribute_Label: BLUSCHST
+    Attribute:
+      Attribute_Label: SLTE
+    Attribute:
+      Attribute_Label: CHRT
+    Attribute:
+      Attribute_Label: DOLMT
+    Attribute:
+      Attribute_Label: LIMSTN
+    Attribute:
+      Attribute_Label: MUDSTN
+    Attribute:
+      Attribute_Label: SNDSTN
+    Attribute:
+      Attribute_Label: PHSPHT
+    Attribute:
+      Attribute_Label: TRRG
+    Attribute:
+      Attribute_Label: CARB
+    Attribute:
+      Attribute_Label: GLACL
+    Attribute:
+      Attribute_Label: ARTIF_F
+    Attribute:
+      Attribute_Label: SPOIL_F
+    Attribute:
+      Attribute_Label: WOOD
+    Attribute:
+      Attribute_Label: OOL
+    Attribute:
+      Attribute_Label: PELAG
+    Attribute:
+      Attribute_Label: FRM
+    Attribute:
+      Attribute_Label: BNTH_FRM
+    Attribute:
+      Attribute_Label: PLNK_FRM
+    Attribute:
+      Attribute_Label: PTR
+    Attribute:
+      Attribute_Label: NAN
+    Attribute:
+      Attribute_Label: CALC_OOZ
+    Attribute:
+      Attribute_Label: SIL_OOZ
+    Attribute:
+      Attribute_Label: OOZ
+    Attribute:
+      Attribute_Label: DIAT
+    Attribute:
+      Attribute_Label: RAD
+    Attribute:
+      Attribute_Label: ANMNE_F
+    Attribute:
+      Attribute_Label: CRLRF
+    Attribute:
+      Attribute_Label: CRL
+    Attribute:
+      Attribute_Label: CRL_DBR
+    Attribute:
+      Attribute_Label: SOL_CRL
+    Attribute:
+      Attribute_Label: SFTCRL_F
+    Attribute:
+      Attribute_Label: SHL
+    Attribute:
+      Attribute_Label: SHL_DBR
+    Attribute:
+      Attribute_Label: BRYZ
+    Attribute:
+      Attribute_Label: BRACH
+    Attribute:
+      Attribute_Label: ECHNDRM_F
+    Attribute:
+      Attribute_Label: ECHND
+    Attribute:
+      Attribute_Label: ASTERD_F
+    Attribute:
+      Attribute_Label: OPHIURD_F
+    Attribute:
+      Attribute_Label: HOLOTH
+    Attribute:
+      Attribute_Label: SND_DOLLR
+    Attribute:
+      Attribute_Label: CRINOD_F
+    Attribute:
+      Attribute_Label: MLSC
+    Attribute:
+      Attribute_Label: BIV
+    Attribute:
+      Attribute_Label: GSTRPD
+    Attribute:
+      Attribute_Label: RZR_CLM
+    Attribute:
+      Attribute_Label: OYST
+    Attribute:
+      Attribute_Label: SCLLP
+    Attribute:
+      Attribute_Label: SCPHPD
+    Attribute:
+      Attribute_Label: SPNG_F
+    Attribute:
+      Attribute_Label: CRUSTAC
+    Attribute:
+      Attribute_Label: SHRMP_F
+    Attribute:
+      Attribute_Label: CRAB
+    Attribute:
+      Attribute_Label: BRNCL
+    Attribute:
+      Attribute_Label: ANNLD_F
+    Attribute:
+      Attribute_Label: SRPUL
+    Attribute:
+      Attribute_Label: WRM_F
+    Attribute:
+      Attribute_Label: WRM_TBE_F
+    Attribute:
+      Attribute_Label: BIOTURB_F
+    Attribute:
+      Attribute_Label: BURW_F
+    Attribute:
+      Attribute_Label: PIT_F
+    Attribute:
+      Attribute_Label: FCES
+    Attribute:
+      Attribute_Label: MOTL_F
+    Attribute:
+      Attribute_Label: CRNALG
+    Attribute:
+      Attribute_Label: HALMDA
+    Attribute:
+      Attribute_Label: KLP_F
+    Attribute:
+      Attribute_Label: PLNT_F
+    Attribute:
+      Attribute_Label: SEAGRS_F
+    Attribute:
+      Attribute_Label: SFT_ALG_F
+    Attribute:
+      Attribute_Label: PEAT
+    Attribute:
+      Attribute_Label: ORGCBN
+    Attribute:
+      Attribute_Label: GAS
+    Attribute:
+      Attribute_Label: ODR
+    Attribute:
+      Attribute_Label: H2S
+    Attribute:
+      Attribute_Label: DEFRMN_F
+    Attribute:
+      Attribute_Label: FLASR_BED_
+    Attribute:
+      Attribute_Label: GRADD_F
+    Attribute:
+      Attribute_Label: Latitude
+      Attribute_Definition: Latitude coordinate of sample location
+      Attribute_Definition_Source: Source data
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: location information in decimal degrees
+    Attribute:
+      Attribute_Label: Longitude
+      Attribute_Definition: Longitude coordinate of sample location
+      Attribute_Definition_Source: Source data
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: location information in decimal degrees
+    Attribute:
+      Attribute_Label: SampleTop
+      Attribute_Definition: Measured subbottom depth information for each point sample (top)
+      Attribute_Definition_Source: Source data
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Subsample location information in meters
+    Attribute:
+      Attribute_Label: DataSetKey
+      Attribute_Definition: Data set key (relational link)
+      Attribute_Definition_Source: dbSEABED MNEt program
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unique sequential numeric key to SRC file
+    Attribute:
+      Attribute_Label: SiteKey
+      Attribute_Definition: Site key (relational link)
+      Attribute_Definition_Source: dbSEABED MNEt program
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unique sequential numeric key to information about the same site in other usSEABED data files
+    Attribute:
+      Attribute_Label: SampleKey
+      Attribute_Definition: Sample key (relational link)
+      Attribute_Definition_Source: Source data
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unique sequential numeric key to information about the same sample or subsample in other usSEABED data files
+    Attribute:
+      Attribute_Label: DataType
+      Attribute_Definition: Data type
+      Attribute_Definition_Source: Source data
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Source type of data; see table A in the data publication (Larger_Work_Citation).
+    Attribute:
+      Attribute_Label: Qtz
+      Attribute_Definition: Quartz
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Fld
+      Attribute_Definition: Feldspar
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Mica
+      Attribute_Definition: Micas
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Claymin
+      Attribute_Definition: Clay minerals
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Glauc
+      Attribute_Definition: Glauconite
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Hvy_min
+      Attribute_Definition: Heavy minerals
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Maf
+      Attribute_Definition: Mafics
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Gbbro
+      Attribute_Definition: Gabbro
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Baslt
+      Attribute_Definition: Basalt
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Andest
+      Attribute_Definition: Andesite
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Granit
+      Attribute_Definition: Granite
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Ign_rck
+      Attribute_Definition: Igneous rock
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Schst
+      Attribute_Definition: Schist
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Bluschst
+      Attribute_Definition: Blueschist
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Slte
+      Attribute_Definition: Low grade metamorphics
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Chrt
+      Attribute_Definition: Chert
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Dolmt
+      Attribute_Definition: Dolomite
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Limstn
+      Attribute_Definition: Limestone
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Mudstn
+      Attribute_Definition: Mudstone
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Sndstn
+      Attribute_Definition: Sandstone
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Phspht
+      Attribute_Definition: Phosphate/phosphorite
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Trrg
+      Attribute_Definition: Terrigenous
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Carb
+      Attribute_Definition: Carbonate/calcareous
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Glacl
+      Attribute_Definition: Glacial
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Artif_F
+      Attribute_Definition: Artificial
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Spoil_F
+      Attribute_Definition: Spoil/dredge material
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Wood
+      Attribute_Definition: Wood
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Ool
+      Attribute_Definition: Oolite
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Pelag
+      Attribute_Definition: Pelagic
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Frm
+      Attribute_Definition: Foraminifera
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Bnth_frm
+      Attribute_Definition: Benthic foraminifera
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Plnk_frm
+      Attribute_Definition: Planktonic foraminifera
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Ptr
+      Attribute_Definition: Pteropod
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Nan
+      Attribute_Definition: Nannofossil
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Calc_ooz
+      Attribute_Definition: Calcareous ooze
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Ooz
+      Attribute_Definition: Ooze
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Sil_ooz
+      Attribute_Definition: Siliceous ooze
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Diat
+      Attribute_Definition: Diatom
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Rad
+      Attribute_Definition: Radiolaria
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Anmne_F
+      Attribute_Definition: Sea anemone
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Crlrf
+      Attribute_Definition: Coral reef
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Crl
+      Attribute_Definition: Coral
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Crl_dbr
+      Attribute_Definition: Coral debris
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Sol_crl
+      Attribute_Definition: Solitary coral
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Sftcrl_F
+      Attribute_Definition: Soft coral
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Shl
+      Attribute_Definition: Shell
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Shl_dbr
+      Attribute_Definition: Shell debris
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Bryz
+      Attribute_Definition: Bryozoa
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Brach
+      Attribute_Definition: Brachiopod
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Echndrm_F
+      Attribute_Definition: Echinoderm
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Echnd
+      Attribute_Definition: Echinoid
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Asterd_F
+      Attribute_Definition: Asteroid
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Ophiurd_F
+      Attribute_Definition: Ophiuroid
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Holoth
+      Attribute_Definition: Holothurian
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Crinod_F
+      Attribute_Definition: Crinoid
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Mlsc
+      Attribute_Definition: Mollusc
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Biv
+      Attribute_Definition: Bivalve
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Gstrpd
+      Attribute_Definition: Gastropod
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Rzr_clm
+      Attribute_Definition: Razor clam
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Oyst
+      Attribute_Definition: Oyster
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Scllp
+      Attribute_Definition: Scallop
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Scphpd
+      Attribute_Definition: Scaphopod
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Spng_F
+      Attribute_Definition: Sponge
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Crustac
+      Attribute_Definition: Crustacea
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Shrmp_F
+      Attribute_Definition: Shrimp
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Crab
+      Attribute_Definition: Crab
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Brncl
+      Attribute_Definition: Barnacle
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Annld_F
+      Attribute_Definition: Annelid
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Srpul
+      Attribute_Definition: Serpulid
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Wrm_F
+      Attribute_Definition: Worm
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Wrm_tbe_F
+      Attribute_Definition: Worm tube
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Bioturb_F
+      Attribute_Definition: Bioturbation
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Burw_F
+      Attribute_Definition: Burrow
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Pit_F
+      Attribute_Definition: Pit
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Fces
+      Attribute_Definition: Feces
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Motl_F
+      Attribute_Definition: Mottle
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Crnalg
+      Attribute_Definition: Coralline algae
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Halmda
+      Attribute_Definition: Halimeda
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Klp_F
+      Attribute_Definition: Kelp
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Plnt_F
+      Attribute_Definition: Plant
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Seagrs_F
+      Attribute_Definition: Seagrass
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Sft_alg_F
+      Attribute_Definition: Soft algae
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Peat
+      Attribute_Definition: Peat
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Orgcbn
+      Attribute_Definition: Organic carbon
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Gas
+      Attribute_Definition: Gas
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Odr
+      Attribute_Definition: Odor
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: H2s
+      Attribute_Definition: H2S (hydrogen sulfide)
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Defrmn_F
+      Attribute_Definition: Deformation
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Gradd_F
+      Attribute_Definition: Graded bed
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Lamintd_F
+      Attribute_Definition: Laminated
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Ripl
+      Attribute_Definition: Ripple
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Wvy_bed_F
+      Attribute_Definition: Wavy bed
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Mudlmp_F
+      Attribute_Definition: Mud lump
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: MUDLMP_F
+    Attribute:
+      Attribute_Label: SAMPLEPHAS
+    Attribute:
+      Attribute_Label: Scour
+      Attribute_Definition: Scour
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Lmp_F
+      Attribute_Definition: Lump
+      Attribute_Definition_Source: dbSEABED thesaurus; see table D in the data publication (Larger_Work_Citation) for list of triggering major synonyms
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: unknown
+          Attribute_Units_of_Measure: unitless
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: LATITUDE
+    Attribute:
+      Attribute_Label: GRADD_F
+    Attribute:
+      Attribute_Label: LAMINTD_F
+    Attribute:
+      Attribute_Label: LENTICLR_B
+    Attribute:
+      Attribute_Label: PLANR_BED_
+    Attribute:
+      Attribute_Label: RIPL
+    Attribute:
+      Attribute_Label: SCOUR
+    Attribute:
+      Attribute_Label: WVY_BED_F
+    Attribute:
+      Attribute_Label: LMP_F
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey
+        Contact_Person: Jamey M. Reid
+      Contact_Position: IT Specialist (Data Management)
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2204
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: jreid@usgs.gov
+      Contact_Instructions: email preferred
+  Resource_Description: Downloadable Data
+  Distribution_Liability: Although this data set has been used by the U.S. Geological Survey (USGS), no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials. Trade, firm, or product names and other references to non-USGS products and services are provided for information only and do not constitute endorsement or warranty, express or implied, by the USGS, USDOI, or U.S. Government, as to their suitability, content, usefulness, functioning, completeness, or accuracy.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ASCII text
+        Format_Information_Content: Text file containing data input to usSEABED. Fields are comma separated values. First record of file contains field names.
+        File_Decompression_Technique: no compression applied
+        Transfer_Size: 1.86 MB
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/data/atl_cmpt.txt
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/htmldocs/data_cata.htm
+          Access_Instructions: Downloadable thru the WWW
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SHP
+        Format_Specification: ESRI Shapefile
+        Format_Information_Content: The SHP file contains the geospatial data. The SHX file contains the index of the geospatial data. The DBF file contains the attribute data in dBASE format. The PRJ file contains the coordinate system information (optional). The AVL file contains the legend information (optional). The SBN and SBX files contain the spatial index of the geospatial data (optional). The XML file contains the metadata describing the data set <data set name>.shp.xml.  An ASCII version of the metadata file.  A browse graphic showing the data layer coverage and extent (optional).
+        File_Decompression_Technique: winzip
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/data/atl_cmp.zip
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/data/atl_cmp.zip
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/htmldocs/data_cata.htm
+          Access_Instructions: Downloadable thru the WWW
+    Fees: None
+  Technical_Prerequisites: These data are available in Environmental Systems Research Institute (ESRI) shapefile format. The user must have ArcGIS® or ArcView® 3.0 or greater software to read and process the data file. In lieu of ArcView or ArcGIS, the user may utilize another GIS application package capable of importing the data. A free data viewer, arcexplorer, capable of displaying the data is available from ESRI at www.esri.com.
+Metadata_Reference_Information:
+  Metadata_Date: 20050328
+  Metadata_Review_Date: 20050512
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jane A. Reid
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Geologist
+      Contact_Address:
+        Address_Type: Physical and mail
+        Address: 400 Natural Bridges Drive
+        City: Santa Cruz
+        State_or_Province: CA
+        Postal_Code: 95060
+      Contact_Voice_Telephone: 841-427-4727
+      Contact_Electronic_Mail_Address: jareid@usgs.gov
+      Contact_Instructions: email preferred
+  Metadata_Standard_Name: CSDGM Version 2
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

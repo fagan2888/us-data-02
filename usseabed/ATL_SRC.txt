@@ -1,0 +1,170 @@
+DataSetKey,DataSet,SiteKey(Start),SampleKey(Start),SitesOutput,SamplesOutput,WestBounding,EastBounding,NorthBounding,SouthBounding
+1,"Hersey, 1967: Deep Sea Photographs",1,1,12,9,-75.4,-66.4,42.15,29.98
+7,NOAA: Southeast Monitoring and Assessment (SEAMAP) data,13,10,21824,8743,-81.44733,33.53333,36.5,26.93
+8,U.S. EPA: Environmental Monitoring and Assessment Program (EMAP) data,21837,8753,2149,3066,-97.6027,-69.941,42.1917,25.9448
+9,"Sommerfield, 2001: GeoCLUTTER CH01_17 Sediment Grain Size Analysis, New Jersey",23986,11819,6,57,-72.86792,-72.7393,39.33889,39.26698
+10,"Sommerfield, 2003: Upper Delaware Estuary",23992,11876,382,493,-75.58207,39.4596,40.04963,-75.48917
+11,"Data from Cape Henlopen Cruise, CH01_17, 2001",24374,12369,229,264,-73.12977,-72.50887,39.42331,38.99951
+12,"Ardhuin, 2002, coast of Duck, North Carolina",24603,12633,239,237,-75.73817,-74.8375,36.5843,36.11335
+14,"ONR, Cape Henlopen cruise off Martha's Vineyard, August 2002",24842,12870,36,70,-70.57305,-70.55346,41.344,41.31333
+15,"Goff, et al, 2000 (L1400 data)",24878,12940,295,295,-73.745,-72.9467,39.6998,39.2666
+22,National Status and Trends Program: Long Island Sound Contaminants,25173,13235,122,122,-73.9035,-72.0765,41.353,40.76
+23,"NOAA-NMFS, Galveston Laboratory Essential Fish Habitat Project data",25295,13357,173,173,-96.764,-80.788,30.005,24.351
+27,NGDC '073' files,25468,13530,6758,7823,-180,180,81.705,-78.367
+28,"CERCTM54: USACE ICONS Cores, Cape Canaveral, Florida to Georgia",32226,21353,20,65,-81.3389,-80.3498,30.52132,28.3613
+29,"CERCTM34: USACE ICONS Cores, Palm Beach to Cape Kennedy, Florida",32246,21418,73,314,-80.60068,-80.09092,28.30218,27.30223
+30,"CERCTM42: USACE ICONS Cores,  Cape Canaveral, Florida",32319,21732,13,20,-80.5828,-80.428,28.66197,28.09207
+31,"CERCTM29: USACE ICONS Cores, Miami to Palm Beach, Florida",32332,21752,31,185,-80.12392,-80.02321,26.78326,25.68251
+33,"CERCTM45: USACE ICONS Cores, Inner New York Bight",32363,21937,67,391,-74.08417,-73.5839,40.57729,40.27374
+34,"CERCMR82-10: USACE ICONS Cores, Central New Jersey",32430,22328,68,361,-74.3504,-73.9789,39.82517,39.35685
+35,"CERCTP76: USACE ICONS Cores,  Long Island South Shore",32498,22689,131,795,-73.66063,-71.845,41.16785,40.44041
+37,"USACE vibracores: Union Beach, Point Comfort, Sandy Hook, 1998",32629,23484,16,114,-74.1809,-73.9721,40.4806,40.4536
+38,"USACE vibracores: Staten Island, 2000",32645,23598,19,73,-74.0999,-74.0682,40.5623,40.5289
+39,"USACE New York Bight Mud Dump Site, 1988",32664,23671,14,254,-73.8432,-73.8385,40.3733,40.367
+40,"USACE vibracores: Sandy Hook to Manasquan, 1983 - 1989",32678,23925,90,568,-73.9975,-73.9153,40.4402,40.1171
+41,"CERCMR80-4: USACE ICONS Cores, Cape May region, New Jersey",32768,24493,101,294,-75.0404,-74.4987,39.0001,38.7545
+42,USACE: NY/NJ Harbor,32869,24787,189,189,-74.2505,-73.9685,40.60167,40.45117
+46,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 501,33058,24976,7,7,-72.218,-48.348,49.555,39.392
+47,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 502,33065,24983,825,825,-74.972,-70.505,41.848,38.213
+48,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 503,33890,25808,149,149,-70.617,-70.203,41.725,41.23
+49,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 504,34039,25957,37,37,-74.025,-72.075,40.52,39.337
+50,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 505,34076,25994,12,12,-68.197,-64.778,43.673,41.83
+52,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 507,34088,26006,122,122,-74.633,-66.138,40.468,37.035
+54,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 510,34210,26128,3,3,-84.243,-74.87,35.992,25.85
+55,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 511,34213,26131,3,3,-72.458,-72.292,39.63,39.53
+56,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 512,34216,26134,156,156,-70.605,-70.102,42.158,41.752
+57,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 514,34372,26290,331,331,-74.02,71.707,41.37,39.705
+58,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 515,34703,26621,196,196,-70.955,-70.652,41.653,40.487
+59,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 516,34899,26817,22,22,-68.167,-67.65,40.495,40.292
+60,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 517,34921,26839,202,202,-73.122,-70.672,41.683,41.057
+61,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 518,35123,27041,357,357,-74.085,-72.907,40.498,40.097
+62,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 519,35480,27398,150,150,-70.955,-70.625,41.757,40.525
+63,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 520,35630,27548,270,270,-71.442,-71.253,41.645,41.447
+69,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 575,35900,27818,1010,1010,-74.308,-72.188,40.877,40.43
+70,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 576,36910,28828,39,39,-74.037,-73.925,40.572,40.458
+71,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 577,36949,28867,11,11,-73.923,-73.197,40.417,40.092
+77,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 583,36960,28878,20,20,-69.108,-66.042,41.808,40.525
+87,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 593,36980,28898,102,102,-68.777,-67.275,44.472,43.375
+89,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 595,37082,29000,15,15,-81.32,-80.887,31.327,30.393
+90,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 596,37097,29015,27,27,-80.983,-79.975,32.208,31.558
+91,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 597,37124,29042,110,110,-81.953,-76.283,34.778,27.305
+93,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 599,37234,29152,11,11,-76.315,-76.255,37.012,36.982
+95,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 601,37245,29163,112,112,-70.957,-70.303,41.502,41.308
+97,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 603,37357,29275,1,1,-70.977,-70.977,42.283,42.283
+98,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 604,37358,29276,14,14,-66.91,-66.025,45.142,44.475
+103,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 609,37372,29290,2,2,-76.258,-73.733,30.625,30.475
+105,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 613,37374,29292,25,25,-74.067,-74.018,40.67,40.64
+106,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 615,37399,29317,10,10,-68.183,-67.165,44.058,42.257
+107,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 617,37409,29327,41,41,-84.325,-66.617,44.35,23.67
+108,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 618,37450,29368,5,5,-89.15,-76.485,38.347,28.953
+109,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 619,37455,29373,1819,1819,-158.835,144.728,57.017,-33.943
+110,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 620,39274,31192,5,5,-80.652,-80.502,25.052,24.985
+113,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 624,39279,31197,1,1,-67.947,-67.947,36.697,36.697
+115,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 626,39280,31198,610,610,-73.938,-71.857,41.072,40.553
+116,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 627,39890,31808,65,65,-76.445,-75.988,37.005,36.005
+117,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 628,39955,31873,23,23,-75.005,-73.93,40.513,38.908
+118,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 629,39978,31896,138,138,-75.058,-75.003,38.612,38.543
+119,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 630,40116,32034,1,1,-74.142,-74.142,37.675,37.675
+120,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 631,40117,32035,281,281,-74.343,-72.227,40.933,40.418
+121,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 632,40398,32316,160,160,-74.052,-73.793,40.805,40.603
+122,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 633,40558,32476,180,180,-75.04,-73.953,40.2,38.625
+123,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 634,40738,32656,83,83,-73.623,-72.91,41.288,41
+124,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 635,40821,32739,95,95,-74.127,-73.887,40.828,40.563
+125,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 636,40916,32834,137,137,-72.447,-69.467,40.97,39.557
+126,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 637,41053,32971,50,50,-68.308,-67.553,40.61,40.167
+127,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 638,41103,33021,76,76,-72.062,-71.582,41.327,41.078
+128,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 639,41179,33097,8,8,-72.073,-71.587,41.228,41.085
+129,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 640,41187,33105,39,39,-76.047,-75.895,36.967,36.89
+130,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 641,41226,33144,31,31,-70.918,-70.913,41.628,41.625
+132,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 643,41257,33175,290,290,-74.053,-73.868,40.787,40.605
+134,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 645,41547,33465,27,27,-79.258,-76.547,34.68,32.942
+135,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 646,41574,33492,229,229,-73.972,-73.258,40.613,40.368
+136,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 647,41803,33721,3,3,-81.087,-80.297,30.167,29.5
+137,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 648,41806,33724,45,45,-73.51,-73.035,40.998,40
+139,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 651,41851,33769,91,91,-75.327,-71.048,41.108,35.36
+140,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 652,41942,33860,5,5,-95.957,-69.162,38.502,23.737
+143,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 655,41947,33865,4,4,-83.968,-66.605,34.628,23.868
+145,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 665,41951,33869,238,238,-73.452,-71.86,41.357,41.06
+170,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 705,42189,34107,618,618,-74.938,-74.197,38.747,38.022
+171,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 706,42807,34725,782,782,-75.403,-74.493,38.15,37.253
+172,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 707,43589,35507,979,979,-75.99,-74,37.333,36.267
+173,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 708,44568,36486,102,102,-80.083,-79,27.48,25.992
+174,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 709,44670,36588,448,448,-75.942,-75.05,35.498,35.073
+175,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 710,45118,37036,246,246,-80.092,-79.478,32.675,32.285
+176,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 711,45364,37282,59,59,-79.348,-79.155,33.193,32.835
+177,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 712,45423,37341,3,3,-79.658,-79.442,32.908,32.817
+178,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 714,45426,37344,4,4,-75.423,-75.357,35.43,35.263
+179,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 716,45430,37348,83,83,-81.453,-79.338,25.993,23.53
+181,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 718,45513,37431,15,15,-80.925,-79.253,24.663,23.658
+182,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 719,45528,37446,1,1,-68.117,-68.117,30.003,30.003
+185,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 723,45529,37447,199,199,-80.615,-80.025,28.727,25.682
+186,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 724,45728,37646,194,194,-81.5,-80.538,30.743,28.622
+194,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 753,45922,37840,6,6,-81.927,-81.322,24.483,24.267
+195,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 760,45928,37846,4,4,-72.062,-70,39.325,38.8
+196,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 770,45932,37850,1,1,-79.117,-79.117,32.225,32.225
+198,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 779,45933,37851,18,18,-157.973,-66.07,30.085,18.617
+200,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 781,45951,37869,231,231,-131.677,-68.603,55.98,23.943
+205,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 795,46182,38100,6,6,-71.208,-71.083,40.083,39.975
+224,Seafloor Surficial Sediment Descriptions (Deck41) NGDC Data Set G02094: nodcref 887,46188,38106,17,17,-71.982,-71.97,41.323,41.32
+226,"Jones and Schubel, 1980: Distributions of surficial sediment and eelgrass in Great South Bay, New York (from Smith Point, West to Wantagh State Parkway)",46205,38123,582,582,-73.51494,-72.8753,40.76797,40.60064
+227,"Coch, 1986: Sediment characteristics and facies distributions",46787,38705,503,503,-74.24538,-73.92965,40.72627,40.4249
+228,"Maryland Geological Survey: Offshore Sand Resources in Northern Maryland Shoal Fields (Conkwright, et al, 2000)",47290,39208,37,624,-74.95934,-74.90204,38.48056,38.36508
+229,"MMS2000-052, New Jersey vibracores (Byrnes, et al, 2000)",47327,39832,149,149,-74.60657,-73.91528,40.03519,39.08071
+230,National Status and Trends Program: Mussel Watch,47476,39981,451,438,-158.1242,-68.73417,61.13617,21.3025
+231,National Status and Trends Program: Benthic Surveillance,47927,40419,411,249,-166.508,118.178,70.508,25.613
+236,"Smith, 1996",48338,40668,40,327,-74.69661,-74.52696,39.1839,38.97621
+237,"NCGS2001-02: Vibracores from offshore Northern Dare County, North Carolina",48378,40995,56,361,-75.7213,-75.26985,36.25767,35.87297
+238,OBTF_1999: NCDOT Outer Banks Task Force Offshore Sand Resources Study,48434,41356,122,1202,-75.9125,-75.39616,35.79716,35.08959
+239,"VASEDS, 1981",48556,42558,2168,2161,-76.49054,0,37.95667,0
+240,"Chesapeake Bay Earth Science Study (CBESS): Physical Properties of Surficial Sediments, Cheseapeake Bay, Maryland (Tabular Data)",50724,44719,4255,4255,-97.73185,-75.8775,39.44167,19.63333
+241,Smithsonian Institution master sediment data file,54979,48974,18790,20123,-175.55,103.4683,84.135,-66.175
+245,"USGS OFR 98-596: Wrightsville Beach, NC",73769,69097,18,18,-77.80049,-77.76108,34.22441,34.1766
+246,USGS OFR 00-295 (New York Bight Apex) & OFR 00-243 (Southern Long Island),73787,69115,575,575,-73.9712,-71.81784,41.06185,40.03861
+247,"USGS OFR 00-304, Chapter 12, Eastern Long Island Sound",74362,69690,18,18,-72.19939,-72.13677,41.30838,41.26606
+248,"USGS OFR 00-304, Chapter 6 , Long Island Sound",74380,69708,266,262,-73.74664,-72.04336,41.31032,40.86602
+250,USGS BLM/OCS Baltimore Canyon (Mid-Atlantic) data set,74712,69970,499,674,-75.31,-71.8683,39.89,37.0767
+252,USGS OFR 99-010: Oculina Bank,75211,70644,69,69,-80.0325,-79.9483,28.266,27.5412
+264,USGS OFR 02-217: Hudson Shelf Valley,75280,70713,33,44,-73.85759,-73.238,40.39059,39.937
+265,USGS OFR 00-427: Western Massachusetts Bay,75313,70757,98,98,-70.83904,-70.39452,42.51875,42.23197
+266,"USGS/WHOI CONMAR analyses, part 1",75411,70855,2165,5028,-82.00167,-63.53333,46.08667,24.16667
+267,"USGS/WHOI CONMAR analyses, part 2",77576,75883,3902,6286,-82.00167,-63.53333,46.08667,24.16667
+268,Atlantic Margin Coring Project (AMCOR): USGS OFR 76-844,81478,82169,28,402,-80.5175,-67.5975,42.17417,31.14283
+269,Atlantic Margin Coring Project (AMCOR): USGS OFR 81-239,81506,82571,19,205,-80.5175,-67.5975,42.17417,31.14283
+270,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Anan71",81525,82776,118,118,-70.80748,-70.65398,42.90914,42.67794
+271,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Armstrong74 ",81643,82894,81,81,-70.93224,-70.80043,43.18874,43.04803
+272,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Barnhardt96-98",81724,82975,1737,1737,-70.81284,-67.1297,44.57832,42.83383
+273,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Bigelow83-95 ",83461,84712,450,449,-70.29667,-65.67333,44.46667,41.97667
+274,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Bockman65 ",83911,85161,6,6,-71.2083,-71.0833,40.0833,39.975
+275,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Buynevich2001",83917,85167,388,598,-69.95667,-69.74967,44.03417,43.7175
+276,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Folger75 ",84305,85765,187,187,-70.7992,-70,43.8033,42.8333
+277,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Garrison66 ",84492,85952,145,145,-72.447,-69.467,40.97,39.533
+278,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: GOMCSDB ",84637,86097,853,977,-71.1,-67.335,44.678,40.4
+279,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Hollister69 ",85490,87074,53,53,-71.7167,-70.2583,40.7,39.9417
+280,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Hough40 ",85543,87127,198,198,-70.955,-70.652,41.653,41.432
+281,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Hough42 ",85741,87325,156,156,-70.605,-70.102,42.158,41.752
+282,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Johnston94 ",85897,87481,37,64,-70.76403,-70.64098,43.13464,43.0682
+283,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Larsen2002 ",85934,87545,47,47,-69.93104,-69.72576,44.27163,43.79026
+284,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Larsen03 ",85981,87592,12,12,-67.02458,-67.00042,44.906,44.89142
+285,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: McKinney70 ",85993,87604,184,184,-73.25667,-71.8,40.66667,39.68667
+286,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: McMaster60 ",86177,87788,493,493,-71.4417,-71.162,41.7667,41.434
+287,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Meisburger76 ",86670,88281,49,50,-70.9607,-70.6763,42.60013,42.16804
+288,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Mencher68 ",86719,88331,152,152,-71.04633,-70.93078,42.35361,42.27249
+289,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: MNHACoE ",86871,88483,537,537,-70.82417,-67.37163,44.8,42.88818
+290,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Moore63 ",87408,89020,150,150,-70.95556,-70.62639,41.75694,41.41806
+291,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: MWRA",87558,89170,245,245,-71.04583,-70.00018,42.65883,41.89783
+292,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Nelson86 ",87803,89415,23,23,-70.92694,-70.75917,43.17917,43.04056
+293,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Pezzetta62 ",87826,89438,26,31,-67.817,-61.3,44.567,41.75
+294,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Reid82",87852,89469,19,19,-71.8517,-66.85,44.75,40.2537
+295,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Rowe78",87871,89488,25,25,-73.9667,-67.4167,41.5417,33.4433
+296,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Savard66  ",87896,89513,84,84,-72.073,-71.582,41.327,41.078
+297,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Schlee73 ",87980,89597,430,430,-70.9627,-70.001,42.8333,41.7417
+298,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Schwartz65 ",88410,90027,50,50,-68.308,-67.553,40.61,40.167
+299,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Stetson36 ",88460,90077,11,12,-68.15,-67.66389,40.49583,40.28167
+300,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Stetson38 ",88471,90089,225,225,-75.03333,-69.63667,42.81117,37.81667
+301,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Ward01",88696,90314,199,156,-70.701,-70.53648,43.07667,42.91833
+302,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Wigley61 ",88895,90470,223,223,-69.7833,-65.5,42.3667,40.15
+303,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Wigley65 ",89118,90693,382,382,-73.467,-63.967,44.7,39.2
+304,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Willett72 ",89500,91075,89,88,-70.87882,-70.59927,42.56434,42.12188
+305,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: Zimmerman72 ",89589,91163,21,21,-67.65,-46.4,43.8333,38.1333
+306,"USGS OFR 03-001, Surficial sediment data from the Gulf of Maine: NOSGOM",89610,91184,26129,26129,-73.94736,-66.04914,44.70336,40.00215
+307,USGS OFR 00-358: East Coast Sediment Texture Database,115739,117313,8467,10952,-169.0833,170.52,55.28,-16.23207

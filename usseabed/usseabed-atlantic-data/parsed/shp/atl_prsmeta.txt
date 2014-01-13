@@ -1,0 +1,554 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Originator: University of Colorado
+      Publication_Date: 2005
+      Title: ATL_PRS: usSEABED PaRSed data for the entire U.S. Atlantic Coast
+      Edition: 1.0
+      Geospatial_Data_Presentation_Form: vector digital data
+      Online_Linkage: http://pubs.usgs.gov/ds/2005/118/data/atl_prs.zip
+      Online_Linkage: http://pubs.usgs.gov/ds/2005/118/htmldocs/data_cata.htm
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: J.M. Reid
+          Originator: J.A. Reid
+          Originator: C.J. Jenkins
+          Originator: M.E. Hastings
+          Originator: S.J. Williams
+          Originator: L.J. Poppe
+          Publication_Date: 2005
+          Title: usSEABED: Atlantic Coast Offshore Surficial Sediment Data Release
+          Edition: 1.0
+          Series_Information:
+            Series_Name: Data Series
+            Issue_Identification: 118
+          Publication_Information:
+            Publication_Place: Woods Hole Science Center, Woods Hole, MA
+            Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+          Online_Linkage: http://pubs.usgs.gov/ds/2005/118/
+  Description:
+    Abstract: This data layer is a point coverage of known sediment samplings, inspections and probings from the usSEABED data collection and integrated using the software system dbSEABED. This data layer represents the parsed (PRS) output of the dbSEABED mining software. It contains the results of parsing descriptions in the data resources. The PRS data is less precise because it comes from word-based descriptions, but will include information on outsized elements, consolidation that are not usually in EXT data.
+    Purpose: To build a digital mapping of the character of the seabed on regional, national and global scales. These data are intended for science researchers, students, policy makers, and the general public. The data can be used with geographic information systems (GIS) software to display geologic and oceanographic information.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2005
+    Currentness_Reference: publication date
+  Status:
+    Progress: The usSEABED database is a work-in-progress.
+    Maintenance_and_Update_Frequency: As additional information becomes available, and/or significant changes to the data mining software.
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -81.983000
+      East_Bounding_Coordinate: -65.000000
+      North_Bounding_Coordinate: 46.086670
+      South_Bounding_Coordinate: 23.530000
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: analyses
+      Theme_Keyword: CMGP
+      Theme_Keyword: Coastal and Marine Geology Program
+      Theme_Keyword: dbSEABED
+      Theme_Keyword: descriptions
+      Theme_Keyword: geology
+      Theme_Keyword: grain size
+      Theme_Keyword: Marine Aggregates Resources and Processes
+      Theme_Keyword: seabed
+      Theme_Keyword: seafloor
+      Theme_Keyword: sediment data
+      Theme_Keyword: texture
+      Theme_Keyword: U.S. Geological Survey
+      Theme_Keyword: USGS
+      Theme_Keyword: usSEABED
+      Theme_Keyword: Woods Hole Science Center
+      Theme_Keyword: University of Colorado
+      Theme_Keyword: Institute of Arctic and Alpine Research
+      Theme_Keyword: Benthic Habitats (Pacific) Project
+      Theme_Keyword: Pacific Science Center (PSC)
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: oceans and estuaries
+      Theme_Keyword: location
+      Theme_Keyword: geoscientificInformation
+    Place:
+      Place_Keyword_Thesaurus: General
+      Place_Keyword: Atlantic coast
+      Place_Keyword: East Coast
+      Place_Keyword: United States
+      Place_Keyword: Atlantic Ocean
+  Access_Constraints: None
+  Use_Constraints: Public domain data from the U.S. Government are freely redistributable with proper metadata and source attribution. Please recognize the U.S. Geological Survey (USGS) as the source of this information.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jamey Reid
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: IT Specialist (Data Management)
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2204
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: jreid@usgs.gov
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://pubs.usgs.gov/ds/2005/118/data/atl_prs.jpg
+    Browse_Graphic_File_Description: Image map showing extent of data layer coverage
+    Browse_Graphic_File_Type: JPEG
+  Data_Set_Credit: We thank the following interns for their assistance in data entry, coding, and data testing: Viness Ubert, Emma Mitchell, Emily Denham and Shea Quinn.
+  Native_Data_Set_Environment: Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 8.3.0.800
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Accuracy of each attribute is dependent on the accuracy of the lineage data.
+  Logical_Consistency_Report: Data in usSEABED are based on the observations and analyses of others, filtered through a unifying and mining software. Each source report varies in type of information/data recorded and format. Only those observations that are recorded can be filtered and mined; only presence (not absence) or information can be noted.
+  Completeness_Report: Additional useable data may exist in this area; the authors appreciate any information and leads.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Locational accuracy is dependent on the accuracy of the navigational technique from the individual data sources and may vary widely (e.g., from 0.005km (differential GPS) in more recent surveys to greater than 2 km based on radar, Loran, or dead reckoning in older surveys.) Users of the data should use their own criteria for assessing the accuracy of the locations.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: Locational accuracy is dependent on the accuracy of the navigational technique from the individual data sources. Users of the data should use their own criteria for assessing the accuracy of the locations.
+  Lineage:
+    Source_Information:
+      Source_Scale_Denominator: See separate listing within this publication (Larger_Work_Citation) for specific sources and associated metadata.
+      Type_of_Source_Media: various hard copy documents and digital files
+      Source_Contribution: point locations, descriptions and analytical data on many different types of sediment and rock materials and benthos
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 83832
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000000
+      Longitude_Resolution: 0.000000
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: atl_prs
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: LATITUDE
+      Attribute_Definition: Latitude coordinate of sample location
+      Attribute_Definition_Source: source data
+      Attribute_Domain_Values:
+        Range_Domain:
+          Attribute_Units_of_Measure: decimal degrees
+    Attribute:
+      Attribute_Label: LONGITUDE
+      Attribute_Definition: Longitude coordinate of sample location
+      Attribute_Definition_Source: source data
+      Attribute_Domain_Values:
+        Range_Domain:
+          Attribute_Units_of_Measure: decimal degrees
+    Attribute:
+      Attribute_Label: WATERDEPTH
+      Attribute_Definition: measured water depth for site (usually uncorrected)
+      Attribute_Definition_Source: source data
+      Attribute_Domain_Values:
+        Range_Domain:
+          Attribute_Units_of_Measure: meters
+    Attribute:
+      Attribute_Label: SAMPLETOP
+      Attribute_Definition: measured subbottom depth information for each point sample
+      Attribute_Domain_Values:
+        Range_Domain:
+          Attribute_Units_of_Measure: meters
+    Attribute:
+      Attribute_Label: SAMPLEBASE
+      Attribute_Definition: measured subbottom depth information for each point sample
+      Attribute_Domain_Values:
+        Range_Domain:
+          Attribute_Units_of_Measure: meters
+    Attribute:
+      Attribute_Label: SITENAME
+      Attribute_Definition: Survey or laboratory code for site (non-unique)
+    Attribute:
+      Attribute_Label: DATASETKEY
+      Attribute_Definition: Unique sequential numeric key to SRC file
+      Attribute_Definition_Source: dbSEABED processing software
+    Attribute:
+      Attribute_Label: SITEKEY
+      Attribute_Definition: Unique sequential numeric key to SRC file
+      Attribute_Definition_Source: dbSEABED processing software
+    Attribute:
+      Attribute_Label: SAMPLEKEY
+      Attribute_Definition: Unique sequential numeric key to SRC file
+      Attribute_Definition_Source: dbSEABED processing software
+    Attribute:
+      Attribute_Label: SAMPLER
+      Attribute_Definition: Equipment used to collect samples
+      Attribute_Definition_Source: Original data source
+    Attribute:
+      Attribute_Label: DATATYPES
+      Attribute_Definition: Type of data that were used to derive values held in characterization
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ACU
+          Enumerated_Domain_Value_Definition: Acoustic Properties
+          Enumerated_Domain_Value_Definition_Source: dbSEABED Data Entry Template
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CMP
+          Enumerated_Domain_Value_Definition: Sediment Composition
+          Enumerated_Domain_Value_Definition_Source: dbSEABED Data Entry Template
+        Enumerated_Domain:
+          Enumerated_Domain_Value: COL
+          Enumerated_Domain_Value_Definition: Color
+          Enumerated_Domain_Value_Definition_Source: dbSEABED Data Entry Template
+        Enumerated_Domain:
+          Enumerated_Domain_Value: GTC
+          Enumerated_Domain_Value_Definition: Geotechnical Properties
+          Enumerated_Domain_Value_Definition_Source: dbSEABED Data Entry Template
+        Enumerated_Domain:
+          Enumerated_Domain_Value: GRZ
+          Enumerated_Domain_Value_Definition: Grain Size
+          Enumerated_Domain_Value_Definition_Source: dbSEABED Data Entry Template
+        Enumerated_Domain:
+          Enumerated_Domain_Value: TXR
+          Enumerated_Domain_Value_Definition: Texture
+          Enumerated_Domain_Value_Definition_Source: dbSEABED Data Entry Template
+        Enumerated_Domain:
+          Enumerated_Domain_Value: TXG
+          Enumerated_Domain_Value_Definition: Texture (Graphic)
+          Enumerated_Domain_Value_Definition_Source: dbSEABED Data Entry Template
+        Enumerated_Domain:
+          Enumerated_Domain_Value: LTH
+          Enumerated_Domain_Value_Definition: Lithology
+          Enumerated_Domain_Value_Definition_Source: dbSEABED Data Entry Template
+    Attribute:
+      Attribute_Label: GRAVEL
+      Attribute_Definition: Gravel grainsize fraction
+      Attribute_Definition_Source: Original data source
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: SAND
+      Attribute_Definition: Sand grainsize fraction
+      Attribute_Definition_Source: Original data source
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: MUD
+      Attribute_Definition: Mud grainsize fraction
+      Attribute_Definition_Source: Original data source
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: CLAY
+      Attribute_Definition: Clay grainsize fraction
+      Attribute_Definition_Source: Original data source
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: GRAINSIZE
+      Attribute_Definition: Phi characteristic grainsize
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -7.3
+          Range_Domain_Maximum: 12
+          Attribute_Units_of_Measure: phi
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: SORTING
+      Attribute_Definition: Phi grainsize dispersion; standard deviation sorting only
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 6
+          Attribute_Units_of_Measure: phi
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: SEABEDCLS
+      Attribute_Definition: Seabed class; (Facies) with the maximum Fuzzy Membership value > 30%
+      Attribute_Definition_Source: dbSEABED processing software
+    Attribute:
+      Attribute_Label: CLSMSHP
+      Attribute_Definition: Class membership; fuzzy membership (%) of above Class (Facies)
+      Attribute_Definition_Source: dbSEABED processing software
+    Attribute:
+      Attribute_Label: FOLKCODE
+      Attribute_Definition: Grainsize classification
+      Attribute_Definition_Source: Folk, Andrews, and Lewis, 1970
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (g)M
+          Enumerated_Domain_Value_Definition: slightly gravelly mud
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (g)mS
+          Enumerated_Domain_Value_Definition: slightly gravelly muddy sand
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (g)sM
+          Enumerated_Domain_Value_Definition: slightly gravelly sandy mud
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (g)S
+          Enumerated_Domain_Value_Definition: slightly gravelly sand
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: G
+          Enumerated_Domain_Value_Definition: gravel
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: gM
+          Enumerated_Domain_Value_Definition: gravelly mud
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: gmS
+          Enumerated_Domain_Value_Definition: gravelly muddy sand
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: gS
+          Enumerated_Domain_Value_Definition: gravelly sand
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: M
+          Enumerated_Domain_Value_Definition: Mud
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: mG
+          Enumerated_Domain_Value_Definition: muddy gravel
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: mS
+          Enumerated_Domain_Value_Definition: muddy sand
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: msG
+          Enumerated_Domain_Value_Definition: muddy sandy gravel
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: S
+          Enumerated_Domain_Value_Definition: sand
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: sG
+          Enumerated_Domain_Value_Definition: sandy gravel
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+        Enumerated_Domain:
+          Enumerated_Domain_Value: sM
+          Enumerated_Domain_Value_Definition: sandy mud
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+    Attribute:
+      Attribute_Label: SHEPARDCOD
+      Attribute_Definition: Shepard code; grain size classification
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CLAYEY SILT
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SANDY SILT
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SAND SILT CLAY
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SILTY CLAY
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SAND
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SILTY SAND
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SEDIMENT
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CLAYEY SAND
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CLAY
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SANDY CLAY
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SILT
+        Enumerated_Domain:
+          Enumerated_Domain_Value: GRAVELLY SEDIMENT
+        Enumerated_Domain:
+          Enumerated_Domain_Value: GRAVEL
+    Attribute:
+      Attribute_Label: ROCKMSHP
+      Attribute_Definition: Rock membership; fuzzy membership (%) reflecting percent exposure of rock
+      Attribute_Definition_Source: dbSEABED processing software
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -99
+          Enumerated_Domain_Value_Definition: no data
+    Attribute:
+      Attribute_Label: WEEDMSHP
+      Attribute_Definition: Weed membership; fuzzy membership (%) reflecting percent abundance of seaweed and seagrass
+      Attribute_Definition_Source: dbSEABED processing software
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -99
+          Enumerated_Domain_Value_Definition: no data
+    Attribute:
+      Attribute_Label: CARBONATE
+      Attribute_Definition: Carbonate, including finest to coarsest sampled fractions
+    Attribute:
+      Attribute_Label: MUNSLCODE
+      Attribute_Definition: Munsell color code
+      Attribute_Definition_Source: GSA Rock-Color Chart, 1991
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: non-unique code based on HVC (Hue, Value, Chroma)
+    Attribute:
+      Attribute_Label: ORGCARBON
+      Attribute_Definition: organic carbon in the sample
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: percent
+    Attribute:
+      Attribute_Label: LGSHEARSTR
+      Attribute_Definition: Undrained compressive shear strength, Log10 of KiloPascals
+      Attribute_Definition_Source: dbSEABED processing software
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: -99
+          Enumerated_Domain_Value_Definition: no data
+          Enumerated_Domain_Value_Definition_Source: dbSEABED software, version MNEt
+    Attribute:
+      Attribute_Label: POROSITY
+      Attribute_Definition: Void volume
+      Attribute_Definition_Source: dbSEABED processing software
+      Attribute_Domain_Values:
+        Range_Domain:
+          Attribute_Units_of_Measure: percent
+    Attribute:
+      Attribute_Label: PWAVEVEL
+      Attribute_Definition: Compressional wave velocity
+      Attribute_Definition_Source: dbSEABED processing software
+      Attribute_Domain_Values:
+        Range_Domain:
+          Attribute_Units_of_Measure: meters/second
+    Attribute:
+      Attribute_Label: ROUGHNESS
+      Attribute_Definition: A coded output representing the V:H of the roughness element with greatest aspect ratio
+      Attribute_Definition_Source: dbSEABED processing software
+      Attribute_Domain_Values:
+        Range_Domain:
+          Attribute_Units_of_Measure: values expressed as (rounded) integer log2 of V and H in cm
+    Attribute:
+      Attribute_Label: LGCRSHST
+      Attribute_Definition: Log Critical Shear Stress, Log10 of Tau in kPa, being the Shear Stress required to initiate easily observable erosion and transport, whether by traction or suspension
+      Attribute_Domain_Values:
+        Range_Domain:
+          Attribute_Units_of_Measure: kPa
+    Attribute:
+      Attribute_Label: SAMPLEPHAS
+      Attribute_Definition: Sample Phase; records whether the results are for the whole, bulk sediment or just to some special part
+      Attribute_Definition_Source: dbSEABED processing software
+      Attribute_Domain_Values:
+        Range_Domain:
+          Attribute_Units_of_Measure: Output as a word-based description that may involve numerics. This field will need to be selected against when GIS mappings of the bulk sedient characters are being mapped. Only blank entries should be included in such a mapping.
+  Overview_Description:
+    Entity_and_Attribute_Overview: Values of -99 for any field are indications that there was no data available.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jamey Reid
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: IT Specialist (Data Management)
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Rd.
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+      Contact_Voice_Telephone: (508) 548-8700 x2204
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: jreid@usgs.gov
+  Resource_Description: Downloadable Data
+  Distribution_Liability: Although this data set has been used by the U.S. Geological Survey (USGS), no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials. Trade, firm, or product names and other references to non-USGS products and services are provided for information only and do not constitute endorsement or warranty, express or implied, by the USGS, USDOI, or U.S. Government, as to their suitability, content, usefulness, functioning, completeness, or accuracy.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ASCII
+        Format_Information_Content: Text file containing data input to usSEABED. Fields are comma separated values. First record of file contains field names.
+        File_Decompression_Technique: no compression applied
+        Transfer_Size: 13.3 MB
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/data/atl_prs.txt
+              Network_Resource_Name: http://www.usgs.gov/ds/2005/118/htmldocs/data_cata.htm
+          Access_Instructions: Downloadable thru the WWW
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: SHP
+        Format_Specification: ESRI Shapefile
+        Format_Information_Content: The SHP file contains the geospatial data. The SHX file contains the index of the geospatial data. The DBF file contains the attribute data in dBASE format. The PRJ file contains the coordinate system information (optional). The AVL file contains the legend information (optional). The SBN and SBX files contain the spatial index of the geospatial data (optional). The XML file contains the metadata describing the data set <data set name>.shp.xml.  An ASCII version of the metadata file.  A browse graphic showing the data layer coverage and extent (optional).
+        File_Decompression_Technique: winzip
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/data/atl_prs.zip
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/ds/2005/118/htmldocs/data_cata.htm
+          Access_Instructions: Downloadable thru the WWW
+    Fees: None
+  Technical_Prerequisites: These data are available in Environmental Systems Research Institute (ESRI) shapefile format. The user must have ArcGIS® or ArcView® 3.0 or greater software to read and process the data file. In lieu of ArcView or ArcGIS, the user may utilize another GIS application package capable of importing the data. A free data viewer, arcexplorer, capable of displaying the data is available from ESRI at www.esri.com.
+Metadata_Reference_Information:
+  Metadata_Date: 20050518
+  Metadata_Review_Date: 20050512
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Jamey Reid
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: IT Specialist (Data Management)
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Rd.
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+      Contact_Voice_Telephone: (508) 548-8700 x2204
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: jreid@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
