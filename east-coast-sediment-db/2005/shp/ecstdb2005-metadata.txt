@@ -1,0 +1,1438 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey
+      Publication_Date: 200508
+      Title: ECSTDB2005 - USGS East Coast Sediment Texture Database (2005)
+      Edition: 2.1
+      Geospatial_Data_Presentation_Form: vector digital data
+      Series_Information:
+        Series_Name: Open-File Report
+        Issue_Identification: 2005-1001
+      Publication_Information:
+        Publication_Place: Woods Hole Science Center, Woods Hole, MA
+        Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+      Online_Linkage: http://pubs.usgs.gov/of/2005/1001/data/surficial_sediments/ecstdb2005.zip
+      Online_Linkage: http://pubs.usgs.gov/of/2005/1001/htmldocs/datacatalog.htm
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: L.J. Poppe
+          Originator: S.J. Williams
+          Originator: V.F. Paskevich
+          Publication_Date: 2005
+          Title: USGS East-Coast Sediment Analysis: Procedures, Database, and GIS Data
+          Edition: 1.0
+          Series_Information:
+            Series_Name: Open-File Report
+            Issue_Identification: 2005-1001
+          Publication_Information:
+            Publication_Place: Woods Hole Science Center, Woods Hole, MA
+            Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+          Other_Citation_Details: Publication and data are released via digital media (either CD-ROM or DVD). This digital publication may also be available via the web at pubs.usgs.gov
+          Online_Linkage: http://pubs.usgs.gov/of/2005/1001/
+  Description:
+    Abstract: This sediment database contains location, description, and texture of samples taken by numerous marine sampling programs.  Most of the samples are from the Atlantic Continental Margin of the United States, but some are from as diverse locations as Lake Baikal, Russia, the Hawaiian Islands region, Puerto Rico, the Gulf of Mexico, and Lake Michigan. The database presently contains data for over 23,000 samples, which includes texture data for approximately 3800 samples taken or analyzed by the Atlantic Continental Margin Program, a joint U.S. Geological Survey/Woods Hole Oceanographic Institution project conducted from 1962 to 1970.
+    Purpose: This ArcView shapefile contains the locations of marine sediment samples collected and analyzed by the U.S. Geological Survey, Woods Hole Science Center starting in 1962 thru 1999.  Distribution of this dataset allows the user the ability to visualize the information in a Geographic Information system.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1955
+        Ending_Date: 2004
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Continually
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -170.520000
+      East_Bounding_Coordinate: 123.556830
+      North_Bounding_Coordinate: 69.460900
+      South_Bounding_Coordinate: -16.232067
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: U.S. Geological Survey
+      Theme_Keyword: USGS
+      Theme_Keyword: Coastal and Marine Geology Program
+      Theme_Keyword: CMGP
+      Theme_Keyword: Woods Hole Science Center
+      Theme_Keyword: WHSC
+      Theme_Keyword: surficial sediments
+      Theme_Keyword: grain size analyses
+      Theme_Keyword: simple bottom descriptions
+      Theme_Keyword: grab sampler
+      Theme_Keyword: coring
+      Theme_Keyword: mud patch
+      Theme_Keyword: seafloor geology
+      Theme_Keyword: sedimentary dynamics
+      Theme_Keyword: sedimentary processes
+      Theme_Keyword: strataform
+      Theme_Keyword: particle-size analysis
+      Theme_Keyword: ArcView shapefile
+      Theme_Keyword: point data
+      Theme_Keyword: ArcView point shapefile
+      Theme_Keyword: Geographic Information System
+      Theme_Keyword: GIS
+      Theme_Keyword: sample location
+      Theme_Keyword: Open-File Report 2005-1001
+      Theme_Keyword: OFR 2005-1001
+      Theme_Keyword: OFR2005-1001
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: oceans and estuaries
+      Theme_Keyword: location
+      Theme_Keyword: geoscientificInformation
+    Place:
+      Place_Keyword_Thesaurus: General
+      Place_Keyword: U.S. Atlantic East Coast
+      Place_Keyword: continental United States
+      Place_Keyword: east coast
+      Place_Keyword: Atlantic Margin
+      Place_Keyword: Florida Platform
+      Place_Keyword: Gulf of Mexico
+      Place_Keyword: Great Lakes
+      Place_Keyword: Arizona
+      Place_Keyword: California
+      Place_Keyword: Connecticut
+      Place_Keyword: Delaware
+      Place_Keyword: Florida
+      Place_Keyword: Georgia
+      Place_Keyword: Hawaii
+      Place_Keyword: Illinois
+      Place_Keyword: Louisiana
+      Place_Keyword: Maine
+      Place_Keyword: Maryland
+      Place_Keyword: Massachusetts
+      Place_Keyword: Nevada
+      Place_Keyword: New Jersey
+      Place_Keyword: New York
+      Place_Keyword: North Carolina
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Rhode Island
+      Place_Keyword: South Carolina
+      Place_Keyword: Virginia
+      Place_Keyword: Washington
+      Place_Keyword: New England
+      Place_Keyword: Pacific
+      Place_Keyword: Bermuda
+      Place_Keyword: Puerto Rico
+      Place_Keyword: Hawaiian Islands
+      Place_Keyword: continental shelf
+      Place_Keyword: continental slope
+      Place_Keyword: Canada
+      Place_Keyword: Nova Scotia
+      Place_Keyword: Italy
+      Place_Keyword: Russia
+      Place_Keyword: West Florida Shelf
+      Place_Keyword: Albermarle Sound
+      Place_Keyword: Aligator River, NC
+      Place_Keyword: Atlantic Canyon
+      Place_Keyword: Baltimore Canyon
+      Place_Keyword: Bay of Fundy
+      Place_Keyword: Bear Seamount
+      Place_Keyword: Blake Escarpment
+      Place_Keyword: Blake Nose
+      Place_Keyword: Blake Plateau
+      Place_Keyword: Blake Ridge
+      Place_Keyword: Block Canyon
+      Place_Keyword: Block Island Sound
+      Place_Keyword: Boston
+      Place_Keyword: Boston Harbor
+      Place_Keyword: Browns Bank
+      Place_Keyword: Buzzards Bay
+      Place_Keyword: Cape Ann
+      Place_Keyword: Cape Charles
+      Place_Keyword: Cape Cod Bay
+      Place_Keyword: Cape Cod National Seashore Park
+      Place_Keyword: Cape Elizabeth
+      Place_Keyword: Cape Hatteras
+      Place_Keyword: Cape Henry
+      Place_Keyword: Cape Fear
+      Place_Keyword: Cape Fear Ridge
+      Place_Keyword: Cape Lookout
+      Place_Keyword: Cape May
+      Place_Keyword: Cape Romain
+      Place_Keyword: Cape Sable
+      Place_Keyword: Casco Bay
+      Place_Keyword: Cashes Ledge
+      Place_Keyword: Charleston
+      Place_Keyword: Chesapeake Bay
+      Place_Keyword: Corsair Canyon
+      Place_Keyword: Delaware Bay
+      Place_Keyword: Delaware River
+      Place_Keyword: Delmar Peninsula
+      Place_Keyword: Deep Water Dumpsite 106
+      Place_Keyword: Dogbone Basin
+      Place_Keyword: DWD 106
+      Place_Keyword: Escollo Arenas
+      Place_Keyword: Falkner Island
+      Place_Keyword: Florida Keys
+      Place_Keyword: Fire Island
+      Place_Keyword: Georges Bank
+      Place_Keyword: Gilbert Canyon
+      Place_Keyword: Gulf of Maine
+      Place_Keyword: Grand Manan Island
+      Place_Keyword: Gulf of Maine
+      Place_Keyword: Heel Tapper Canyon
+      Place_Keyword: Hudson Canyon
+      Place_Keyword: Hudson River
+      Place_Keyword: Hudson Shelf Valley
+      Place_Keyword: Hudson Valley
+      Place_Keyword: Hydrographer Canyon
+      Place_Keyword: Indiana Shoals
+      Place_Keyword: Inner Blake Plateau
+      Place_Keyword: Inner Shelf
+      Place_Keyword: Ipswich Bay
+      Place_Keyword: Isle of Shoals
+      Place_Keyword: Jeffreys Basin
+      Place_Keyword: Jeffreys Ledge
+      Place_Keyword: John Day Reservoir
+      Place_Keyword: Kennebec
+      Place_Keyword: Louisiana
+      Place_Keyword: Lake Titicaca
+      Place_Keyword: Lake Baikal
+      Place_Keyword: Lake Mead
+      Place_Keyword: Lake Michigan
+      Place_Keyword: Little Bahama Bank
+      Place_Keyword: Long Island Sound
+      Place_Keyword: Los Angeles
+      Place_Keyword: Lydonia Canyon
+      Place_Keyword: Mackenzie Delta
+      Place_Keyword: Marblehead
+      Place_Keyword: Marthas Vineyard
+      Place_Keyword: Massachusetts Bay
+      Place_Keyword: Mass Bay
+      Place_Keyword: Mexico
+      Place_Keyword: Mid-Atlantic Bight
+      Place_Keyword: Mid-Atlantic Slope
+      Place_Keyword: Mississippi Fan
+      Place_Keyword: Monomoy Island
+      Place_Keyword: Murray Basin
+      Place_Keyword: Nantucket
+      Place_Keyword: Nantucket Bay
+      Place_Keyword: Nantucket Shoals
+      Place_Keyword: Nantucket Sound
+      Place_Keyword: Narragansett Bay
+      Place_Keyword: Neuse River
+      Place_Keyword: North Carolina
+      Place_Keyword: New Haven Dumpsite
+      Place_Keyword: New Haven Harbor
+      Place_Keyword: NYNJ
+      Place_Keyword: NY-NJ
+      Place_Keyword: New York/New Jersey
+      Place_Keyword: New York Bight
+      Place_Keyword: New York Harbor
+      Place_Keyword: Norfolk Canyon
+      Place_Keyword: Northeast Channel
+      Place_Keyword: Nova Scotia
+      Place_Keyword: Ocean City
+      Place_Keyword: Oceanographer Canyon
+      Place_Keyword: Oculina Bank
+      Place_Keyword: Old Orchard Beach
+      Place_Keyword: Oqunquit
+      Place_Keyword: Oregon Inlet
+      Place_Keyword: Peak Island
+      Place_Keyword: Platts Bank
+      Place_Keyword: Plum Island
+      Place_Keyword: Plymouth
+      Place_Keyword: Popham
+      Place_Keyword: Popham/Kennebec
+      Place_Keyword: Roanoke Point
+      Place_Keyword: Saco Bay
+      Place_Keyword: Scotian Shelf
+      Place_Keyword: South Lake Michigan
+      Place_Keyword: Southwest Washington
+      Place_Keyword: Sandwich Harbor
+      Place_Keyword: Somes Sound
+      Place_Keyword: SBNMS
+      Place_Keyword: Stellwagen Bank National Marine Sanctuary
+      Place_Keyword: Southern Long Island
+      Place_Keyword: Southwest Puerto Rico Shelf
+      Place_Keyword: Toms Canyon
+      Place_Keyword: Veatch Canyon
+      Place_Keyword: Vineyard Sound
+      Place_Keyword: Western Puerto Rico Shelf
+      Place_Keyword: Western Long Island Sound
+      Place_Keyword: Wilkinson Basin
+      Place_Keyword: Wilmington Canyon
+      Place_Keyword: Wrightsville Beach
+  Access_Constraints: None
+  Use_Constraints: Public domain data from the U.S. government is freely redistributable with proper metadata and source attribution.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Larry Poppe
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2314
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: lpoppe@usgs.gov
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://pubs.usgs.gov/of/2005/1001/data/surficial_sediments/ecstdb2005-world-thumb.gif
+    Browse_Graphic_File_Description: Thumbnail image showing location of USGS East Coast surficial sediment samples (ecstdb2005) displayed on world map
+    Browse_Graphic_File_Type: GIF
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://pubs.usgs.gov/of/2005/1001/data/surficial_sediments/ecstdb2005-world.gif
+    Browse_Graphic_File_Description: Location of USGS East Coast surficial sediment samples (ecstdb2005) displayed on world map
+    Browse_Graphic_File_Type: JPEG
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://pubs.usgs.gov/of/2005/1001/data/surficial_sediments/ecstdb2005.jpg
+    Browse_Graphic_File_Description: Image showring location and classification of USGS East Coast Sediment Texture Database surficial samples plotted along the U.S. Atlantic East Coast.
+    Browse_Graphic_File_Type: JPEG
+  Data_Set_Credit: The U.S. Geological Survey must be referenced as the originator of the dataset in any future products or research derived from these data.
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535
+  Cross_Reference:
+    Citation_Information:
+      Originator: Lawrence J. Poppe(ed.)
+      Originator: Chris Polloni(ed.)
+      Publication_Date: 20000501
+      Title: USGS East-Coast Sediment Analysis: Procedures, Database, and Georeferenced Displays
+      Edition: 1.0
+      Series_Information:
+        Series_Name: Open-File Report
+        Issue_Identification: 00-358
+      Publication_Information:
+        Publication_Place: Woods Hole Science Center, Woods Hole, MA
+        Publisher: U.S. Geological Survey, Coastal and Marine Geology Program
+      Other_Citation_Details: Publication OFR2005-1001 supersedes this publication.
+      Online_Linkage: http://pubs.usgs.gov/of/of00-358/
+Data_Quality_Information:
+  Logical_Consistency_Report: No additional checks for topological consistency were performed on this data.
+  Completeness_Report: This data set is complete inasmuch as it contains all the samples processed at the U.S. Geological Survey (USGS), Woods Hole Science Center (WHSC) Sediment Laboratory through November 2004
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Positional accuracy varies due to different systems, datums, and navigational equipment used over the years.
+  Lineage:
+    Source_Information:
+      Type_of_Source_Media: disc
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 20041201
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: ecstdb2005.xls
+      Source_Contribution: This Excel spread sheet contains the accumulated results of the surficial sediment analysis collected and processed by the U.S. Geological Survey (USGS), Woods Hole Science Center (WHSC).  This spread sheet was the source of the data converted to the ESRI shapefile.
+    Process_Step:
+      Process_Description: The requested surficial sediment data fields were exported from the most current Excel spreadsheet available as a comma delimited text file.
+      Source_Used_Citation_Abbreviation: ecstdb2005.xls
+      Process_Date: 20010811
+      Source_Produced_Citation_Abbreviation: ecstdb2005.txt
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey
+            Contact_Person: Polly Hastings
+          Contact_Position: Data Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+            Country: USA
+          Contact_Voice_Telephone: (508) 548-8700
+          Contact_Facsimile_Telephone: (508) 457-2310
+    Process_Step:
+      Process_Description: The comma delimited source file was imported into ArcView to create a table.  The table was then converted to an ArcView shapefile to be used as a GIS data layer.
+      Source_Used_Citation_Abbreviation: ecstdb2005.txt
+      Process_Date: 20050131
+      Source_Produced_Citation_Abbreviation: ecstdb2005.dbf
+      Source_Produced_Citation_Abbreviation: ecst0500.shp
+      Source_Produced_Citation_Abbreviation: ecst0500.shx
+      Source_Produced_Citation_Abbreviation: ecst0500.sbn
+      Source_Produced_Citation_Abbreviation: ecst0500.sbx
+      Source_Produced_Citation_Abbreviation: ecst0500.avl
+      Source_Produced_Citation_Abbreviation: ecstdb2005.shp
+      Source_Produced_Citation_Abbreviation: ecstdb2005.shx
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: U.S. Geological Survey
+            Contact_Person: Larry Poppe
+          Contact_Position: Geologist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543-1598
+            Country: USA
+          Contact_Voice_Telephone: (508) 548-8700 x2314
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: lpoppe@usgs.gov
+    Process_Step:
+      Process_Description: Errors found in the data were corrected for approximately 80 samples. The Excel file was edited and the shape  and text files were regenerated.
+      Source_Used_Citation_Abbreviation: ecstdb2005.xls
+      Process_Date: 2007
+      Source_Produced_Citation_Abbreviation: ecstdb2005.shp
+      Source_Produced_Citation_Abbreviation: ecstdb2005.shx
+      Source_Produced_Citation_Abbreviation: ecstdb2005.dbf
+      Source_Produced_Citation_Abbreviation: ecstdb2005.xls
+      Source_Produced_Citation_Abbreviation: ecstdb2005.txt
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Katherine McMullen
+            Contact_Organization: U.S. Geological Survey
+          Contact_Position: Sediment Lab Technician
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 384 Woods Hole Road
+            City: Woods Hole
+            State_or_Province: MA
+            Postal_Code: 02543
+            Country: USA
+          Contact_Voice_Telephone: (508) 540-8700 x2277
+          Contact_Facsimile_Telephone: (508) 457-2310
+          Contact_Electronic_Mail_Address: kmcmullen@usgs.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Point
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 23308
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000001
+      Longitude_Resolution: 0.000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1927
+      Ellipsoid_Name: Clarke 1866
+      Semi-major_Axis: 6378206.400000
+      Denominator_of_Flattening_Ratio: 294.978698
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: ecstdb2005
+      Entity_Type_Definition: Shapefile Attribute Table
+      Entity_Type_Definition_Source: ESRI
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: GROUP
+      Attribute_Definition: Number assigned to data based on source.
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Samples taken before start of the joint USGS/WHOI project.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: USGS/WHOI Atlantic Continental Margin Program stations
+          Enumerated_Domain_Value_Definition_Source:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: samples analyzed by the USGS Branch of Atlantic Marine Geology Sediment Laboratory
+          Enumerated_Domain_Value_Definition_Source:
+    Attribute:
+      Attribute_Label: DB_ID
+      Attribute_Definition: Unique identification number generated in the sedimentation laboratory of the USGS's Woods Hole Science Center. For samples analyzed after 1980 this identifier consists of 2 characters and 3 numerics (e.g. AS114).  For samples analyzed prior to 1980, this identifier consists of 4 numerics possibly followed by as many as 2 characters.
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+    Attribute:
+      Attribute_Label: FIELD_NO
+      Attribute_Definition: Sample name or number as assigned in the field by the Chief Scientist
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+    Attribute:
+      Attribute_Label: PROJECT
+      Attribute_Definition: Name of project or project number under which samples were taken or data generated; sometimes project name indicates a more specific area
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character string of width 21.
+    Attribute:
+      Attribute_Label: CRUISE_ID
+      Attribute_Definition: Name or number of cruise on which sample collected.  Historically cruise identifiers were a combination of ship name, year of cruise and cruise leg.  In more recent years, cruise identifier is a sequential serial number assigned to field activities within a specific year.
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character string of width 21.
+    Attribute:
+      Attribute_Label: CONTACT
+      Attribute_Definition: Name of Principal Investigator or Chief Scientist responsible for data collection (usually first initial and last name)
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character string of width 12.
+    Attribute:
+      Attribute_Label: AREA
+      Attribute_Definition: General geographic area of data collection.  Name is general enough to easily locate area on a state map.
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character string of width 33.
+    Attribute:
+      Attribute_Label: LATITUDE
+      Attribute_Definition: Latitude coordinate, in decimal-degrees, of sample location.  South latitude recorded as negative values.
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -16.2320670
+          Range_Domain_Maximum: 69.4609
+          Attribute_Units_of_Measure: signed decimal degrees
+          Attribute_Measurement_Resolution: ,00000001
+    Attribute:
+      Attribute_Label: LONGITUDE
+      Attribute_Definition: Longitude coordinate, in decimal degrees, of sample location.  West longitude is recorded as negative values.
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -170.52
+          Range_Domain_Maximum: 123.55683
+          Attribute_Units_of_Measure: signed decimal degrees
+          Attribute_Measurement_Resolution: .00000001
+    Attribute:
+      Attribute_Label: DEPTH_M
+      Attribute_Definition: Measured depth of water overlying sediment at sample time, not corrected for tides, in
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 5001.00
+          Attribute_Units_of_Measure: meters
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: T_DEPTH
+      Attribute_Definition: Top depth of the sample below the sediment-water interface, in centimeters
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 115049
+          Attribute_Units_of_Measure: centimeters
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: B_DEPTH
+      Attribute_Definition: Bottom depth of the sample below the sediment-water interface, in centimeters
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 115054
+          Attribute_Units_of_Measure: centimeters
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: DEVICE
+      Attribute_Definition: Device used to collect the sample.
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character string of width 28.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1 METER PLANKTON NET
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1-METER DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3/4 METER PLANKTON NE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 35MM STEREO CAMERA+DRED
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ANCHOR DREDG
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ANCHOR FLUKES
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ANCHOR SAMPLE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BLAKE TRAWL
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BOOMERANG CORER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BOT DRIFTER SALINOMETER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BOTTOM DRIFTER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BOTTOM DRIFTER BUG
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BOTTOM SKIMMER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BOX CORE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BOX SAMPLER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CAM GRAB W/O CAM+PLANK T
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CAMERA SLED
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CAMPBELL GRAB W/ CAMERA
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CAMPBELL GRAB W/O CAMERA
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CHAIN BAG
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CHAIN BAG DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CHAIN BAG+PIPE DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CHAIN BAG+SM PIPE DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CHAIN BAG+PIPE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CHAIN BAG+PIPE DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CHAIN BAG+SM PIPE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CHAIN BAG+SM PIPE DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CHAIN DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CORING TUBE IN MECH ARM
+        Enumerated_Domain:
+          Enumerated_Domain_Value: D-L SNAPPER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: D-L SNAPPER + DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: D-L SNAPPER + GRAV COR
+        Enumerated_Domain:
+          Enumerated_Domain_Value: DIETZ-LAFOND
+        Enumerated_Domain:
+          Enumerated_Domain_Value: DIETZ-LAFOND GRAB
+        Enumerated_Domain:
+          Enumerated_Domain_Value: DIETZ-LAFOND SNAPPER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: DIGBY DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: DIGBY DREDGE W/ CNVS BAG
+        Enumerated_Domain:
+          Enumerated_Domain_Value: DRAG DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Drilled Sample
+        Enumerated_Domain:
+          Enumerated_Domain_Value: DRILLED SAMPLE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: EDGERTON CAMERA
+        Enumerated_Domain:
+          Enumerated_Domain_Value: GOS ANCHOR CHAIN
+        Enumerated_Domain:
+          Enumerated_Domain_Value: GRAB SAMPLER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: GRAPPLING HOOK
+        Enumerated_Domain:
+          Enumerated_Domain_Value: GRAVITY CORER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: HAND SAMPLE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Hand Sample
+        Enumerated_Domain:
+          Enumerated_Domain_Value: HYDROSTATIC CORE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: HYDROSTATIC CORER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Hydrostatic CORER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: IKU GRAB
+        Enumerated_Domain:
+          Enumerated_Domain_Value: JAPANESE DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: M-VV GRAB + D-LF SNAPPER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: M-VV GRAB + GRAVITY CORE
+          Enumerated_Domain_Value_Definition: modified Van Veen grab sampler and gravity corer
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MECH ARM + CORE DRILL
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MECH ARM W/ CORER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MECH ARM W/ PRY BAR
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MECHANICAL ARM
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MINIATURE VAN VEEN
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MINIATURE VAN VEEN W/O C.
+        Enumerated_Domain:
+          Enumerated_Domain_Value: MODIFIED PIERCE DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NA
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NATURALIST DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: NISKIN SAMPLER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: OTHER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PAUL CORER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PIPE DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PIPE DREDGE AND D-L SNAP
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PIPE DREDGE, 12 INCH
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PISTON CORER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PONAR SAMPLER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PULSE AUGER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: PUSH CORER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Pulse Auger
+        Enumerated_Domain:
+          Enumerated_Domain_Value: RAKED INTO BASKET W/ ARM
+        Enumerated_Domain:
+          Enumerated_Domain_Value: RING NET
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ROCKER DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ROTARY CORER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ROTOSONIC CORER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SALINOMETER, VANDORN BOTS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SCALLOP DREDGE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SCOOP FISH
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SEDIMENT TRAP
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SHIPEK GRAB
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SMALL VAN VEEN
+          Enumerated_Domain_Value_Definition: small Van Veen grab sampler
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SMITH-MAC+MIN W, CAMERA
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SMITH-MACINTYRE GRAB
+          Enumerated_Domain_Value_Definition: Smith-MacIntyre grab sampler
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SMITH-MACINTYRE W/ CAMERA
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SMITH-MACINTYRE W/O CAMERA
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SMITH/MAC AND NISKIN SPL
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SUBMERSIBLE SAMPLE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Submersible Sample
+        Enumerated_Domain:
+          Enumerated_Domain_Value: TRAWL
+        Enumerated_Domain:
+          Enumerated_Domain_Value: TRIGGER CORE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: UNKNOWN
+        Enumerated_Domain:
+          Enumerated_Domain_Value: VAN VEEN AND CORE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: VAN VEEN GRAB
+          Enumerated_Domain_Value_Definition: sample collected with Van Veen grab sampler
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Van Veen Grab
+          Enumerated_Domain_Value_Definition: sample collected with Van Veen grab sampler
+        Enumerated_Domain:
+          Enumerated_Domain_Value: VIBRA CORE
+        Enumerated_Domain:
+          Enumerated_Domain_Value: VISUAL OBSERVATION
+        Enumerated_Domain:
+          Enumerated_Domain_Value: VV GRAB + D-L SNAPPER
+        Enumerated_Domain:
+          Enumerated_Domain_Value: WATER PUMP ONLY
+    Attribute:
+      Attribute_Label: MONTH_COLL
+      Attribute_Definition: Calendar month sample collected
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 12
+          Attribute_Units_of_Measure: month of year
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Month sample was collected is unknown.
+    Attribute:
+      Attribute_Label: DAY_COLL
+      Attribute_Definition: Calendar day sample collected
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 31
+          Attribute_Units_of_Measure: day of month
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Day sample was collected is unknown.
+    Attribute:
+      Attribute_Label: YEAR_COLL
+      Attribute_Definition: Calendar year sample collected
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1955
+          Range_Domain_Maximum: 1999
+          Attribute_Units_of_Measure: year
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Year sample connected is unknown.
+    Attribute:
+      Attribute_Label: MONTH_ANAL
+      Attribute_Definition: Calendar month sample analyzed
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 12
+          Attribute_Units_of_Measure: month of year
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Month sample was analyzed is unknown
+    Attribute:
+      Attribute_Label: DAY_ANAL
+      Attribute_Definition: Calendar day sample analyzed
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 31
+          Attribute_Units_of_Measure: day of month
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Month sample was analyzed is unknown.
+    Attribute:
+      Attribute_Label: YEAR_ANAL
+      Attribute_Definition: Calendar year sample analyzed
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1969
+          Range_Domain_Maximum: 2000
+          Attribute_Units_of_Measure: year
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Year sample was analyzed is unknown.
+    Attribute:
+      Attribute_Label: WEIGHT
+      Attribute_Definition: Weight of wet sample in grams
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 9086.1
+          Attribute_Units_of_Measure: grams
+          Attribute_Measurement_Resolution: .0001
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (blank)
+          Enumerated_Domain_Value_Definition: Weight not computed or recorded.
+    Attribute:
+      Attribute_Label: GRAVEL_PCT
+      Attribute_Definition: Gravel content in percent dry weight of the sample (particles with nominal diameters greater than 2 mm; -1Ø and larger)
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 100.00
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: SAND_PCT
+      Attribute_Definition: Sand content in percent dry weight of the sample (particles with nominal diameters less than 2 mm, but greater than or equal to 0.0625 mm ; 0Ø  through 4Ø )
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 103.02
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: SILT_PCT
+      Attribute_Definition: Silt content in percent dry weight of the sample (particles with nominal diameters less than 0.0625 mm, but greater than or equal to 0.004 mm; 5Ø  through 8Ø , inclusive)
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 100.00
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: CLAY_PCT
+      Attribute_Definition: Clay content in percent dry weight of the sample (particles with nominal diameters less than 0.004 mm; 9Ø  and smaller)
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 94.71
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: CLASSIFICA
+      Attribute_Definition: Sediment Classification - Sediment description based on a rigorous definition, usually Shepard, 1954
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character string of width 19.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BEDROCK
+        Enumerated_Domain:
+          Enumerated_Domain_Value: BOULDERS
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CLAY
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CLAYEY SAND
+        Enumerated_Domain:
+          Enumerated_Domain_Value: CLAYEY SILT
+        Enumerated_Domain:
+          Enumerated_Domain_Value: GRAVEL
+        Enumerated_Domain:
+          Enumerated_Domain_Value: GRAVELLY SEDIMENT
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SAND
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SAND SILT CLAY
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SANDY CLAY
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SANDY SILT
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SILT
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SILTY CLAY
+        Enumerated_Domain:
+          Enumerated_Domain_Value: SILTY SAND
+    Attribute:
+      Attribute_Label: MEDIAN
+      Attribute_Definition: Middle point in the grain size distribution in phi units
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -7.35
+          Range_Domain_Maximum: 10.74
+          Attribute_Units_of_Measure: phi
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: MEAN
+      Attribute_Definition: Average value in the grain size distribution in phi units
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -5.93
+          Range_Domain_Maximum: 10.62
+          Attribute_Units_of_Measure: phi
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: STDEV
+      Attribute_Definition: Standard deviation (root mean square of the deviations) of the grain size distribution in phi units (sorting)
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -0.08
+          Range_Domain_Maximum: 7.16
+          Attribute_Units_of_Measure: phi
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: SKEWNESS
+      Attribute_Definition: Skewness (deviation from symmetrical form) of the grain size distribution in phi units
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -4217.60
+          Range_Domain_Maximum: 123907.67
+          Attribute_Units_of_Measure: phi
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: KURTOSIS
+      Attribute_Definition: Kurtosis (degree of curvature near the mode) of the grain size distribution in phi units
+      Attribute_Definition_Source: USGS Eastcoast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -968709.00
+          Range_Domain_Maximum: 357391.91
+          Attribute_Units_of_Measure: phi
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: MODE1CLASS
+      Attribute_Definition: Mode 1 class - First mode (particle size that occurs the most number of times) in phi units
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -7.500
+          Range_Domain_Maximum: 10.600
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: MODE1FREQ
+      Attribute_Definition: Mode 1 strength - Modal strength of the first mode in percent
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 100.00
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: MODE2CLASS
+      Attribute_Definition: Mode 2 class - Second mode in phi units
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -7.50
+          Range_Domain_Maximum: 13.40
+          Attribute_Units_of_Measure: phi
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: MODE2FREQ
+      Attribute_Definition: Mode 2 strength - Modal strength of the second mode in percent
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 60.50
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: MODE3CLASS
+      Attribute_Definition: Mode 3 class - Third mode in phi units
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -6.50
+          Range_Domain_Maximum: 15.40
+          Attribute_Units_of_Measure: phi
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: MODE3FREQ
+      Attribute_Definition: Mode 3 strength - Modal strength of the third mode in percent
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -2.50
+          Range_Domain_Maximum: 18.15
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: NMODES
+      Attribute_Definition: Number of modes
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 5
+          Attribute_Units_of_Measure: integer count
+          Attribute_Measurement_Resolution: 1
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: blank
+          Enumerated_Domain_Value_Definition: Value not computed or available for sample.
+    Attribute:
+      Attribute_Label: PHIm5
+    Attribute:
+      Attribute_Label: PHIm4
+    Attribute:
+      Attribute_Label: PHIm3
+    Attribute:
+      Attribute_Label: PHIm2
+    Attribute:
+      Attribute_Label: PHIm1
+    Attribute:
+      Attribute_Label: PHIM5
+      Attribute_Definition: -5 Phi - Weight percent of the sample in the -5Ø  fraction (nominal diameter of particles greater than or equal to 32 mm, but less than 64 mm); very coarse pebbles
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 100.00
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHIM4
+      Attribute_Definition: -4 Phi - Weight percent of the sample in the -4Ø fraction (nominal diameter of particles greater than or equal to 16 mm, but less than 32 mm); coarse pebbles
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 100.00
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHIM3
+      Attribute_Definition: -3 Phi - Weight percent of the sample in the -3Ø  fraction (nominal diameter of particles greater than or equal to 8 mm, but less than 16 mm); medium pebbles
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 100.00
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHIM2
+      Attribute_Definition: -2 Phi - Weight percent of the sample in the -2Ø  fraction (nominal diameter of particles greater than or equal to 4 mm, but less than 8 mm); fine pebbles
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -1.00
+          Range_Domain_Maximum: 64.43
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHIM1
+      Attribute_Definition: -1 Phi - Weight percent of the sample in the -1Ø  fraction (nominal diameter of particles greater than or equal to 2 mm, but less than 4 mm); very fine pebbles (granules)
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 97.00
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_0
+      Attribute_Definition: 0 Phi - Weight percent of the sample in the 0Ø fraction (nominal diameters of particles greater than or equal to 1 mm, but less than 2 mm); very coarse sand
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -19.73
+          Range_Domain_Maximum: 86.00
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_1
+      Attribute_Definition: 1 Phi - Weight percent of the sample in the 1Ø  fraction (nominal diameter of particles greater than or equal to 0.5 mm, but less than 1 mm); coarse sand
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 92.67
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_2
+      Attribute_Definition: 2 Phi - Weight percent of the sample in the 2Ø  fraction (nominal diameter of particles greater than or equal to 0.25 mm, but less than 0.5 mm); medium sand
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 96.00
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_3
+      Attribute_Definition: 3 Phi - Weight percent of the sample in the 3Ø  fraction (nominal diameter of particles greater than or equal to 0.125  mm, but less than 0.25 mm); fine sand
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 94.66
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_4
+      Attribute_Definition: 4 Phi - Weight percent of the sample in the 4Ø  fraction (nominal diameters of particles greater than or equal to .0625 mm, but less than 0.125 mm); very fine sand
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 92.75
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_5
+      Attribute_Definition: 5 Phi - Weight percent of the sample in the 5Ø  fraction (nominal diameter of particles greater than or equal to 0.031 mm, but less than 0.0625 mm); coarse silt
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 80.51
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_6
+      Attribute_Definition: 6 Phi - Weight percent of the sample in the 6Ø  fraction (nominal diameter of particles greater than or equal to 0.016 mm, but less than 0.031 mm); medium silt
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 68.32
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_7
+      Attribute_Definition: 7 Phi - Weight percent of the sample in the 7Ø  fraction (nominal diameter of particles greater than or equal to 0.008 mm, but less than 0.016 mm); fine silt
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 47.57
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_8
+      Attribute_Definition: 8 Phi - Weight percent of the sample in the 8Ø fraction (nominal diameter of particles greater than or equal to 0.004 mm, but less than 0.008 mm); very fine silt
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 47.90
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_9
+      Attribute_Definition: 9 Phi - Weight percent of the sample in the 9Ø  fraction (nominal diameter of particles greater than or equal to  0.002 mm, but less than 0.004 mm); coarse clay
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -3.87
+          Range_Domain_Maximum: 45.55
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_10
+      Attribute_Definition: 10 Phi - Weight percent of the sample in the 10Ø  fraction (nominal diameter of particles greater than or equal to 0.001 mm, but less than 0.002 mm); medium clay
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 54.63
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: PHI_11
+      Attribute_Definition: 11 Phi - Weight percent of the sample in the 11Ø  fraction (nominal diameter of particles greater than or equal to 0.5 µm, but less than 0.001 mm); fine clay
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00
+          Range_Domain_Maximum: 55.71
+          Attribute_Units_of_Measure: percent
+          Attribute_Measurement_Resolution: .01
+    Attribute:
+      Attribute_Label: ANALYST
+      Attribute_Definition: Name(usually first initial and last name) of person who performed the grain size or physical properties analysis
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character string of width 43.
+    Attribute:
+      Attribute_Label: ANAL_COMM
+      Attribute_Definition: Comments on analyses - Any further information about sediment analysis for all or specific parameters in this table
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character string of width 154.
+    Attribute:
+      Attribute_Label: LITHOLOGY
+      Attribute_Definition: General lithologic description of sample
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character string of width 72.
+    Attribute:
+      Attribute_Label: COMMENTS
+      Attribute_Definition: Comments on sample collection or lithology
+      Attribute_Definition_Source: USGS East Coast Sediment Texture Database data dictionary
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Character string of width 66.
+  Overview_Description:
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Larry Poppe
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2314
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: lpoppe@usgs.gov
+  Resource_Description: Downloadable Data
+  Distribution_Liability:
+    Although this data set has been used by the U.S. Geological Survey (USGS), no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and/or related materials.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials.
+
+    Trade, firm, or product names and other references to non-USGS products and services are provided for information only and do not constitute endorsement or warranty, express or implied, by the USGS, USDOI, or U.S. Government, as to their suitability, content, usefulness, functioning, completeness, or accuracy.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Shapefile
+        Format_Version_Number: ArcView 3.3
+        Format_Specification: ESRI Shapefile
+        Format_Information_Content: The SHP file contains the geospatial data. The SHX file contains the index of the geospatial data. The DBF file contains the attribute data in dBASE format. The PRJ file contains the coordinate system information (optional). The AVL file contains the legend information (optional). The SBN and SBX files contain the spatial index of the geospatial data (optional). The XML file contains the metadata describing the data set <data set name>.shp.xml.  An ASCII version of the metadata file.  A browse graphic showing the data layer coverage and extent (optional).
+        File_Decompression_Technique: zip 8.0
+        Transfer_Size: 18.875
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/of/2005/1001/data/surficial_sediments/ecstdb2005.zip
+              Network_Resource_Name: http://coastalmap.marine.usgs.gov/GISdata/sedsamples/ecstdb2005/ecstdb2005.zip
+              Network_Resource_Name: http://pubs.usgs.gov/of/2005/1001/htmldocs/datacatalog.htm
+          Access_Instructions: Data are downloadable via the World Wide Web (WWW).
+        Offline_Option:
+          Offline_Media: DVD-ROM
+          Recording_Capacity:
+            Recording_Density: 4.7
+            Recording_Density_Units: Gbyte
+          Compatibility_Information: HFS and ISO9660
+    Fees: None
+  Technical_Prerequisites: These data are available in Environmental Systems Research Institute (ESRI) shapefile format.  The user must have ArcGIS® or ArcView® 3.0 or greater software to read and process the data file.  In lieu of ArcView or ArcGIS, the user may utilize another GIS application package capable of importing data.  A free data viewer, arcexplorer, capable of displaying the data is available from ESRI at www.esri.com.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Larry Poppe
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2314
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: lpoppe@usgs.gov
+  Resource_Description: Downloadable Data
+  Distribution_Liability:
+    Although this data set has been used by the U.S. Geological Survey (USGS), no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and/or related materials.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials.
+
+    Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Microsoft Excel
+        Format_Version_Number: Office 2000
+        Format_Specification: Microsoft Excel spreadsheet
+        Format_Information_Content: Excel spreadsheet containing the data source.
+        File_Decompression_Technique: no compression applied
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/of/2005/1001/data/surficial_sediments/ecstdb2005.xls
+        Offline_Option:
+          Offline_Media: DVD-ROM
+          Recording_Capacity:
+            Recording_Density: 4.75
+            Recording_Density_Units: Gbyte
+          Compatibility_Information: HFS and ISO9660
+    Fees: None
+Distribution_Information:
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ASCII
+        Format_Specification: Comma delimited text file
+        Format_Information_Content: Data exported from the source spreadsheet.
+        File_Decompression_Technique: no compression applied
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://pubs.usgs.gov/of/2005/1001/data/surficial_sediments/ecstdb2005.txt
+        Offline_Option:
+          Offline_Media: DVD-ROM
+          Recording_Capacity:
+            Recording_Density: 4.75
+            Recording_Density_Units: Gbyte
+          Compatibility_Information: HFS and ISO9660
+    Fees: None
+Metadata_Reference_Information:
+  Metadata_Date: 20050428
+  Metadata_Review_Date: 20050513
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Valerie Paskevich
+        Contact_Organization: U.S. Geological Survey
+      Contact_Position: Information Specialist, GIS Coordinator
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: (508) 548-8700 x2281
+      Contact_Facsimile_Telephone: (508) 457-2310
+      Contact_Electronic_Mail_Address: vpaskevich@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
+
