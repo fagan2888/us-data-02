@@ -1,0 +1,209 @@
+IDENTIFICATION_INFORMATION
+
+  Citation:
+    Citation_Information:
+      Originator: ESRI
+      Publication_Date:  
+      Title: Canada Country Bounds
+      Edition: 20000725
+      Geospatial_Data_Presentation_Form: Map
+      Publication_Information:
+        Publication_Place: Redlands, CA
+        Publisher: ESRI
+      Other_Citation_Details:
+      Online_Linkage: http://www.esri.com/data/online
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: USGS Woods Hole Field Center
+          Publication_Date: 20000720
+          Title: USGS East-Coast Sediment Analysis and Georeferenced Displays
+          Publication_Information:
+            Publication_Place: Woods Hole, MA
+            Publisher: USGS Woods hole Field Center
+          Online_Linkage: http://woodshole.er.usgs.gov
+  Description:
+    Abstract:
+    Purpose:
+    Supplemental_Information:
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 
+        Ending_Date: 
+    Currentness_Reference: 
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Continually
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -141.0030
+      East_Bounding_Coordinate: -52.6203
+      North_Bounding_Coordinate: 83.1083
+      South_Bounding_Coordinate: 41.9133
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+    Place:
+      Place_Keyword_Thesaurus: None
+  Access_Constraints:
+  Use_Constraints:
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USGS Woods Hole Field Center
+        Contact_Person: Chris Polloni
+      Contact_Position: Sea Floor Mapping Technology
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: 508-457-2280
+      Contact_Facsimile_Telephone: 508-457-2310
+      Contact_Electronic_Mail_Address: cpolloni@usgs.gov
+      Hours_of_Service: Monday-Friday, 8am-5pm, Eastern Standard Time
+  Native_Data_Set_Environment:
+    ArcView version 3.1 shapefile format
+    h:\texture2\mapping\coastbds\canada.shp
+ 
+DATA_QUALITY_INFORMATION
+
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+  Logical_Consistency_Report:
+  Completeness_Report:
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report:
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+          Publication_Date: 
+          Title: 
+          Edition: 
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: 
+            Publisher: 
+          Other_Citation_Details:
+          Online_Linkage: 
+          Larger_Work_Citation:
+            Citation_Information:
+              Originator: 
+              Publication_Date: 
+              Title: 
+              Publication_Information:
+                Publication_Place: 
+                Publisher: 
+              Online_Linkage: 
+      Source_Scale_Denominator: 
+      Type_of_Source_Media: 
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 
+            Ending_Date: 
+        Source_Currentness_Reference: 
+      Source_Citation_Abbreviation: 
+      Source_Contribution:
+    Process_Step:
+      Process_Description:
+      Source_Used_Citation_Abbreviation: 
+      Process_Date: 
+      Source_Produced_Citation_Abbreviation: 
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Organization: 
+            Contact_Person: 
+          Contact_Position: 
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 
+            City: 
+            State_or_Province: 
+            Postal_Code: 
+            Country: 
+          Contact_Voice_Telephone: 
+          Contact_Facsimile_Telephone: 
+          Contact_Electronic_Mail_Address: 
+          Hours_of_Service: 
+
+SPATIAL_DATA_ORGANIZATION_INFORMATION
+
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: GT-polygon composed of chains
+      Point_and_Vector_Object_Count: 12
+
+SPATIAL_REFERENCE_INFORMATION
+
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 
+      Longitude_Resolution: 
+      Geographic_Coordinate_Units: Decimal Degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1927
+      Ellipsoid_Name: Clarke 1866
+      Semi-major_Axis: 6,378,137
+      Denominator_of_Flattening_Ratio: 298.257
+
+ENTITY_AND_ATTRIBUTE_INFORMATION
+
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+    Entity_and_Attribute_Detail_Citation:
+
+DISTRIBUTION_INFORMATION
+
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USGS Woods Hole Field Center
+        Contact_Person: Chris Polloni
+      Contact_Position: Sea Floor Mapping Technology
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: 508-457-2280
+      Contact_Facsimile_Telephone: 508-457-2310
+      Contact_Electronic_Mail_Address: cpolloni@usgs.gov
+      Hours_of_Service: Monday-Friday, 8am-5pm, Eastern Standard Time
+  Resource_Description:
+  Distribution_Liability:
+
+METADATA_REFERENCE_INFORMATION
+
+  Metadata_Date: 20000726
+  Metadata_Review_Date: 
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: USGS Woods Hole Field Center
+        Contact_Person: Chris Polloni
+      Contact_Position: Sea Floor Mapping Technology
+      Contact_Address:
+        Address_Type: Mailing and physical address
+        Address: 384 Woods Hole Road
+        City: Woods Hole
+        State_or_Province: MA
+        Postal_Code: 02543-1598
+        Country: USA
+      Contact_Voice_Telephone: 508-457-2280
+      Contact_Facsimile_Telephone: 508-457-2310
+      Contact_Electronic_Mail_Address: cpolloni@usgs.gov
+      Hours_of_Service: Monday-Friday, 8am-5pm, Eastern Standard Time
+  Metadata_Standard_Name: FGDC CSDGM
+  Metadata_Standard_Version: FGDC-STD-001-1998
