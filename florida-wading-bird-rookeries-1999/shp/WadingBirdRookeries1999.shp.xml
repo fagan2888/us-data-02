@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Florida Fish and Wildlife Conservation Commission</origin>
+				<pubdate>Unpublished Material</pubdate>
+				<title>Wading Bird Rookeries 1999</title>
+				<edition>2005</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<ftname Sync="TRUE">WadingBirdRookeries1999</ftname><onlink>http://ocean.floridamarine.org/TRGIS_data/Description_Layers_Terrestrial.htm#aves </onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This shapefile contains a range map of wading bird rookeries located in 1999 by the Florida Fish and Wildlife Conservation Commission.
+The Florida Fish and Wildlife Conservation Commission conducted a statewide aerial survey during 26 January-25 June 1999 to locate waterbird (herons, egrets, ibises, spoonbills, storks, anhingas, cormorants, and pelicans) breeding colonies and estimate colony size and species composition. Fixed-wing aircraft were used to fly statewide East-West survey transects at 5-km intervals. Survey routes deviated at times to allow inventory of previously known colonies from earlier surveys. Of the 1,065 sites visited in 1999, 371 (34.8%) were active colonies supporting one or more species of waterbirds, while 694 (65.2%) were inactive sites. The largest number of active colonies (n=158, 42.6%) were located in central Florida between 27º-29ºN latitude; only 72 (19.4%) of the colonies were located in northern Florida above 29ºN; the remaining colonies (n=141, 38.0%) were found in the southern part of the state below 27ºN. Of the 371 active colonies located in 1999, 72.5% (n=269) contained 2 or more nesting species, while only 12.1% (n=45) exhibited 5 or more nesting species. The colonies in the central region tended to contain more species per colony than both the northern and southern regions of the state. Fewer colonies were found in 1999 (n=371) compared to previous statewide surveys during 1976-1978 (n=378) and 1986-1989 (n=635). Except for the brown pelican and cattle egret, most species continued a trend of nesting in smaller numbers and in fewer colonies during 1999 compared to previous surveys. Of the active colonies located in 1999, 51.2% (n=190) were previously undocumented colonies, 43.9% (n=163) were active during 1986-1989, and 21.0% (n=78) were active during 1976-1978. Only 60 (16.2%) 1999 colonies were active during the 1976-1978, 1986-1989, and 1999 surveys.
+
+This database contains records for all known and verified colonies in the state of Florida that were surveyed by the FWC during the period 1999 nesting season. Nests discovered more recently than this are not included in the database. Each year, a number of new colony sites are found. For this reason, users of this database are cautioned that the absence of a colony record for a given property does not necessarily mean wading birds are not present. This colony locator service is not meant to replace a specific on-the-ground survey.  Disturbance to the colony may occur if a visit is made, and many of the colonies are located on private land. Providing these locations does not confer any permission by FWC to access private property. 
+  </abstract>
+			<purpose>These data are available for all people interested in the the Florida black bear in the state of Florida</purpose>
+			<langdata Sync="TRUE">en</langdata><supplinf>Prior to July 1, 2004, the Fish and Wildlife Research Institute (FWRI) was known as the Florida Marine Research Institute (FMRI). The institute name has not been changed in historical data sets or references to work completed by the Florida Marine Research Institute. The institute name has been changed in references to ongoing research, new research, and contact information.</supplinf></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2005</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete for 2005</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-87.336594</westbc>
+				<eastbc Sync="TRUE">-79.890725</eastbc>
+				<northbc Sync="TRUE">31.001255</northbc>
+				<southbc Sync="TRUE">24.488039</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">81441.450602</leftbc><rightbc Sync="TRUE">792379.159808</rightbc><bottombc Sync="TRUE">60233.178465</bottombc><topbc Sync="TRUE">776991.838205</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekey>Florida, FWC</themekey>
+				<themekt>REQUIRED: Reference to a formally registered thesaurus or a similar authoritative source of theme keywords.</themekt></theme>
+		</keywords>
+		<accconst>Available without restriction. All data must be verified by Principal Investigator or Group Database Analyst prior to release.  It is strongly recommended that this data is directly acquired from FWC and not indirectly through other sources which may have changed the data in some way. FWC makes no claims as to the data's suitability for other purposes.</accconst>
+		<useconst>Numeric results should be used with caution as aerial estimates are variable and some species are difficult to detect (i.e., small, dark species nesting under the tree canopy). Some colonies were also visited by ground surveys.  If the ground survey numbers indicated a better count, the results from the ground survey were used.
+
+Acknowledgement of the FWC-FWRI (Florida Fish and Wildlife Conservation Commission-Fish and Wildlife Research Institute) as the data source would be appreciated in any products developed from these data, and such acknowledgment as is standard for citation and legal practices for data source is expected by users of this data.  Please cite the original metadata when using portions of the record to create a similar record of slightly altered data, such as reprojection. If any data are modified or adjusted, please share the edited information with FWC. Users should be aware that comparison with other data sets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in mapping conventions, data collection, and computer processes over time. FWC shall not be liable for improper or incorrect use of this data. These data are not legal documents and are not to be used as such.  This is not a survey data set and should not be utilized as such. These data are not to be used for navigation.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>GIS Specialist</cntpos>
+				<cntvoice>(850) 488-0588</cntvoice>
+				<cntfax>(850) 410-5269</cntfax>
+				<cntemail>gisrequests@myfwc.com</cntemail>
+				<hours>Monday - Friday 8 am -5 pm</hours>
+				<cntaddr><address>Wildlife Technology Services Section</address><address>Florida Fish and Wildlife Conservation Commission</address><addrtype>mailing address</addrtype><address>620 South Meridian St</address><city>Tallahassee</city><state>FL</state><postal>32399-1600</postal><country>USA</country></cntaddr><cntorgp><cntorg>Florida Fish and Wildlife Conservation Commission</cntorg></cntorgp></cntinfo>
+		</ptcontac>
+		<datacred>Created by:
+Florida Fish and Wildlife Conservation Commission
+620 South Meridian St.
+Tallahassee, FL 32344</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="WadingBirdRookeries1999">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">1139</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="WadingBirdRookeries1999"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Point</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">1139</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">PCS_Albers</projcsn></cordsysn><planar><planci><plance Sync="TRUE">coordinate pair</plance><plandu Sync="TRUE">meters</plandu><coordrep><absres Sync="TRUE">0.000000</absres><ordres Sync="TRUE">0.000000</ordres></coordrep></planci><mapproj><mapprojn Sync="TRUE">Albers Conical Equal Area</mapprojn><albers><stdparll Sync="TRUE">24.000000</stdparll><stdparll Sync="TRUE">31.500000</stdparll><longcm Sync="TRUE">-84.000000</longcm><latprjo Sync="TRUE">24.000000</latprjo><feast Sync="TRUE">400000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></albers></mapproj></planar></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="WadingBirdRookeries1999">
+			<enttyp>
+				<enttypl Sync="TRUE">WadingBirdRookeries1999</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">1139</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">ATLASNUM</attrlabl><attalias Sync="TRUE">ATLASNUM</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">DATECH</attrlabl><attalias Sync="TRUE">DATECH</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">DATE_</attrlabl><attalias Sync="TRUE">DATE_</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">OBSERVER</attrlabl><attalias Sync="TRUE">OBSERVER</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr><attr><attrlabl Sync="TRUE">OBSMODE</attrlabl><attalias Sync="TRUE">OBSMODE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">COUNTY</attrlabl><attalias Sync="TRUE">COUNTY</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">12</attwidth></attr><attr><attrlabl Sync="TRUE">CONUM</attrlabl><attalias Sync="TRUE">CONUM</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">LONGDM</attrlabl><attalias Sync="TRUE">LONGDM</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">LATDM</attrlabl><attalias Sync="TRUE">LATDM</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">TOWNSHIP</attrlabl><attalias Sync="TRUE">TOWNSHIP</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">RANGE</attrlabl><attalias Sync="TRUE">RANGE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">SECTION</attrlabl><attalias Sync="TRUE">SECTION</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">6</attwidth></attr><attr><attrlabl Sync="TRUE">GAZPAGE</attrlabl><attalias Sync="TRUE">GAZPAGE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">ERA</attrlabl><attalias Sync="TRUE">ERA</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">2</attwidth></attr><attr><attrlabl Sync="TRUE">NEW90</attrlabl><attalias Sync="TRUE">NEW90</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">STATUS90</attrlabl><attalias Sync="TRUE">STATUS90</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">18</attwidth></attr><attr><attrlabl Sync="TRUE">STATUS80</attrlabl><attalias Sync="TRUE">STATUS80</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">18</attwidth></attr><attr><attrlabl Sync="TRUE">STATUS70</attrlabl><attalias Sync="TRUE">STATUS70</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">18</attwidth></attr><attr><attrlabl Sync="TRUE">SUBSTRAT</attrlabl><attalias Sync="TRUE">SUBSTRAT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">12</attwidth></attr><attr><attrlabl Sync="TRUE">CANOPY</attrlabl><attalias Sync="TRUE">CANOPY</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">12</attwidth></attr><attr><attrlabl Sync="TRUE">LOCATION</attrlabl><attalias Sync="TRUE">LOCATION</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">7</attwidth></attr><attr><attrlabl Sync="TRUE">ISLAND</attrlabl><attalias Sync="TRUE">ISLAND</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">SIZE_</attrlabl><attalias Sync="TRUE">SIZE_</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">12</attwidth></attr><attr><attrlabl Sync="TRUE">SIZECONF</attrlabl><attalias Sync="TRUE">SIZECONF</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">6</attwidth></attr><attr><attrlabl Sync="TRUE">SPECCONF</attrlabl><attalias Sync="TRUE">SPECCONF</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">6</attwidth></attr><attr><attrlabl Sync="TRUE">BRPE</attrlabl><attalias Sync="TRUE">BRPE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">DCCO</attrlabl><attalias Sync="TRUE">DCCO</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">ANHI</attrlabl><attalias Sync="TRUE">ANHI</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">GBHE</attrlabl><attalias Sync="TRUE">GBHE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">GWHE</attrlabl><attalias Sync="TRUE">GWHE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">GREG</attrlabl><attalias Sync="TRUE">GREG</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">SNEG</attrlabl><attalias Sync="TRUE">SNEG</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">LBHE</attrlabl><attalias Sync="TRUE">LBHE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">TCHE</attrlabl><attalias Sync="TRUE">TCHE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">REEG</attrlabl><attalias Sync="TRUE">REEG</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">CAEG</attrlabl><attalias Sync="TRUE">CAEG</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">GRHE</attrlabl><attalias Sync="TRUE">GRHE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">BCNH</attrlabl><attalias Sync="TRUE">BCNH</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">YCNH</attrlabl><attalias Sync="TRUE">YCNH</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">WHIB</attrlabl><attalias Sync="TRUE">WHIB</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">GLIB</attrlabl><attalias Sync="TRUE">GLIB</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">ROSP</attrlabl><attalias Sync="TRUE">ROSP</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">WOST</attrlabl><attalias Sync="TRUE">WOST</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">SMWT</attrlabl><attalias Sync="TRUE">SMWT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">LGWT</attrlabl><attalias Sync="TRUE">LGWT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">SMDK</attrlabl><attalias Sync="TRUE">SMDK</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">LGDK</attrlabl><attalias Sync="TRUE">LGDK</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">3</attwidth></attr><attr><attrlabl Sync="TRUE">LONGDEC</attrlabl><attalias Sync="TRUE">LONGDEC</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth><atnumdec Sync="TRUE">6</atnumdec></attr><attr><attrlabl Sync="TRUE">LATDEC</attrlabl><attalias Sync="TRUE">LATDEC</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth><atnumdec Sync="TRUE">6</atnumdec></attr><attr><attrlabl Sync="TRUE">LONGALB</attrlabl><attalias Sync="TRUE">LONGALB</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr><attr><attrlabl Sync="TRUE">LATALB</attrlabl><attalias Sync="TRUE">LATALB</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr></detailed>
+		<overview><dsoverv>The Florida Fish and Wildlife Conservation Commission conducted a statewide aerial survey during 26 January-25 June 1999 to locate waterbird (herons, egrets, ibises, spoonbills, storks, anhingas, cormorants, and pelicans) breeding colonies and estimate colony size and species composition. Fixed-wing aircraft were used to fly statewide East-West survey transects at 5-km intervals. Survey routes deviated at times to allow inventory of previously known colonies from earlier surveys. Of the 1,065 sites visited in 1999, 371 (34.8%) were active colonies supporting one or more species of waterbirds, while 694 (65.2%) were inactive sites. The largest number of active colonies (n=158, 42.6%) were located in central Florida between 27º-29ºN latitude; only 72 (19.4%) of the colonies were located in northern Florida above 29ºN; the remaining colonies (n=141, 38.0%) were found in the southern part of the state below 27ºN. Of the 371 active colonies located in 1999, 72.5% (n=269) contained 2 or more nesting species, while only 12.1% (n=45) exhibited 5 or more nesting species. The colonies in the central region tended to contain more species per colony than both the northern and southern regions of the state. Fewer colonies were found in 1999 (n=371) compared to previous statewide surveys during 1976-1978 (n=378) and 1986-1989 (n=635). Except for the brown pelican and cattle egret, most species continued a trend of nesting in smaller numbers and in fewer colonies during 1999 compared to previous surveys. Of the active colonies located in 1999, 51.2% (n=190) were previously undocumented colonies, 43.9% (n=163) were active during 1986-1989, and 21.0% (n=78) were active during 1976-1978. Only 60 (16.2%) 1999 colonies were active during the 1976-1978, 1986-1989, and 1999 surveys.</dsoverv></overview></eainfo>
+	<distinfo>
+		<resdesc>Available from the FWC</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.262</transize>
+					<dssize Sync="TRUE">0.031</dssize></digtinfo>
+				<digtopt><onlinopt><computer><networka><networkr>http://research.myfwc.com</networkr></networka></computer></onlinopt></digtopt></digform>
+			<fees>None</fees></stdorder>
+		<distrib><cntinfo><cntorgp><cntorg>Florida Fish and Wildlife Conservation Commission</cntorg></cntorgp><cntvoice>(850) 488-0588</cntvoice><cntfax>(850) 922-5679</cntfax><cntemail>gisrequests@fwc.state.fl.us</cntemail><hours>8-5, Monday - Friday</hours></cntinfo></distrib><distliab>This data set is in the public domain, and the recipient may not assert any proprietary rights thereto nor represent it to anyone as other than a FWC-FWRI produced data set; it is provided "as-is" without warranty of any kind, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The user assumes all responsibility for the accuracy and suitability of this data set for a specific application. In no event will the staff of the Fish and Wildlife Research Institute be liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use of or the inability to use this data set.</distliab></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20100204</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Florida Fish and Wildlife Conservation Commission</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper></cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Tallahassee</city>
+					<state>FL</state>
+					<postal>32399-1600</postal>
+					<address>Florida Fish and Wildlife Conservation Commission</address><address>620 S. Meridian St.</address><country>USA</country></cntaddr>
+				<cntpos>GIS Specialist</cntpos><cntvoice>(850) 488-0588</cntvoice><cntfax>(850) 410-5269</cntfax><cntemail>gisrequests@myfwc.com</cntemail><hours>8-5, Monday - Friday</hours></cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<dataqual><lineage><srcinfo><srctime><timeinfo><sngdate><caldate>2002</caldate></sngdate></timeinfo><srccurr>ground condition</srccurr></srctime></srcinfo></lineage><logic>Logically consistent. All attribute values fall within defined values</logic><complete>Visually inspected for completeness to ensure all values fell within specified ranges.</complete></dataqual><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.3000</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">WadingBirdRookeries1999</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">81441.450602</westBL><eastBL Sync="TRUE">792379.159808</eastBL><northBL Sync="TRUE">776991.838205</northBL><southBL Sync="TRUE">60233.178465</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-87.336594</westBL><eastBL Sync="TRUE">-79.890725</eastBL><northBL Sync="TRUE">31.001255</northBL><southBL Sync="TRUE">24.488039</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\PC-36\D\Bird_FishData12_10_09\FL_BIRD\WadingBirdRookeries1999.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.031</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">PCS_Albers</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="WadingBirdRookeries1999"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">1139</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20100204</mdDateSt><Esri><MetaID>{9F7E93C4-0A08-4708-A7A6-32E3FD97EBC8}</MetaID><CreaDate>20070831</CreaDate><CreaTime>10202300</CreaTime><SyncOnce>FALSE</SyncOnce><ModDate>20100204</ModDate><ModTime>15503200</ModTime><SyncDate>20100204</SyncDate><SyncTime>15503200</SyncTime><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20081024" Time="150136">CopyFeatures "Database Connections\Gleason - Current MRGIS.sde\FMRI.Wildlife_albers\FMRI.wading_bird_rookeries_1999" "C:\Documents and Settings\Daniel.Kiermaier\Desktop\00 TEMP\Wading_bird_rookeries_1999.shp" # 0 0 0</Process></lineage></DataProperties></Esri></metadata>
